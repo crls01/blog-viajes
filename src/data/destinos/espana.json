@@ -1,0 +1,122 @@
+{
+    "id": "espana",
+    "name": "España",
+    "img": "/imagenes/espana.jpg",
+    "keywords": [
+        "España",
+        "viajar a España",
+        "turismo en España",
+        "guía de España",
+        "vacaciones en España",
+        "que ver en España",
+        "dónde dormir en España",
+        "restaurantes en España",
+        "itinerario por España"
+    ],
+    "content": {
+        "intro": "España es un país vibrante y diverso, conocido por su rica historia, playas doradas, deliciosa gastronomía y una mezcla única de culturas. Desde las calles animadas de Madrid hasta los encantadores pueblos de Andalucía, España ofrece una experiencia inolvidable para cualquier tipo de viajero.",
+        "presentacion": "Con más de 40 sitios declarados Patrimonio de la Humanidad por la UNESCO, España es uno de los países más visitados del mundo. Su diversidad geográfica y cultural permite disfrutar desde ciudades cosmopolitas hasta paisajes rurales tranquilos, pasando por montañas, desiertos, costas y archipiélagos.",
+        "comoLlegar": {
+            "titulo": "Cómo llegar a España",
+            "texto": "España está muy bien conectada con el resto del mundo gracias a sus aeropuertos internacionales y su infraestructura ferroviaria y de carreteras.",
+            "aeropuertos": [
+                "Aeropuerto Adolfo Suárez Madrid-Barajas (MAD)",
+                "Aeropuerto de Barcelona-El Prat (BCN)",
+                "Aeropuerto de Málaga-Costa del Sol (AGP)",
+                "Aeropuerto de Valencia (VLC)",
+                "Aeropuerto de Palma de Mallorca (PMI)"
+            ],
+            "otrosMedios": [
+                "Trenes de alta velocidad (AVE) desde Francia",
+                "Autobuses internacionales",
+                "Ferries desde Italia y Marruecos"
+            ]
+        },
+        "dondeDormir": {
+            "titulo": "Dónde dormir en España",
+            "texto": "Las opciones para alojarse en España son variadas y se adaptan a todos los presupuestos. Desde hoteles de lujo en ciudades como Madrid o Barcelona, hasta hostales y apartamentos turísticos en pueblos costeros o rurales.",
+            "zonasPopulares": [
+                "Centro histórico de Sevilla",
+                "Barrio Gótico de Barcelona",
+                "Gran Vía en Madrid",
+                "Casco antiguo de Granada",
+                "Costa del Sol"
+            ],
+            "tipos": [
+                "Hoteles boutique",
+                "Apartamentos turísticos",
+                "Casas rurales",
+                "Hostales y albergues",
+                "Paradores nacionales"
+            ]
+        },
+        "itinerarios": {
+            "titulo": "Itinerarios por España",
+            "texto": "España se puede explorar de muchas formas, ya sea durante un fin de semana o en un recorrido de varias semanas.",
+            "enlacesCTA": [
+                {
+                    "texto": "3 días en Madrid: guía express",
+                    "link": "/itinerarios/3-dias-en-madrid"
+                },
+                {
+                    "texto": "Un fin de semana en Sevilla",
+                    "link": "/itinerarios/fin-de-semana-en-sevilla"
+                },
+                {
+                    "texto": "Ruta por el norte de España en 7 días",
+                    "link": "/itinerarios/norte-espana-7-dias"
+                }
+            ]
+        },
+        "restaurantes": {
+            "titulo": "Dónde comer en España",
+            "texto": "La gastronomía española es una de las más reconocidas del mundo. Tapas, paella, gazpacho, jamón ibérico... cada región tiene su especialidad.",
+            "recomendaciones": [
+                "Botín (Madrid) – el restaurante más antiguo del mundo",
+                "Cal Pep (Barcelona) – famoso por sus tapas",
+                "El Celler de Can Roca (Girona) – 3 estrellas Michelin",
+                "Abac (Barcelona) – alta cocina catalana"
+            ],
+            "masInfo": {
+                "texto": "Descubre los mejores restaurantes por ciudad",
+                "link": "/restaurantes"
+            }
+        },
+        "consejos": {
+            "titulo": "Consejos prácticos para viajar a España",
+            "texto": "Planificar con antelación puede mejorar mucho tu experiencia en España.",
+            "epocas": [
+                "Primavera (abril-junio): clima agradable y menos turistas",
+                "Otoño (septiembre-octubre): temperaturas suaves y buena oferta cultural"
+            ],
+            "transporte": [
+                "El tren es ideal para moverse entre grandes ciudades",
+                "Metro y buses para transporte urbano",
+                "Alquilar coche para explorar zonas rurales o playas"
+            ],
+            "idioma": "El español es el idioma oficial, aunque también se hablan catalán, gallego y euskera en algunas regiones.",
+            "moneda": "Euro (€)"
+        },
+        "masTiempo": {
+            "titulo": "¿Tienes más tiempo?",
+            "texto": "Si puedes extender tu viaje, España tiene mucho más que ofrecer. Aquí algunas recomendaciones para aprovechar tu estancia:",
+            "actividades": [
+                "Escapada a Toledo desde Madrid",
+                "Ruta por los pueblos blancos de Andalucía",
+                "Senderismo en los Pirineos",
+                "Visita a las Islas Canarias"
+            ],
+            "otrosItinerarios": [
+                {
+                    "texto": "10 días por el sur de España",
+                    "link": "/itinerarios/10-dias-sur-espana"
+                },
+                {
+                    "texto": "Viaje gastronómico por el norte",
+                    "link": "/itinerarios/gastronomia-norte"
+                }
+            ]
+        },
+        "conclusion": "España es un destino imprescindible para cualquier viajero. Su mezcla de tradición y modernidad, su cultura vibrante y su gente acogedora hacen que cada visita sea única. Ya sea para una escapada de fin de semana o una aventura de varias semanas, siempre habrá algo nuevo por descubrir en tierras españolas."
+    }
+}
