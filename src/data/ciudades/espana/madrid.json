@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Madrid",
+  "descripcion": "Descubre la capital española, con sus barrios vibrantes y su rica historia.",
+  "img": "/img/cities/espana/madrid1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Madrid, la vibrante capital de España, combina historia, cultura y modernidad en un entorno que nunca duerme. Con sus palacios, museos de renombre mundial, plazas llenas de vida y barrios con personalidad propia, es un destino que enamora tanto a quienes la visitan por primera vez como a quienes repiten. Esta guía está diseñada para ayudarte a descubrir lo mejor de la ciudad, optimizando tu tiempo y ofreciéndote consejos clave para disfrutarla al máximo.</p><img src='/img/cities/espana/madrid_intro.jpg' alt='Vista panorámica de Madrid' />"
+    },
+    {
+      "titulo": "Qué ver en Madrid",
+      "html": "<p>Madrid está repleta de lugares imprescindibles. Aquí te dejamos una selección para que no te pierdas lo más destacado:</p><ul><li><strong>Palacio Real:</strong> una de las residencias reales más grandes de Europa.</li><li><strong>Puerta del Sol y Plaza Mayor:</strong> corazón del centro histórico y lugares emblemáticos.</li><li><strong>Parque del Retiro:</strong> un oasis verde ideal para pasear, remar y relajarse.</li><li><strong>Templo de Debod:</strong> templo egipcio con las mejores puestas de sol de Madrid.</li><li><strong>Museo del Prado, Reina Sofía y Thyssen:</strong> el triángulo del arte.</li></ul><img src='/img/cities/espana/madrid_quever.jpg' alt='Qué ver en Madrid' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Este itinerario está pensado para ver lo esencial sin prisas:</p><h3>Día 1:</h3><ul><li>Puerta del Sol</li><li>Plaza Mayor</li><li>Mercado de San Miguel</li><li>Palacio Real</li><li>Templo de Debod al atardecer</li></ul><h3>Día 2:</h3><ul><li>Museo del Prado</li><li>Parque del Retiro</li><li>Puerta de Alcalá</li><li>Barrio de Salamanca</li><li>Gran Vía</li></ul><h3>Día 3:</h3><ul><li>Chueca y Malasaña</li><li>Museo Reina Sofía</li><li>Lavapiés y tapas por La Latina</li></ul><img src='/img/cities/espana/madrid_itinerario.jpg' alt='Itinerario Madrid' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Madrid ofrece opciones para todos los gustos y bolsillos. Las mejores zonas donde alojarse son:</p><ul><li><strong>Centro (Sol, Gran Vía):</strong> ideal para estar cerca de todo.</li><li><strong>Malasaña y Chueca:</strong> ambiente alternativo y joven.</li><li><strong>La Latina:</strong> perfecta para tapeo y vida nocturna.</li><li><strong>Chamberí y Salamanca:</strong> zonas más tranquilas y exclusivas.</li></ul><img src='/img/cities/espana/madrid_dormir.jpg' alt='Dónde dormir en Madrid' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>La oferta gastronómica en Madrid es infinita. Desde bares de tapas hasta alta cocina:</p><ul><li><strong>Tapas en La Latina:</strong> Cava Baja es una parada obligatoria.</li><li><strong>Mercado de San Miguel:</strong> perfecto para probar de todo.</li><li><strong>Barrio de Salamanca:</strong> restaurantes de autor y comida internacional.</li><li><strong>Malasaña:</strong> opciones vegetarianas, modernas y foodies.</li></ul><img src='/img/cities/espana/madrid_comida.jpg' alt='Dónde comer en Madrid' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Madrid no duerme. La vida nocturna es una de sus grandes fortalezas:</p><ul><li><strong>Teatros y musicales:</strong> en Gran Vía y alrededores.</li><li><strong>Bares y pubs:</strong> en Malasaña, Chueca y Huertas.</li><li><strong>Clubes de noche:</strong> Kapital, Teatro Barceló, Goya Social Club.</li><li><strong>Terrazas:</strong> rooftop en Círculo de Bellas Artes o Azotea del Círculo.</li></ul><img src='/img/cities/espana/madrid_noche.jpg' alt='Vida nocturna Madrid' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Moverse por Madrid es fácil y eficiente:</p><ul><li><strong>Metro:</strong> rápido, económico y con buena cobertura.</li><li><strong>Autobuses y trenes Cercanías:</strong> útiles para moverte por zonas menos centrales.</li><li><strong>BiciMAD:</strong> servicio de bicis eléctricas.</li><li><strong>Caminando:</strong> muchas atracciones están cerca entre sí.</li></ul><img src='/img/cities/espana/madrid_transporte.jpg' alt='Transporte en Madrid' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> español (se habla inglés en zonas turísticas).</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Seguridad:</strong> es segura, pero cuidado con carteristas en zonas concurridas.</li><li><strong>Clima:</strong> veranos muy calurosos, inviernos suaves. Primavera y otoño, ideales.</li><li><strong>Horarios:</strong> la comida suele ser entre 14:00 y 15:30; la cena desde las 21:00.</li></ul><img src='/img/cities/espana/madrid_consejos.jpg' alt='Consejos prácticos para Madrid' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde Madrid puedes hacer escapadas fantásticas en un día:</p><ul><li><strong>Toledo:</strong> ciudad medieval a solo 30 min en tren.</li><li><strong>Segovia:</strong> famosa por su acueducto y cochinillo.</li><li><strong>El Escorial:</strong> monasterio e historia real.</li><li><strong>Ávila:</strong> muralla impresionante y cocina castellana.</li></ul><img src='/img/cities/espana/madrid_escapadas.jpg' alt='Excursiones desde Madrid' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito para ver Madrid?</strong> Recomendamos mínimo 3 días.</li><li><strong>¿Es seguro caminar de noche?</strong> Sí, pero evita zonas solitarias y vigila tus pertenencias.</li><li><strong>¿Dónde comprar entradas para museos o monumentos?</strong> Siempre que puedas, hazlo online con antelación.</li><li><strong>¿Qué tarjeta de transporte me conviene?</strong> Si estás varios días, la tarjeta turística de transporte es ideal.</li><li><strong>¿Se deja propina?</strong> No es obligatoria, pero se agradece (5–10%).</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Madrid es historia, cultura y energía. Perfecta para una escapada o para enamorarse poco a poco de su ritmo. Planifica bien tu ruta y déjate sorprender por una de las capitales más auténticas de Europa.</p><p>📌 Empieza ahora con nuestra guía de itinerario, mapa interactivo y selección de planes imprescindibles.</p><img src='/img/cities/espana/madrid_conclusion.jpg' alt='Madrid desde el cielo' />"
+    }
+  ]
+}

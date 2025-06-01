@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Ciudad de México",
+  "descripcion": "Explora la Ciudad de México, una metrópoli vibrante donde se fusionan historia, cultura y modernidad en cada rincón.",
+  "img": "/img/cities/mexico/cdmx1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Ciudad de México, también conocida como CDMX, es una de las capitales más emocionantes de América Latina. En sus calles se mezclan ruinas aztecas, arquitectura colonial, arte contemporáneo y una gastronomía reconocida mundialmente. Esta guía te ayudará a planificar tu viaje y disfrutar lo mejor que la ciudad tiene para ofrecer.</p><img src='/img/cities/mexico/cdmx_intro.jpg' alt='Vista de Ciudad de México' />"
+    },
+    {
+      "titulo": "Qué ver en Ciudad de México",
+      "html": "<p>Lugares imprescindibles que no te puedes perder:</p><ul><li><strong>Zócalo:</strong> la plaza principal, corazón histórico de la ciudad.</li><li><strong>Catedral Metropolitana:</strong> impresionante construcción barroca.</li><li><strong>Templo Mayor:</strong> restos arqueológicos del imperio azteca.</li><li><strong>Bosque de Chapultepec:</strong> enorme parque con museos, lagos y senderos.</li><li><strong>Museo Frida Kahlo:</strong> en la Casa Azul de Coyoacán.</li></ul><img src='/img/cities/mexico/cdmx_quever.jpg' alt='Qué ver en CDMX' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Ruta ideal para conocer la ciudad:</p><h3>Día 1:</h3><ul><li>Zócalo y alrededores</li><li>Catedral y Templo Mayor</li><li>Cena en el centro histórico</li></ul><h3>Día 2:</h3><ul><li>Chapultepec y Museo Nacional de Antropología</li><li>Paseo por Polanco</li><li>Noche en Roma o Condesa</li></ul><h3>Día 3:</h3><ul><li>Coyoacán y Casa Azul</li><li>Xochimilco en trajinera</li><li>Atardecer en Torre Latinoamericana</li></ul><img src='/img/cities/mexico/cdmx_itinerario.jpg' alt='Itinerario CDMX' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Mejores zonas para alojarte:</p><ul><li><strong>Centro Histórico:</strong> cerca de monumentos y cultura.</li><li><strong>Roma y Condesa:</strong> modernas, artísticas y llenas de vida.</li><li><strong>Polanco:</strong> elegante y exclusivo.</li><li><strong>Coyoacán:</strong> tranquilo y con esencia bohemia.</li></ul><img src='/img/cities/mexico/cdmx_dormir.jpg' alt='Dónde dormir en CDMX' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>La comida mexicana es Patrimonio de la Humanidad:</p><ul><li><strong>Tacos al pastor:</strong> típicos de CDMX, los encontrarás en cada esquina.</li><li><strong>Mercado de San Juan:</strong> cocina exótica y gourmet.</li><li><strong>La Roma-Condesa:</strong> zona de restaurantes modernos.</li><li><strong>Comida callejera:</strong> antojitos como quesadillas, tamales y elotes.</li></ul><img src='/img/cities/mexico/cdmx_comida.jpg' alt='Comida en CDMX' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>La vida nocturna en CDMX es muy variada:</p><ul><li><strong>Zona Rosa:</strong> bares y clubes con mucho ambiente.</li><li><strong>Roma-Condesa:</strong> terrazas, coctelerías y bares indie.</li><li><strong>Centro Histórico:</strong> cantinas y música en vivo.</li><li><strong>Polanco:</strong> opciones más sofisticadas.</li></ul><img src='/img/cities/mexico/cdmx_noche.jpg' alt='Vida nocturna en CDMX' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Opciones de transporte en CDMX:</p><ul><li><strong>Metro:</strong> económico y extenso.</li><li><strong>Metrobús:</strong> ideal para largas distancias.</li><li><strong>Uber o taxis:</strong> seguros y recomendables por la noche.</li><li><strong>Bicicletas Ecobici:</strong> para moverse por zonas céntricas.</li></ul><img src='/img/cities/mexico/cdmx_transporte.jpg' alt='Transporte en Ciudad de México' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> español.</li><li><strong>Moneda:</strong> peso mexicano (MXN).</li><li><strong>Seguridad:</strong> evitar zonas poco turísticas por la noche.</li><li><strong>Altitud:</strong> más de 2.200 m, hidrátate bien.</li><li><strong>Clima:</strong> templado con lluvias en verano.</li></ul><img src='/img/cities/mexico/cdmx_consejos.jpg' alt='Consejos para CDMX' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Recomendaciones desde CDMX:</p><ul><li><strong>Teotihuacán:</strong> pirámides impresionantes a una hora de la ciudad.</li><li><strong>Tepoztlán:</strong> pueblo mágico con energía especial.</li><li><strong>Puebla:</strong> ciudad colonial con gran gastronomía.</li><li><strong>Valle de Bravo:</strong> ideal para escapada natural.</li></ul><img src='/img/cities/mexico/cdmx_escapadas.jpg' alt='Excursiones desde CDMX' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Es segura la ciudad?</strong> Sí, con precauciones normales en zonas turísticas.</li><li><strong>¿Cuántos días necesito?</strong> Mínimo 3 para una buena experiencia.</li><li><strong>¿Qué ropa llevar?</strong> Cómoda y ligera, con chaqueta por la noche.</li><li><strong>¿Se puede beber agua del grifo?</strong> Mejor agua embotellada.</li><li><strong>¿Es fácil moverse?</strong> Sí, con transporte público y apps de movilidad.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Ciudad de México es un destino apasionante, lleno de contrastes, historia y sabor. Con esta guía puedes organizar tu viaje y vivir una experiencia inolvidable en una de las urbes más dinámicas de América.</p><p>📌 Empieza ya a planificar tu visita con nuestras rutas, consejos y recomendaciones para disfrutar al máximo de la capital mexicana.</p><img src='/img/cities/mexico/cdmx_conclusion.jpg' alt='Vista aérea de CDMX' />"
+    }
+  ]
+}

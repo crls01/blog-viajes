@@ -2,41 +2,33 @@ import { Link } from 'react-router-dom';
 import './Home.css';
 import { countries } from '../data/countries.js';
 
-
-// Imágenes de tips
-import tip1 from '../assets/tips/tip1.jpg';
-import tip2 from '../assets/tips/tip2.jpg';
-import tip3 from '../assets/tips/tip3.jpg';
-import tip4 from '../assets/tips/tip4.jpg';
-
-
-
+// Datos de tips, rutas desde /public/img
 const tips = [
     {
         title: 'Activa tu eSIM antes de viajar',
         text: 'Asegúrate de activar tu eSIM en casa y verificar la cobertura en tu destino.',
-        image: tip1,
+        image: '/img/tips/tip1.jpg',
         ctaText: 'Ver eSIMs recomendadas →',
         ctaLink: '/esim-info',
     },
     {
         title: 'Contrata un seguro de viaje adecuado',
         text: 'Protege tu viaje con un seguro que cubra emergencias médicas y cancelaciones.',
-        image: tip2,
+        image: '/img/tips/tip2.jpg',
         ctaText: 'Consulta seguros de viaje →',
         ctaLink: '/seguros',
     },
     {
         title: 'Elige la forma de pago correcta',
         text: 'Usa tarjetas sin comisiones en el extranjero o efectivo según el destino.',
-        image: tip3,
+        image: '/img/tips/tip3.jpg',
         ctaText: 'Más sobre formas de pago →',
         ctaLink: '/formas-pago',
     },
     {
         title: 'Planifica excursiones y actividades',
         text: 'Descubre las mejores excursiones y actividades para aprovechar tu viaje al máximo.',
-        image: tip4,
+        image: '/img/tips/tip4.jpg',
         ctaText: 'Explora excursiones →',
         ctaLink: '/excursiones',
     },
@@ -45,8 +37,9 @@ const tips = [
 export default function Home() {
     return (
         <main className="home-container">
-            <h1 className="home-title">Países disponibles</h1>
+            <h1 className="home-title">Guía de países</h1>
 
+            {/* Lista de países */}
             <section className="country-list">
                 {countries.map((country) => (
                     <Link
@@ -68,6 +61,7 @@ export default function Home() {
                 ))}
             </section>
 
+            {/* Sección de consejos */}
             <section className="tips-section">
                 <h2 className="section-title">Consejos para tu viaje</h2>
                 <div className="tips-grid">

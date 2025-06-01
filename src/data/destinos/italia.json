@@ -1,0 +1,62 @@
+{
+    "id": "italia",
+    "titulo": "Qué ver en Italia: guía práctica para descubrir Milán, Roma y Venecia",
+    "img": "/img/countries/italia.jpg",
+    "ciudades_destacadas": [
+      "milan",
+      "roma",
+      "venecia"
+    ],
+    "secciones": [
+      {
+        "titulo": "Introducción: viajar a Italia",
+        "html": "<p>Italia es uno de los destinos más soñados del mundo. Arte, historia, moda, paisajes y una de las mejores cocinas del planeta. En esta guía te mostramos lo mejor de tres ciudades imprescindibles: Milán, Roma y Venecia.</p><p>Te ayudamos a planear tu viaje con todo lo que necesitas saber sobre cómo llegar, qué ver, dónde alojarte, qué comer y cómo moverte entre ciudades.</p><img src='/img/cities/italia/milan1.jpg' alt='Milán' />"
+      },
+      {
+        "titulo": "¿Cómo llegar a Italia?",
+        "html": "<p>Italia cuenta con varios aeropuertos internacionales. Los más importantes para estas tres ciudades son:</p><ul><li><strong>Milán - Malpensa (MXP):</strong> ideal para empezar por el norte.</li><li><strong>Roma - Fiumicino (FCO):</strong> uno de los más transitados del país.</li><li><strong>Venecia - Marco Polo (VCE):</strong> perfecto si visitas el noreste.</li></ul><p>También puedes moverte entre ciudades fácilmente con trenes de alta velocidad como Italo o Trenitalia.</p><p>🔗 Consulta nuestra guía para saber cómo moverte entre Milán, Roma y Venecia.</p><img src='/img/cities/italia/roma1.jpg' alt='Roma' />"
+      },
+      {
+        "titulo": "Qué ver en Italia: empieza por sus tres joyas",
+        "subsecciones": [
+          {
+            "ciudad": "Milán",
+            "html": "<p>La capital de la moda y el diseño. Admira el Duomo, visita la Galería Vittorio Emanuele II y descubre el arte en 'La Última Cena' de Da Vinci.</p><p>👉 Guía completa de Milán<br>👉 Qué ver en Milán en 2 o 3 días</p><img src='/img/cities/italia/milan2.jpg' alt='Duomo de Milán' />"
+          },
+          {
+            "ciudad": "Roma",
+            "html": "<p>La ciudad eterna, donde cada rincón es historia. Visita el Coliseo, el Foro Romano, la Fontana di Trevi y el Vaticano en un mismo viaje.</p><p>👉 Guía completa de Roma<br>👉 Qué ver en Roma en 3 días</p><img src='/img/cities/italia/roma2.jpg' alt='Coliseo de Roma' />"
+          },
+          {
+            "ciudad": "Venecia",
+            "html": "<p>Una ciudad única construida sobre el agua. Piérdete entre canales, navega en góndola y disfruta de la Plaza de San Marcos y sus puentes.</p><p>👉 Guía completa de Venecia<br>👉 Qué ver en Venecia en 2 días</p><img src='/img/cities/italia/venecia2.jpg' alt='Canales de Venecia' />"
+          }
+        ]
+      },
+      {
+        "titulo": "¿Dónde dormir en Italia?",
+        "html": "<p>Italia tiene alojamientos con mucho encanto. Estas son las mejores zonas donde hospedarse:</p><ul><li><strong>Milán:</strong> centro histórico, Brera o Navigli.</li><li><strong>Roma:</strong> Trastevere, Centro Storico o Monti.</li><li><strong>Venecia:</strong> San Marco, Cannaregio o Dorsoduro.</li></ul><p>🔗 Explora nuestras guías para saber dónde dormir en cada ciudad.</p><img src='/img/cities/italia/venecia3.jpg' alt='Alojamiento Venecia' />"
+      },
+      {
+        "titulo": "Gastronomía: qué y dónde comer",
+        "html": "<p>Italia es sinónimo de buena comida. Cada ciudad tiene sus especialidades regionales:</p><ul><li><strong>Milán:</strong> risotto alla milanese, ossobuco, panettone.</li><li><strong>Roma:</strong> carbonara, amatriciana, supplì y helado artesanal.</li><li><strong>Venecia:</strong> cicchetti, sepia en su tinta, tiramisú.</li></ul><p>🔗 Consulta nuestra guía de dónde comer en Milán, Roma y Venecia.</p><img src='/img/cities/italia/roma3.jpg' alt='Comida romana' />"
+      },
+      {
+        "titulo": "¿Tienes pocos días?",
+        "html": "<p>¿Visitas breves? Estos itinerarios te ayudarán a exprimir cada ciudad:</p><ul><li><strong>Milán:</strong> Milán en 2 días</li><li><strong>Roma:</strong> Roma en 3 días</li><li><strong>Venecia:</strong> Venecia en 48 horas</li></ul><p>👉 Nuestros itinerarios están pensados para ver lo esencial sin estrés.</p><img src='/img/cities/italia/milan3.jpg' alt='Centro de Milán' />"
+      },
+      {
+        "titulo": "Consejos prácticos para viajar a Italia",
+        "html": "<ul><li><strong>Idioma:</strong> italiano (aunque en zonas turísticas se entiende inglés).</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Transporte:</strong> trenes rápidos entre ciudades y metros urbanos.</li><li><strong>Enchufes:</strong> tipo C/L, 230V.</li><li><strong>Mejor época:</strong> primavera (abril-junio) y otoño (septiembre-octubre).</li></ul><p>🔗 Mira más consejos en nuestras guías prácticas de cada ciudad.</p><img src='/img/cities/italia/roma4.jpg' alt='Consejos para Roma' />"
+      },
+      {
+        "titulo": "¿Tienes más tiempo?",
+        "html": "<p>Aprovecha para explorar más allá de las grandes ciudades:</p><ul><li><strong>Desde Milán:</strong> Lago Como, Bérgamo o Turín.</li><li><strong>Desde Roma:</strong> Nápoles, Pompeya o la Costa Amalfitana.</li><li><strong>Desde Venecia:</strong> Murano, Burano o Verona.</li></ul><p>🚄 <strong>Ruta recomendada:</strong> Milán → Roma → Venecia (en tren rápido).</p><p>🔗 Consulta nuestras escapadas desde Milán, Roma y Venecia.</p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>Italia enamora. Con solo tres ciudades puedes sumergirte en su arte, cultura, comida y pasión. Es un destino que se vive intensamente y deja huella.</p><p>📌 Comienza tu viaje aquí:<br>🔗 Viajar a Milán<br>🔗 Descubrir Roma<br>🔗 Guía de Venecia</p>"
+      }
+    ]
+  }
+  

@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Brisbane",
+  "descripcion": "Descubre la vibrante ciudad australiana bañada por el río, con clima cálido y acceso a la costa dorada.",
+  "img": "/img/cities/australia/brisbane1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Brisbane, capital del estado de Queensland, es una ciudad moderna y acogedora que combina rascacielos, cultura y naturaleza. Con un clima cálido durante casi todo el año, es una base perfecta para explorar la costa este de Australia. Esta guía te ayudará a descubrir lo mejor de Brisbane en poco tiempo.</p><img src='/img/cities/australia/brisbane_intro.jpg' alt='Vista de Brisbane' />"
+    },
+    {
+      "titulo": "Qué ver en Brisbane",
+      "html": "<p>Brisbane tiene mucho que ofrecer, desde zonas culturales hasta espacios al aire libre:</p><ul><li><strong>South Bank:</strong> zona cultural y de ocio con parques, museos y la famosa playa artificial.</li><li><strong>Story Bridge:</strong> icono de la ciudad, con opción de subir para vistas panorámicas.</li><li><strong>City Botanic Gardens:</strong> jardines tranquilos a orillas del río.</li><li><strong>Queen Street Mall:</strong> la principal zona comercial.</li><li><strong>Mount Coot-tha Lookout:</strong> mirador con vistas espectaculares de la ciudad.</li></ul><p>👉 Explora nuestro mapa de atracciones de Brisbane.</p><img src='/img/cities/australia/brisbane_quever.jpg' alt='Qué ver en Brisbane' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una escapada perfecta para descubrir Brisbane a fondo:</p><h3>Día 1:</h3><ul><li>South Bank Parklands</li><li>Río Brisbane en ferry CityCat</li><li>Galería de Arte de Queensland</li></ul><h3>Día 2:</h3><ul><li>Mount Coot-tha y jardines botánicos</li><li>Centro de Ciencias de Queensland</li><li>Queen Street Mall</li></ul><h3>Día 3:</h3><ul><li>Story Bridge Adventure Climb</li><li>Excursión a Lone Pine Koala Sanctuary</li><li>Puesta de sol junto al río</li></ul><p>🔗 Descarga el PDF con el itinerario de Brisbane.</p><img src='/img/cities/australia/brisbane_itinerario.jpg' alt='Itinerario Brisbane' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Brisbane tiene opciones para todos los presupuestos. Mejores zonas:</p><ul><li><strong>South Bank:</strong> ideal para turistas, con muchas atracciones cercanas.</li><li><strong>CBD (Centro):</strong> bien conectado y lleno de servicios.</li><li><strong>Fortitude Valley:</strong> moderno y perfecto para salir por la noche.</li><li><strong>West End:</strong> ambiente bohemio y cultural.</li></ul><p>🔗 Consulta nuestras recomendaciones de alojamiento en Brisbane.</p><img src='/img/cities/australia/brisbane_dormir.jpg' alt='Dónde dormir en Brisbane' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>La escena gastronómica de Brisbane es diversa y en constante crecimiento:</p><ul><li><strong>South Bank:</strong> ideal para brunchs y cenas con vistas al río.</li><li><strong>West End:</strong> cafés creativos y cocina internacional.</li><li><strong>Fortitude Valley:</strong> restaurantes modernos y de autor.</li><li><strong>Eat Street Northshore:</strong> mercado gastronómico al aire libre con food trucks y música.</li></ul><p>🔗 Mira nuestra guía de comida en Brisbane.</p><img src='/img/cities/australia/brisbane_comida.jpg' alt='Comida en Brisbane' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Brisbane ofrece una vida nocturna relajada pero muy animada:</p><ul><li><strong>Fortitude Valley:</strong> zona de bares, pubs y discotecas.</li><li><strong>South Bank:</strong> ideal para tomar algo junto al río.</li><li><strong>Caxton Street:</strong> ambiente deportivo y cervecerías.</li><li><strong>Rooftop bars:</strong> Eleven Rooftop Bar, Elixir o The Terrace.</li></ul><p>🔗 Explora las mejores zonas para salir en Brisbane.</p><img src='/img/cities/australia/brisbane_noche.jpg' alt='Vida nocturna en Brisbane' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Brisbane tiene una red de transporte eficiente:</p><ul><li><strong>CityCat:</strong> ferris por el río, rápidos y escénicos.</li><li><strong>Autobuses:</strong> buena cobertura y frecuencia.</li><li><strong>Trenes:</strong> conectan con zonas exteriores.</li><li><strong>Bicicleta:</strong> carriles bici por toda la ciudad y sistema de alquiler.</li></ul><p>🔗 Consulta nuestra guía para moverte por Brisbane.</p><img src='/img/cities/australia/brisbane_transporte.jpg' alt='Transporte en Brisbane' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> inglés.</li><li><strong>Moneda:</strong> dólar australiano (AUD).</li><li><strong>Clima:</strong> subtropical cálido; verano húmedo, invierno suave.</li><li><strong>Seguridad:</strong> ciudad segura y tranquila.</li><li><strong>Enchufes:</strong> tipo I, 230V.</li></ul><p>🔗 Revisa nuestros consejos prácticos para viajar a Brisbane.</p><img src='/img/cities/australia/brisbane_consejos.jpg' alt='Consejos para Brisbane' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Brisbane es un gran punto de partida para explorar lugares cercanos:</p><ul><li><strong>Gold Coast:</strong> playas, surf y parques temáticos.</li><li><strong>Sunshine Coast:</strong> relax y naturaleza.</li><li><strong>Moreton Island:</strong> snorkel, dunas y delfines.</li><li><strong>Springbrook National Park:</strong> cascadas y senderismo.</li></ul><p>🔗 Consulta nuestras escapadas desde Brisbane.</p><img src='/img/cities/australia/brisbane_escapadas.jpg' alt='Excursiones desde Brisbane' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito para ver Brisbane?</strong> 2 a 3 días es lo ideal.</li><li><strong>¿Es fácil moverse sin coche?</strong> Sí, con transporte público y ferris.</li><li><strong>¿Se puede nadar en el río?</strong> No está permitido, pero South Bank tiene una playa artificial excelente.</li><li><strong>¿Cuál es la mejor época para ir?</strong> Entre marzo y mayo o de septiembre a noviembre.</li><li><strong>¿Se puede pagar todo con tarjeta?</strong> Sí, incluso en mercados o buses.</li></ul><p>🔗 Consulta nuestras FAQs sobre Brisbane.</p>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Brisbane es sol, cultura y naturaleza. Ya sea que la explores como destino principal o como parte de una ruta por Australia, es una ciudad que sorprende por su equilibrio entre modernidad y relax. Ideal para quienes buscan una experiencia australiana completa, con buen clima y calidad de vida.</p><p>📌 Comienza tu aventura con nuestros itinerarios, mapas y guías locales para disfrutar Brisbane al máximo.</p><img src='/img/cities/australia/brisbane_conclusion.jpg' alt='Brisbane desde el aire' />"
+    }
+  ]
+}

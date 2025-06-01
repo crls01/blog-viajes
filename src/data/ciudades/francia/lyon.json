@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Lyon",
+  "descripcion": "Descubre la capital gastronómica de Francia, una ciudad con historia, encanto y una escena culinaria de primer nivel.",
+  "img": "/img/cities/francia/lyon1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Lyon es una joya del sureste francés, situada entre París y la Riviera Francesa. Esta ciudad milenaria es conocida por su rica historia romana y renacentista, su arquitectura y, por supuesto, su cocina. Es ideal para una escapada cultural y gastronómica. En esta guía, te contamos todo lo que necesitas saber para disfrutar Lyon al máximo.</p><img src='/img/cities/francia/lyon_intro.jpg' alt='Vista de Lyon' />"
+    },
+    {
+      "titulo": "Qué ver en Lyon",
+      "html": "<p>No te pierdas estos lugares imprescindibles:</p><ul><li><strong>Vieux Lyon:</strong> el casco antiguo, con calles empedradas y arquitectura renacentista.</li><li><strong>Basílica de Notre-Dame de Fourvière:</strong> con vistas espectaculares de la ciudad.</li><li><strong>Presqu'île:</strong> zona comercial y de ocio entre dos ríos.</li><li><strong>Teatros romanos:</strong> testimonio del pasado romano de Lyon.</li><li><strong>Parque de la Tête d'Or:</strong> uno de los parques urbanos más grandes de Francia.</li></ul><img src='/img/cities/francia/lyon_quever.jpg' alt='Qué ver en Lyon' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una ruta para disfrutar de lo mejor de Lyon:</p><h3>Día 1:</h3><ul><li>Casco antiguo (Vieux Lyon) y traboules</li><li>Subida a la Basílica de Fourvière</li><li>Cena en un bouchon típico</li></ul><h3>Día 2:</h3><ul><li>Teatros romanos y museo Galo-Romano</li><li>Presqu'île y compras por Rue de la République</li><li>Río Saona al atardecer</li></ul><h3>Día 3:</h3><ul><li>Parque de la Tête d'Or</li><li>Museo de Bellas Artes</li><li>Crucero fluvial o paseo por la Confluence</li></ul><img src='/img/cities/francia/lyon_itinerario.jpg' alt='Itinerario Lyon' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Mejores zonas para alojarte:</p><ul><li><strong>Vieux Lyon:</strong> encantador y céntrico.</li><li><strong>Presqu'île:</strong> cerca de tiendas y restaurantes.</li><li><strong>Confluence:</strong> moderna y bien comunicada.</li><li><strong>Croix-Rousse:</strong> bohemio y tranquilo.</li></ul><img src='/img/cities/francia/lyon_dormir.jpg' alt='Dónde dormir en Lyon' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Lyon es la capital gastronómica de Francia. Prueba:</p><ul><li><strong>Los bouchons:</strong> restaurantes tradicionales con platos como quenelle, andouillette o gratin dauphinois.</li><li><strong>Les Halles de Lyon-Paul Bocuse:</strong> templo gourmet de la ciudad.</li><li><strong>Restaurantes con estrella Michelin:</strong> para experiencias de alta cocina.</li></ul><img src='/img/cities/francia/lyon_comida.jpg' alt='Comida en Lyon' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Lyon ofrece una buena vida nocturna:</p><ul><li><strong>Rue Mercière:</strong> llena de bares y terrazas animadas.</li><li><strong>Bares en Presqu'île:</strong> desde pubs clásicos a coctelerías modernas.</li><li><strong>Confluence:</strong> zona trendy con música en vivo y rooftop bars.</li></ul><img src='/img/cities/francia/lyon_noche.jpg' alt='Vida nocturna en Lyon' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>El transporte en Lyon es eficiente:</p><ul><li><strong>Metro y tranvía:</strong> conectan todos los puntos clave.</li><li><strong>Funicular:</strong> para subir a Fourvière.</li><li><strong>Bicicletas Vélo'v:</strong> disponibles por toda la ciudad.</li><li><strong>A pie:</strong> muchas zonas son peatonales y agradables de caminar.</li></ul><img src='/img/cities/francia/lyon_transporte.jpg' alt='Transporte en Lyon' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> francés.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Mejor época:</strong> primavera y principios de otoño.</li><li><strong>Tarjeta City Card:</strong> ofrece transporte y entradas a museos.</li><li><strong>Clima:</strong> continental suave, ideal para pasear.</li></ul><img src='/img/cities/francia/lyon_consejos.jpg' alt='Consejos para Lyon' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde Lyon puedes visitar:</p><ul><li><strong>Pérouges:</strong> pueblo medieval encantador.</li><li><strong>Beaujolais:</strong> región vinícola cercana.</li><li><strong>Annecy:</strong> la 'Venecia de los Alpes'.</li><li><strong>Grenoble:</strong> naturaleza y montañas a poco más de una hora.</li></ul><img src='/img/cities/francia/lyon_escapadas.jpg' alt='Excursiones desde Lyon' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> 2 a 3 días es ideal.</li><li><strong>¿Es Lyon cara?</strong> Tiene opciones para todos los presupuestos.</li><li><strong>¿Es segura?</strong> Sí, con precaución habitual en áreas turísticas.</li><li><strong>¿Dónde comer barato?</strong> Bouchons familiares y mercados locales.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Lyon combina historia, arte y gastronomía como pocas ciudades en Europa. Con esta guía, estás listo para saborear su esencia, explorar su arquitectura y vivir una experiencia francesa auténtica. 📌 Empieza a planear tu escapada y disfruta de la capital de la buena mesa.</p><img src='/img/cities/francia/lyon_conclusion.jpg' alt='Conclusión Lyon' />"
+    }
+  ]
+}

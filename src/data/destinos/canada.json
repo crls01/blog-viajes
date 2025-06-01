@@ -1,0 +1,62 @@
+{
+    "id": "canada",
+    "titulo": "Qué ver en Canadá: guía práctica para descubrir Montreal, Toronto y Vancouver",
+    "img": "/img/countries/canada.jpg",
+    "ciudades_destacadas": [
+      "montreal",
+      "toronto",
+      "vancouver"
+    ],
+    "secciones": [
+      {
+        "titulo": "Introducción: viajar a Canadá",
+        "html": "<p>Canadá es un país inmenso, lleno de naturaleza salvaje, ciudades multiculturales y una calidad de vida envidiable. En esta guía te proponemos explorar tres de sus ciudades más fascinantes: Montreal, Toronto y Vancouver.</p><p>Te explicamos cómo llegar, qué ver, dónde dormir, qué comer y cómo moverte para que tu viaje a Canadá sea inolvidable.</p><img src='/img/cities/canada/montreal1.jpg' alt='Montreal' />"
+      },
+      {
+        "titulo": "¿Cómo llegar a Canadá?",
+        "html": "<p>Canadá está bien conectada por aire desde Europa, Estados Unidos y América Latina. Los principales aeropuertos internacionales son:</p><ul><li><strong>Montreal - Pierre Elliott Trudeau (YUL):</strong> ideal para empezar en el este francófono.</li><li><strong>Toronto Pearson (YYZ):</strong> el más grande y con más conexiones.</li><li><strong>Vancouver International (YVR):</strong> perfecto si planeas explorar la costa oeste.</li></ul><p>El transporte entre ciudades es posible en avión, tren o autobús, aunque las distancias son largas.</p><p>🔗 Consulta nuestra guía para saber cómo moverse entre Montreal, Toronto y Vancouver.</p><img src='/img/cities/canada/toronto1.jpg' alt='Toronto' />"
+      },
+      {
+        "titulo": "Qué ver en Canadá: empieza por sus tres joyas",
+        "subsecciones": [
+          {
+            "ciudad": "Montreal",
+            "html": "<p>Una ciudad con alma europea en pleno América del Norte. Recórrela en bici, visita el Viejo Montreal, disfruta de sus festivales y no te pierdas su famosa poutine.</p><p>👉 Guía completa de Montreal<br>👉 Qué ver en Montreal en 3 días</p><img src='/img/cities/canada/montreal2.jpg' alt='Viejo Montreal' />"
+          },
+          {
+            "ciudad": "Toronto",
+            "html": "<p>La ciudad más grande de Canadá, moderna y diversa. Sube a la CN Tower, pasea por Kensington Market o haz una excursión a las Cataratas del Niágara.</p><p>👉 Guía completa de Toronto<br>👉 Qué ver en Toronto en 3 días</p><img src='/img/cities/canada/toronto2.jpg' alt='Toronto skyline' />"
+          },
+          {
+            "ciudad": "Vancouver",
+            "html": "<p>Una joya entre montañas y océano. Perfecta para los amantes de la naturaleza y el deporte. Stanley Park, Granville Island y playas urbanas te esperan.</p><p>👉 Guía completa de Vancouver<br>👉 Qué ver en Vancouver en 3 días</p><img src='/img/cities/canada/vancouver2.jpg' alt='Vancouver costa' />"
+          }
+        ]
+      },
+      {
+        "titulo": "¿Dónde dormir en Canadá?",
+        "html": "<p>En Canadá encontrarás desde hoteles modernos hasta acogedores B&B. Recomendaciones por ciudad:</p><ul><li><strong>Montreal:</strong> Vieux-Montréal, Plateau-Mont-Royal o cerca del centro.</li><li><strong>Toronto:</strong> Downtown, Yorkville o cerca de Union Station.</li><li><strong>Vancouver:</strong> West End, Yaletown o cerca de Robson Street.</li></ul><p>🔗 Explora nuestras guías para saber dónde dormir en cada ciudad.</p><img src='/img/cities/canada/vancouver3.jpg' alt='Dormir en Vancouver' />"
+      },
+      {
+        "titulo": "Gastronomía: qué y dónde comer",
+        "html": "<p>La cocina canadiense es diversa y deliciosa, con influencias francesas, asiáticas y americanas:</p><ul><li><strong>Montreal:</strong> poutine, bagels de St-Viateur, carne ahumada (smoked meat).</li><li><strong>Toronto:</strong> comida internacional (china, india, coreana, italiana) y brunchs.</li><li><strong>Vancouver:</strong> mariscos frescos, sushi, y cocina sostenible.</li></ul><p>🔗 Consulta nuestra guía de dónde comer en Montreal, Toronto y Vancouver.</p><img src='/img/cities/canada/montreal3.jpg' alt='Comida en Montreal' />"
+      },
+      {
+        "titulo": "¿Tienes pocos días?",
+        "html": "<p>Si dispones de poco tiempo, estos itinerarios exprés te ayudarán:</p><ul><li><strong>Montreal:</strong> Montreal en 3 días</li><li><strong>Toronto:</strong> Toronto en un fin de semana</li><li><strong>Vancouver:</strong> Vancouver en 48 horas</li></ul><p>👉 Nuestros itinerarios están pensados para aprovechar al máximo cada ciudad.</p><img src='/img/cities/canada/toronto3.jpg' alt='Centro Toronto' />"
+      },
+      {
+        "titulo": "Consejos prácticos para viajar a Canadá",
+        "html": "<ul><li><strong>Idioma:</strong> inglés y francés (principalmente en Quebec).</li><li><strong>Moneda:</strong> dólar canadiense (CAD).</li><li><strong>Visado:</strong> eTA obligatoria para muchos países.</li><li><strong>Enchufes:</strong> tipo A/B, 110V.</li><li><strong>Mejor época:</strong> primavera-verano (de mayo a septiembre).</li></ul><p>🔗 Mira más consejos en nuestras guías prácticas de cada ciudad.</p><img src='/img/cities/canada/vancouver4.jpg' alt='Consejos en Vancouver' />"
+      },
+      {
+        "titulo": "¿Tienes más tiempo?",
+        "html": "<p>Si tienes más días, aprovecha para explorar los alrededores:</p><ul><li><strong>Desde Montreal:</strong> Quebec, Mont-Tremblant o Ottawa.</li><li><strong>Desde Toronto:</strong> Cataratas del Niágara o Algonquin Park.</li><li><strong>Desde Vancouver:</strong> Whistler, Victoria o el Parque Nacional de Banff.</li></ul><p>🛤️ <strong>Ruta recomendada:</strong> Montreal → Toronto → Vancouver (en tren o vuelos internos).</p><p>🔗 Consulta nuestras escapadas desde Montreal, Toronto y Vancouver.</p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>Canadá es un destino versátil que combina ciudades cosmopolitas, paisajes espectaculares y una gran calidad de vida. Con solo tres ciudades puedes conocer lo mejor del este, el centro y el oeste del país.</p><p>📌 Empieza tu aventura aquí:<br>🔗 Viajar a Montreal<br>🔗 Descubrir Toronto<br>🔗 Guía de Vancouver</p>"
+      }
+    ]
+  }
+  

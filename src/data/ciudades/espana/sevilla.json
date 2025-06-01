@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Sevilla",
+  "descripcion": "Explora la capital de Andalucía, una ciudad llena de historia, flamenco y alma sureña.",
+  "img": "/img/cities/espana/sevilla1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Sevilla es una de las ciudades más cautivadoras de España. Su historia milenaria, su arquitectura morisca, el arte del flamenco y su ambiente cálido la convierten en un destino imprescindible. Esta guía te llevará por sus rincones más emblemáticos, con itinerarios detallados, consejos prácticos y lo mejor que ver, comer y vivir en esta joya del sur.</p><img src='/img/cities/espana/sevilla_intro.jpg' alt='Vista panorámica de Sevilla' />"
+    },
+    {
+      "titulo": "Qué ver en Sevilla",
+      "html": "<p>Sevilla está repleta de monumentos y rincones con encanto. Estos son los imprescindibles:</p><ul><li><strong>Real Alcázar:</strong> un palacio de ensueño con jardines exóticos.</li><li><strong>Catedral de Sevilla y La Giralda:</strong> una de las mayores catedrales góticas del mundo.</li><li><strong>Plaza de España:</strong> una joya arquitectónica en el Parque de María Luisa.</li><li><strong>Barrio de Santa Cruz:</strong> callejuelas estrechas y patios llenos de flores.</li><li><strong>Metropol Parasol (Las Setas):</strong> moderno mirador con vistas espectaculares.</li></ul><img src='/img/cities/espana/sevilla_quever.jpg' alt='Qué ver en Sevilla' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Aquí tienes un itinerario perfecto para disfrutar Sevilla sin prisas:</p><h3>Día 1:</h3><ul><li>Real Alcázar</li><li>Catedral y Giralda</li><li>Barrio de Santa Cruz</li><li>Atardecer en Las Setas</li></ul><h3>Día 2:</h3><ul><li>Plaza de España y Parque de María Luisa</li><li>Archivo de Indias</li><li>Paseo en barco por el río Guadalquivir</li><li>Show de flamenco</li></ul><h3>Día 3:</h3><ul><li>Triana (mercado y paseo)</li><li>Casa de Pilatos</li><li>Tapas por el centro</li></ul><img src='/img/cities/espana/sevilla_itinerario.jpg' alt='Itinerario Sevilla' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarte en Sevilla dependen de tu estilo de viaje:</p><ul><li><strong>Centro Histórico:</strong> ideal para estar cerca de todo.</li><li><strong>Barrio de Santa Cruz:</strong> encanto tradicional y ambiente romántico.</li><li><strong>Triana:</strong> auténtico, local y con buena oferta gastronómica.</li><li><strong>La Macarena:</strong> más tranquilo, pero con gran vida local.</li></ul><img src='/img/cities/espana/sevilla_dormir.jpg' alt='Dónde dormir en Sevilla' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>La cocina sevillana es una delicia mediterránea con mucho sabor andaluz. Aquí van algunas sugerencias:</p><ul><li><strong>Tapas tradicionales:</strong> en el Barrio de Santa Cruz o en Triana.</li><li><strong>Mercado de la Encarnación:</strong> opciones frescas y locales.</li><li><strong>Zona de Alameda:</strong> moderna, alternativa y llena de bares con encanto.</li><li><strong>Gastronomía con vistas:</strong> en terrazas cerca del río.</li></ul><img src='/img/cities/espana/sevilla_comida.jpg' alt='Dónde comer en Sevilla' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Sevilla cobra vida al caer el sol. Disfruta de su noche en estas zonas:</p><ul><li><strong>Triana:</strong> bares de flamenco, tabernas y terrazas.</li><li><strong>Alameda de Hércules:</strong> bares de copas, conciertos y ambiente joven.</li><li><strong>Centro Histórico:</strong> tapas, coctelerías y azoteas con vistas.</li><li><strong>Isla de la Cartuja:</strong> zona de discotecas y festivales.</li></ul><img src='/img/cities/espana/sevilla_noche.jpg' alt='Vida nocturna Sevilla' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Sevilla es una ciudad muy cómoda para recorrer:</p><ul><li><strong>A pie:</strong> el centro es plano y se recorre fácilmente.</li><li><strong>Tranvía y metro:</strong> conecta zonas claves de forma rápida.</li><li><strong>Bicicleta:</strong> servicio Sevici con carriles bici bien distribuidos.</li><li><strong>Autobuses urbanos:</strong> buena frecuencia y cobertura.</li></ul><img src='/img/cities/espana/sevilla_transporte.jpg' alt='Transporte en Sevilla' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> español, con acento andaluz característico.</li><li><strong>Clima:</strong> veranos muy calurosos, mejor en primavera u otoño.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Seguridad:</strong> ciudad segura, pero vigila carteristas en lugares turísticos.</li><li><strong>Horarios:</strong> almuerzo entre 14:00–15:30, cena desde las 21:00.</li></ul><img src='/img/cities/espana/sevilla_consejos.jpg' alt='Consejos prácticos Sevilla' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde Sevilla puedes visitar otros lugares increíbles en el día:</p><ul><li><strong>Córdoba:</strong> la Mezquita-Catedral y el barrio judío.</li><li><strong>Itálica:</strong> ruinas romanas a pocos kilómetros.</li><li><strong>Jerez de la Frontera:</strong> vinos, caballos y flamenco.</li><li><strong>Doñana:</strong> parque natural para los amantes de la fauna.</li></ul><img src='/img/cities/espana/sevilla_escapadas.jpg' alt='Excursiones desde Sevilla' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito para ver Sevilla?</strong> Mínimo 2–3 días para lo esencial.</li><li><strong>¿Dónde ver flamenco auténtico?</strong> En Triana o en tablaos tradicionales del centro.</li><li><strong>¿Hace mucho calor en verano?</strong> Sí, se recomienda evitar julio y agosto si no te gusta el calor extremo.</li><li><strong>¿Qué souvenirs comprar?</strong> Cerámica, abanicos, mantones o productos gastronómicos.</li><li><strong>¿Se puede visitar todo caminando?</strong> Sí, gran parte del centro se recorre a pie sin problema.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Sevilla tiene un color especial. Sus calles, su historia y su gente te harán sentir parte de una experiencia única. Ideal para escapadas románticas, culturales o gastronómicas, Sevilla siempre deja huella.</p><p>📌 Empieza tu viaje con nuestros itinerarios, mapas y consejos locales para disfrutarla al máximo.</p><img src='/img/cities/espana/sevilla_conclusion.jpg' alt='Vista aérea de Sevilla' />"
+    }
+  ]
+}

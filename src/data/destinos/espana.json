@@ -1,122 +1,61 @@
 {
-    "id": "espana",
-    "name": "España",
-    "img": "/imagenes/espana.jpg",
-    "keywords": [
-        "España",
-        "viajar a España",
-        "turismo en España",
-        "guía de España",
-        "vacaciones en España",
-        "que ver en España",
-        "dónde dormir en España",
-        "restaurantes en España",
-        "itinerario por España"
-    ],
-    "content": {
-        "intro": "España es un país vibrante y diverso, conocido por su rica historia, playas doradas, deliciosa gastronomía y una mezcla única de culturas. Desde las calles animadas de Madrid hasta los encantadores pueblos de Andalucía, España ofrece una experiencia inolvidable para cualquier tipo de viajero.",
-        "presentacion": "Con más de 40 sitios declarados Patrimonio de la Humanidad por la UNESCO, España es uno de los países más visitados del mundo. Su diversidad geográfica y cultural permite disfrutar desde ciudades cosmopolitas hasta paisajes rurales tranquilos, pasando por montañas, desiertos, costas y archipiélagos.",
-        "comoLlegar": {
-            "titulo": "Cómo llegar a España",
-            "texto": "España está muy bien conectada con el resto del mundo gracias a sus aeropuertos internacionales y su infraestructura ferroviaria y de carreteras.",
-            "aeropuertos": [
-                "Aeropuerto Adolfo Suárez Madrid-Barajas (MAD)",
-                "Aeropuerto de Barcelona-El Prat (BCN)",
-                "Aeropuerto de Málaga-Costa del Sol (AGP)",
-                "Aeropuerto de Valencia (VLC)",
-                "Aeropuerto de Palma de Mallorca (PMI)"
-            ],
-            "otrosMedios": [
-                "Trenes de alta velocidad (AVE) desde Francia",
-                "Autobuses internacionales",
-                "Ferries desde Italia y Marruecos"
-            ]
+  "id": "espana",
+  "titulo": "Qué ver en España: guía práctica para descubrir Madrid, Barcelona y Sevilla",
+  "img": "/img/countries/espana.jpg",
+  "ciudades_destacadas": [
+    "madrid",
+    "barcelona",
+    "sevilla"
+  ],
+  "secciones": [
+    {
+      "titulo": "Introducción: viajar a España",
+      "html": "<p>¿Planeas viajar a España y no sabes por dónde empezar? Te damos la bienvenida a una guía pensada para que descubras lo mejor del país a través de tres de sus ciudades más emblemáticas: Madrid, Barcelona y Sevilla. Cultura, historia, arquitectura, gastronomía y vida local se combinan para ofrecerte una experiencia inolvidable.</p><p>Aquí encontrarás cómo llegar, qué ver, dónde dormir, dónde comer y los mejores itinerarios para cada ciudad. Además, te damos consejos prácticos y enlaces a guías detalladas para que lo tengas todo listo antes de viajar.</p><img src='/img/cities/espana/madrid1.jpg' alt='Madrid' />"
+    },
+    {
+      "titulo": "¿Cómo llegar a España?",
+      "html": "<p>La mayoría de los viajeros internacionales llegan en avión. Los aeropuertos más importantes son:</p><ul><li><strong>Madrid-Barajas (MAD):</strong> ideal si empiezas por la capital.</li><li><strong>Barcelona-El Prat (BCN):</strong> conecta con Europa y América.</li><li><strong>Sevilla-San Pablo (SVQ):</strong> buena opción para iniciar en el sur.</li></ul><p>También puedes moverte entre ciudades con el tren AVE (Alta Velocidad), que conecta Madrid con Barcelona en 2h30 y con Sevilla en solo 2h20.</p><p>🔗 Consulta nuestra guía para saber cómo moverse entre Madrid, Barcelona y Sevilla.</p><img src='/img/cities/espana/barcelona1.jpg' alt='Barcelona' />"
+    },
+    {
+      "titulo": "Qué ver en España: empieza por sus tres joyas",
+      "subsecciones": [
+        {
+          "ciudad": "Madrid",
+          "html": "<p>Capital de España y centro neurálgico del país. Aquí encontrarás museos mundialmente famosos como el Prado o el Reina Sofía, parques como el Retiro, barrios con encanto y una vibrante vida nocturna.</p><p>👉 Guía completa de Madrid<br>👉 Madrid en 3 días: itinerario detallado</p><img src='/img/cities/espana/madrid2.jpg' alt='Madrid museo' />"
         },
-        "dondeDormir": {
-            "titulo": "Dónde dormir en España",
-            "texto": "Las opciones para alojarse en España son variadas y se adaptan a todos los presupuestos. Desde hoteles de lujo en ciudades como Madrid o Barcelona, hasta hostales y apartamentos turísticos en pueblos costeros o rurales.",
-            "zonasPopulares": [
-                "Centro histórico de Sevilla",
-                "Barrio Gótico de Barcelona",
-                "Gran Vía en Madrid",
-                "Casco antiguo de Granada",
-                "Costa del Sol"
-            ],
-            "tipos": [
-                "Hoteles boutique",
-                "Apartamentos turísticos",
-                "Casas rurales",
-                "Hostales y albergues",
-                "Paradores nacionales"
-            ]
+        {
+          "ciudad": "Barcelona",
+          "html": "<p>Barcelona mezcla historia, playa y vanguardia. Pasea por Las Ramblas, visita la Sagrada Familia, piérdete por el Barrio Gótico y no te vayas sin ver el atardecer desde el Bunkers del Carmel.</p><p>👉 Guía completa de Barcelona<br>👉 Qué ver en Barcelona en 3 días</p><img src='/img/cities/espana/barcelona2.jpg' alt='Barcelona centro' />"
         },
-        "itinerarios": {
-            "titulo": "Itinerarios por España",
-            "texto": "España se puede explorar de muchas formas, ya sea durante un fin de semana o en un recorrido de varias semanas.",
-            "enlacesCTA": [
-                {
-                    "texto": "3 días en Madrid: guía express",
-                    "link": "/itinerarios/3-dias-en-madrid"
-                },
-                {
-                    "texto": "Un fin de semana en Sevilla",
-                    "link": "/itinerarios/fin-de-semana-en-sevilla"
-                },
-                {
-                    "texto": "Ruta por el norte de España en 7 días",
-                    "link": "/itinerarios/norte-espana-7-dias"
-                }
-            ]
-        },
-        "restaurantes": {
-            "titulo": "Dónde comer en España",
-            "texto": "La gastronomía española es una de las más reconocidas del mundo. Tapas, paella, gazpacho, jamón ibérico... cada región tiene su especialidad.",
-            "recomendaciones": [
-                "Botín (Madrid) – el restaurante más antiguo del mundo",
-                "Cal Pep (Barcelona) – famoso por sus tapas",
-                "El Celler de Can Roca (Girona) – 3 estrellas Michelin",
-                "Abac (Barcelona) – alta cocina catalana"
-            ],
-            "masInfo": {
-                "texto": "Descubre los mejores restaurantes por ciudad",
-                "link": "/restaurantes"
-            }
-        },
-        "consejos": {
-            "titulo": "Consejos prácticos para viajar a España",
-            "texto": "Planificar con antelación puede mejorar mucho tu experiencia en España.",
-            "epocas": [
-                "Primavera (abril-junio): clima agradable y menos turistas",
-                "Otoño (septiembre-octubre): temperaturas suaves y buena oferta cultural"
-            ],
-            "transporte": [
-                "El tren es ideal para moverse entre grandes ciudades",
-                "Metro y buses para transporte urbano",
-                "Alquilar coche para explorar zonas rurales o playas"
-            ],
-            "idioma": "El español es el idioma oficial, aunque también se hablan catalán, gallego y euskera en algunas regiones.",
-            "moneda": "Euro (€)"
-        },
-        "masTiempo": {
-            "titulo": "¿Tienes más tiempo?",
-            "texto": "Si puedes extender tu viaje, España tiene mucho más que ofrecer. Aquí algunas recomendaciones para aprovechar tu estancia:",
-            "actividades": [
-                "Escapada a Toledo desde Madrid",
-                "Ruta por los pueblos blancos de Andalucía",
-                "Senderismo en los Pirineos",
-                "Visita a las Islas Canarias"
-            ],
-            "otrosItinerarios": [
-                {
-                    "texto": "10 días por el sur de España",
-                    "link": "/itinerarios/10-dias-sur-espana"
-                },
-                {
-                    "texto": "Viaje gastronómico por el norte",
-                    "link": "/itinerarios/gastronomia-norte"
-                }
-            ]
-        },
-        "conclusion": "España es un destino imprescindible para cualquier viajero. Su mezcla de tradición y modernidad, su cultura vibrante y su gente acogedora hacen que cada visita sea única. Ya sea para una escapada de fin de semana o una aventura de varias semanas, siempre habrá algo nuevo por descubrir en tierras españolas."
+        {
+          "ciudad": "Sevilla",
+          "html": "<p>Una ciudad con alma. Desde la majestuosa Plaza de España hasta el Real Alcázar o la Giralda, Sevilla rebosa tradición. Ideal para perderse entre callejuelas, disfrutar de un tablao flamenco y saborear unas tapas bajo el sol.</p><p>👉 Guía completa de Sevilla<br>👉 Un fin de semana en Sevilla</p><img src='/img/cities/espana/sevilla2.jpg' alt='Sevilla plaza' />"
+        }
+      ]
+    },
+    {
+      "titulo": "¿Dónde dormir en España?",
+      "html": "<p>España ofrece alojamiento para todos los gustos. Aquí algunas recomendaciones por ciudad:</p><ul><li><strong>Madrid:</strong> Sol, Gran Vía y Malasaña son zonas céntricas y bien conectadas.</li><li><strong>Barcelona:</strong> el Eixample, el Gótico o Gràcia son ideales para moverse a pie.</li><li><strong>Sevilla:</strong> Barrio de Santa Cruz, Triana o el centro histórico.</li></ul><p>🔗 Explora nuestras guías para saber dónde dormir en cada ciudad.</p><img src='/img/cities/espana/sevilla3.jpg' alt='Dormir Sevilla' />"
+    },
+    {
+      "titulo": "Gastronomía: qué y dónde comer",
+      "html": "<p>La cocina española es famosa en todo el mundo, y cada ciudad tiene sus platos estrella:</p><ul><li><strong>Madrid:</strong> bocadillo de calamares, cocido madrileño, tapas en La Latina.</li><li><strong>Barcelona:</strong> paella, pan con tomate, mariscos del Mediterráneo.</li><li><strong>Sevilla:</strong> salmorejo, jamón ibérico, tapas en Triana o El Arenal.</li></ul><p>🔗 Consulta nuestra guía de dónde comer en Madrid, Barcelona y Sevilla.</p><img src='/img/cities/espana/madrid3.jpg' alt='Comida Madrid' />"
+    },
+    {
+      "titulo": "¿Tienes pocos días?",
+      "html": "<p>Aquí te dejamos algunas ideas rápidas para que aproveches el tiempo al máximo:</p><ul><li><strong>Madrid:</strong> Madrid en 3 días</li><li><strong>Barcelona:</strong> Un fin de semana en Barcelona</li><li><strong>Sevilla:</strong> 48 horas en Sevilla</li></ul><p>👉 Todos nuestros itinerarios están pensados para ayudarte a ver lo imprescindible sin agobios. Consulta la sección de itinerarios por ciudad.</p><img src='/img/cities/espana/barcelona3.jpg' alt='Vistas Barcelona' />"
+    },
+    {
+      "titulo": "Consejos prácticos para viajar a España",
+      "html": "<ul><li><strong>Idioma:</strong> español. En Barcelona también se habla catalán.</li><li><strong>Moneda:</strong> euro (€)</li><li><strong>Mejor época para visitar:</strong> primavera (abril-mayo) y otoño (septiembre-octubre).</li><li><strong>Enchufes:</strong> tipo F, 220V.</li><li><strong>Sanidad:</strong> acceso gratuito o con tarjeta sanitaria europea (si vienes de la UE).</li></ul><p>🔗 Mira más consejos en nuestras guías prácticas de cada ciudad.</p><img src='/img/cities/espana/sevilla4.jpg' alt='Consejos Sevilla' />"
+    },
+    {
+      "titulo": "¿Tienes más tiempo?",
+      "html": "<p>Si tu viaje lo permite, puedes alargar tu ruta y combinar las tres ciudades fácilmente:</p><p>🚅 <strong>Ruta recomendada:</strong> Madrid → Sevilla → Barcelona (o al revés)</p><p>También puedes añadir una escapada a Toledo, Sitges, Montserrat o Córdoba, todas muy accesibles en tren.</p><p>🔗 Descubre nuestras escapadas desde Madrid, Barcelona y Sevilla.</p>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>España te espera con los brazos abiertos. No necesitas recorrer todo el país para sentir su esencia: con solo tres ciudades puedes vivir su historia, su comida, su alegría y su arte.</p><p>📌 Empieza tu viaje ahora:<br>🔗 Viajar a Madrid<br>🔗 Visitar Barcelona<br>🔗 Guía de Sevilla</p>"
     }
+  ]
 }

@@ -3,15 +3,63 @@ import { NavLink } from 'react-router-dom';
 import './Nav.css';
 
 const destinos = {
-    España: ['Madrid', 'Barcelona', 'Sevilla'],
-    Italia: ['Roma', 'Venecia', 'Milán'],
-    Francia: ['París', 'Lyon', 'Marsella'],
-    Japón: ['Tokio', 'Kioto', 'Osaka'],
-    México: ['Ciudad de México', 'Cancún', 'Guadalajara'],
-    Canadá: ['Toronto', 'Vancouver', 'Montreal'],
-    Australia: ['Sídney', 'Melbourne', 'Brisbane'],
+    espana: {
+        nombre: 'España',
+        ciudades: [
+            { nombre: 'Madrid', slug: 'madrid' },
+            { nombre: 'Barcelona', slug: 'barcelona' },
+            { nombre: 'Sevilla', slug: 'sevilla' }
+        ]
+    },
+    italia: {
+        nombre: 'Italia',
+        ciudades: [
+            { nombre: 'Roma', slug: 'roma' },
+            { nombre: 'Venecia', slug: 'venecia' },
+            { nombre: 'Milán', slug: 'milan' }
+        ]
+    },
+    francia: {
+        nombre: 'Francia',
+        ciudades: [
+            { nombre: 'París', slug: 'paris' },
+            { nombre: 'Lyon', slug: 'lyon' },
+            { nombre: 'Marsella', slug: 'marsella' }
+        ]
+    },
+    japon: {
+        nombre: 'Japón',
+        ciudades: [
+            { nombre: 'Tokio', slug: 'tokio' },
+            { nombre: 'Kioto', slug: 'kioto' },
+            { nombre: 'Osaka', slug: 'osaka' }
+        ]
+    },
+    mexico: {
+        nombre: 'México',
+        ciudades: [
+            { nombre: 'Ciudad de México', slug: 'cdmx' },
+            { nombre: 'Cancún', slug: 'cancun' },
+            { nombre: 'Guadalajara', slug: 'guadalajara' }
+        ]
+    },
+    canada: {
+        nombre: 'Canadá',
+        ciudades: [
+            { nombre: 'Toronto', slug: 'toronto' },
+            { nombre: 'Vancouver', slug: 'vancouver' },
+            { nombre: 'Montreal', slug: 'montreal' }
+        ]
+    },
+    australia: {
+        nombre: 'Australia',
+        ciudades: [
+            { nombre: 'Sídney', slug: 'sidney' },
+            { nombre: 'Melbourne', slug: 'melbourne' },
+            { nombre: 'Brisbane', slug: 'brisbane' }
+        ]
+    }
 };
-
 
 const Navbar = () => {
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -19,7 +67,7 @@ const Navbar = () => {
 
     const toggleMobileMenu = () => {
         setIsMobileMenuOpen(!isMobileMenuOpen);
-        setIsDestinosOpen(false); // cierra destinos si se abre menú móvil
+        setIsDestinosOpen(false);
     };
 
     const closeMobileMenu = () => {
@@ -29,7 +77,6 @@ const Navbar = () => {
 
     return (
         <nav className="nav">
-            {/* Botón hamburguesa */}
             <div
                 className={`hamburger ${isMobileMenuOpen ? 'active' : ''}`}
                 onClick={toggleMobileMenu}
@@ -39,16 +86,14 @@ const Navbar = () => {
                 <div></div>
             </div>
 
-            {/* Lista de navegación */}
             <ul className={`nav-list ${isMobileMenuOpen ? 'open' : ''}`}>
                 <li className="nav-item">
                     <NavLink to="/" onClick={closeMobileMenu}>Inicio</NavLink>
                 </li>
-                <li className="nav-item">
+                {/* <li className="nav-item">
                     <NavLink to="/nosotros" onClick={closeMobileMenu}>Sobre nosotros</NavLink>
-                </li>
+                </li> */}
 
-                {/* Dropdown destinos */}
                 <li
                     className="nav-item dropdown-toggle"
                     onMouseEnter={() => window.innerWidth > 768 && setIsDestinosOpen(true)}
@@ -57,20 +102,19 @@ const Navbar = () => {
                 >
                     <span>Destinos</span>
 
-                    {/* Mega menú */}
                     <div className={`destinos-menu ${isDestinosOpen ? 'open' : ''}`}>
-                        {Object.entries(destinos).map(([pais, ciudades]) => (
-                            <div className="country-block" key={pais}>
-                                <span className="country-name">{pais}</span>
+                        {Object.entries(destinos).map(([paisId, { nombre, ciudades }]) => (
+                            <div className="country-block" key={paisId}>
+                                <span className="country-name">{nombre}</span>
                                 <ul className="cities-list">
-                                    {ciudades.map(ciudad => (
-                                        <li key={ciudad}>
+                                    {ciudades.map(({ nombre: nombreCiudad, slug }) => (
+                                        <li key={slug}>
                                             <NavLink
-                                                to={`/destinos/${ciudad.toLowerCase()}`}
+                                                to={`/country/${paisId}/${slug}`}
                                                 className="city-link"
                                                 onClick={closeMobileMenu}
                                             >
-                                                {ciudad}
+                                                {nombreCiudad}
                                             </NavLink>
                                         </li>
                                     ))}
@@ -80,12 +124,12 @@ const Navbar = () => {
                     </div>
                 </li>
 
-                <li className="nav-item">
+                {/* <li className="nav-item">
                     <NavLink to="/servicios" onClick={closeMobileMenu}>Servicios</NavLink>
                 </li>
                 <li className="nav-item">
                     <NavLink to="/contacto" onClick={closeMobileMenu}>Contacto</NavLink>
-                </li>
+                </li> */}
             </ul>
         </nav>
     );

@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de París",
+  "descripcion": "Explora la Ciudad de la Luz, con sus monumentos icónicos, barrios con encanto y gastronomía de clase mundial.",
+  "img": "/img/cities/francia/paris1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>París es una de las ciudades más emblemáticas del mundo, conocida por su elegancia, historia, arte y romanticismo. Desde la Torre Eiffel hasta los cafés de Montmartre, la capital francesa ofrece experiencias inolvidables para cada viajero. Esta guía te ayudará a descubrir lo mejor de París de manera práctica y organizada.</p><img src='/img/cities/francia/paris_intro.jpg' alt='Vista de París' />"
+    },
+    {
+      "titulo": "Qué ver en París",
+      "html": "<p>París está repleta de monumentos, museos y lugares con historia:</p><ul><li><strong>Torre Eiffel:</strong> símbolo indiscutible de la ciudad.</li><li><strong>Catedral de Notre-Dame:</strong> joya gótica en Île de la Cité.</li><li><strong>Louvre:</strong> uno de los museos más importantes del mundo.</li><li><strong>Campos Elíseos y Arco del Triunfo:</strong> paseo icónico.</li><li><strong>Montmartre:</strong> barrio bohemio con vistas y arte callejero.</li></ul><img src='/img/cities/francia/paris_quever.jpg' alt='Qué ver en París' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una propuesta para conocer lo mejor de París en poco tiempo:</p><h3>Día 1:</h3><ul><li>Torre Eiffel y Trocadéro</li><li>Paseo por el Sena</li><li>Campos Elíseos y Arco del Triunfo</li></ul><h3>Día 2:</h3><ul><li>Museo del Louvre</li><li>Catedral de Notre-Dame</li><li>Jardines de Luxemburgo</li></ul><h3>Día 3:</h3><ul><li>Montmartre y Sacré-Cœur</li><li>Museo de Orsay</li><li>Puesta de sol desde la Torre Montparnasse</li></ul><img src='/img/cities/francia/paris_itinerario.jpg' alt='Itinerario París' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarse en París:</p><ul><li><strong>Le Marais:</strong> céntrico, histórico y lleno de vida.</li><li><strong>Saint-Germain-des-Prés:</strong> elegante y con encanto.</li><li><strong>Montmartre:</strong> más bohemio y romántico.</li><li><strong>Latino:</strong> joven, con ambiente estudiantil.</li></ul><img src='/img/cities/francia/paris_dormir.jpg' alt='Dónde dormir en París' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Disfruta de la gastronomía francesa en París:</p><ul><li><strong>Bistrós del Barrio Latino:</strong> comida tradicional y buen precio.</li><li><strong>Cafés de Montparnasse:</strong> perfectos para un desayuno parisino.</li><li><strong>Pastelerías de Le Marais:</strong> prueba croissants, macarons y más.</li><li><strong>Mercado de Rue Cler:</strong> productos frescos y ambiente local.</li></ul><img src='/img/cities/francia/paris_comida.jpg' alt='Comida en París' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>París de noche es tan mágica como de día:</p><ul><li><strong>Crucero por el Sena:</strong> una forma romántica de ver la ciudad iluminada.</li><li><strong>Moulin Rouge:</strong> espectáculo cabaret clásico.</li><li><strong>Barrios de Oberkampf y Bastille:</strong> vida nocturna alternativa.</li><li><strong>Rooftops:</strong> vistas espectaculares con buena música.</li></ul><img src='/img/cities/francia/paris_noche.jpg' alt='Vida nocturna en París' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>El transporte en París es eficiente y fácil de usar:</p><ul><li><strong>Metro:</strong> la forma más rápida de moverse.</li><li><strong>Autobuses:</strong> buena alternativa para trayectos con vistas.</li><li><strong>A pie:</strong> muchas zonas son caminables.</li><li><strong>Bicicletas (Vélib’):</strong> opción ecológica y práctica.</li></ul><img src='/img/cities/francia/paris_transporte.jpg' alt='Transporte en París' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> francés.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Clima:</strong> templado. Primavera y otoño son ideales.</li><li><strong>Seguridad:</strong> precaución en zonas turísticas por carteristas.</li><li><strong>Reservas:</strong> imprescindible para museos y restaurantes populares.</li></ul><img src='/img/cities/francia/paris_consejos.jpg' alt='Consejos París' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde París puedes hacer escapadas muy interesantes:</p><ul><li><strong>Versalles:</strong> palacio y jardines impresionantes.</li><li><strong>Giverny:</strong> hogar de Monet y su famoso jardín.</li><li><strong>Disneyland París:</strong> diversión para toda la familia.</li><li><strong>Fontainebleau:</strong> castillo rodeado de bosque.</li></ul><img src='/img/cities/francia/paris_escapadas.jpg' alt='Excursiones desde París' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> Mínimo 3, idealmente 5.</li><li><strong>¿Es caro?</strong> Sí, pero hay opciones económicas.</li><li><strong>¿Vale la pena comprar el Paris Pass?</strong> Sí, si planeas visitar muchos museos.</li><li><strong>¿Dónde alojarse si viajo con niños?</strong> Le Marais o zonas cercanas a jardines.</li><li><strong>¿Hay zonas que evitar?</strong> Algunas estaciones del norte en la noche.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>París enamora por sus calles, su arte, su cocina y su historia. Esta guía te servirá para planificar cada detalle de tu viaje y aprovechar al máximo tu paso por la capital francesa.</p><p>📌 Empieza a descubrir París con nuestras rutas, consejos y mapas descargables.</p><img src='/img/cities/francia/paris_conclusion.jpg' alt='París al atardecer' />"
+    }
+  ]
+}

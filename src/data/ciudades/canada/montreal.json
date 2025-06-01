@@ -1,0 +1,52 @@
+{
+    "titulo": "Guía de Montreal",
+    "descripcion": "Explora la ciudad más cosmopolita de Canadá, donde la cultura francesa y el dinamismo urbano se fusionan.",
+    "img": "/img/cities/canada/montreal1.jpg",
+    "secciones": [
+      {
+        "titulo": "Introducción",
+        "html": "<p>Montreal es una ciudad vibrante y bilingüe donde lo europeo y lo norteamericano se encuentran. Con una fuerte identidad cultural, barrios con personalidad y una rica historia, Montreal es perfecta para un viaje urbano con un toque artístico y gastronómico.</p><img src='/img/cities/canada/montreal_intro.jpg' alt='Vista de Montreal' />"
+      },
+      {
+        "titulo": "Qué ver en Montreal",
+        "html": "<p>Estos son los imperdibles de Montreal:</p><ul><li><strong>Viejo Montreal:</strong> calles empedradas, arquitectura colonial y la Basílica de Notre-Dame.</li><li><strong>Mont Royal:</strong> colina icónica con vistas panorámicas.</li><li><strong>Museo de Bellas Artes:</strong> una de las principales instituciones culturales del país.</li><li><strong>Parque Jean-Drapeau:</strong> espacios verdes y el Biosphère.</li><li><strong>Barrio Plateau:</strong> arte urbano, cafés y ambiente bohemio.</li></ul><p></p><img src='/img/cities/canada/montreal_quever.jpg' alt='Qué ver en Montreal' />"
+      },
+      {
+        "titulo": "Itinerario de 3 días",
+        "html": "<p>Un plan ideal para 3 días en Montreal:</p><h3>Día 1:</h3><ul><li>Paseo por el Viejo Montreal</li><li>Visita a la Basílica de Notre-Dame</li><li>Puesta de sol en Mont Royal</li></ul><h3>Día 2:</h3><ul><li>Museo de Bellas Artes</li><li>Barrio Plateau y arte urbano</li><li>Cena en Rue Saint-Denis</li></ul><h3>Día 3:</h3><ul><li>Parque Jean-Drapeau y Biosphère</li><li>Mercado Jean-Talon</li><li>Paseo por el Puerto Viejo</li></ul><img src='/img/cities/canada/montreal_itinerario.jpg' alt='Itinerario Montreal' />"
+      },
+      {
+        "titulo": "Dónde dormir",
+        "html": "<p>Mejores zonas para alojarse en Montreal:</p><ul><li><strong>Viejo Montreal:</strong> céntrico y con encanto histórico.</li><li><strong>Plateau Mont-Royal:</strong> moderno, bohemio y lleno de vida.</li><li><strong>Centro (Downtown):</strong> ideal para negocios y turismo.</li><li><strong>Mile End:</strong> alternativo y lleno de cafés.</li></ul><p></p><img src='/img/cities/canada/montreal_dormir.jpg' alt='Dónde dormir en Montreal' />"
+      },
+      {
+        "titulo": "Dónde comer",
+        "html": "<p>La gastronomía de Montreal refleja su diversidad cultural:</p><ul><li><strong>Poutine:</strong> el plato local más famoso.</li><li><strong>Bagels de Montreal:</strong> diferentes a los neoyorquinos, ¡pruébalos!</li><li><strong>Comida francesa:</strong> muchos bistrós de alta calidad.</li><li><strong>Rue Saint-Laurent:</strong> repleta de opciones multiculturales.</li></ul><p></p><img src='/img/cities/canada/montreal_comida.jpg' alt='Comida en Montreal' />"
+      },
+      {
+        "titulo": "Ocio y vida nocturna",
+        "html": "<p>Montreal ofrece una escena nocturna muy activa:</p><ul><li><strong>Rue Saint-Denis:</strong> bares, pubs y música en vivo.</li><li><strong>Crescent Street:</strong> coctelerías y clubs internacionales.</li><li><strong>Plateau:</strong> ambiente artístico y relajado.</li><li><strong>Festivales:</strong> durante todo el año, especialmente en verano.</li></ul><p> </p><img src='/img/cities/canada/montreal_noche.jpg' alt='Vida nocturna en Montreal' />"
+      },
+      {
+        "titulo": "Cómo moverse por la ciudad",
+        "html": "<p>Montreal tiene una red de transporte eficiente:</p><ul><li><strong>Metro:</strong> 4 líneas que conectan toda la ciudad.</li><li><strong>Autobuses:</strong> complementan el metro para llegar a todas partes.</li><li><strong>Bicicletas:</strong> sistema BIXI de alquiler público.</li><li><strong>A pie:</strong> el centro es muy caminable.</li></ul><p></p><img src='/img/cities/canada/montreal_transporte.jpg' alt='Transporte en Montreal' />"
+      },
+      {
+        "titulo": "Consejos prácticos",
+        "html": "<ul><li><strong>Idioma:</strong> francés e inglés (bilingüe).</li><li><strong>Moneda:</strong> dólar canadiense (CAD).</li><li><strong>Mejor época:</strong> primavera y verano para clima agradable y festivales.</li><li><strong>Seguridad:</strong> ciudad muy segura.</li><li><strong>Clima:</strong> inviernos fríos, lleva ropa adecuada si vas en esa época.</li></ul><p>.</p><img src='/img/cities/canada/montreal_consejos.jpg' alt='Consejos para Montreal' />"
+      },
+      {
+        "titulo": "Excursiones cercanas",
+        "html": "<p>Desde Montreal puedes visitar lugares increíbles:</p><ul><li><strong>Quebec City:</strong> ciudad histórica con encanto europeo.</li><li><strong>Ottawa:</strong> la capital del país, a unas 2 horas.</li><li><strong>Mont-Tremblant:</strong> naturaleza, senderismo y esquí.</li><li><strong>Parque Nacional de las Îles-de-Boucherville:</strong> ideal para actividades al aire libre.</li></ul><p></p><img src='/img/cities/canada/montreal_escapadas.jpg' alt='Excursiones desde Montreal' />"
+      },
+      {
+        "titulo": "Preguntas frecuentes",
+        "html": "<ul><li><strong>¿Se necesita francés para viajar?</strong> No, pero unas palabras ayudan; el inglés es ampliamente hablado.</li><li><strong>¿Cuántos días son ideales?</strong> Entre 3 y 4 días.</li><li><strong>¿Es cara la ciudad?</strong> Tiene precios razonables, más asequible que otras grandes urbes canadienses.</li><li><strong>¿Qué clima tiene?</strong> Continental, con inviernos fríos y veranos cálidos.</li><li><strong>¿Es buena para familias?</strong> Sí, con parques, museos y actividades variadas.</li></ul><p></p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>Montreal es una ciudad con alma creativa y ambiente acogedor. Perfecta para un viaje cultural, gastronómico y artístico. Con esta guía podrás descubrir sus mejores rincones y disfrutarla como un verdadero local.</p><p>📌 Empieza a planear tu viaje con nuestras rutas, consejos y recomendaciones exclusivas para Montreal.</p><img src='/img/cities/canada/montreal_conclusion.jpg' alt='Vista aérea de Montreal' />"
+      }
+    ]
+  }
+  

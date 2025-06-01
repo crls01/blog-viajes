@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Osaka",
+  "descripcion": "Descubre Osaka, la capital gastronómica de Japón, llena de energía, historia y vida nocturna única.",
+  "img": "/img/cities/japon/osaka1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Osaka es una ciudad vibrante, moderna y acogedora. Conocida por su gastronomía callejera, su castillo histórico y su ambiente relajado, es uno de los destinos más queridos por quienes visitan Japón. Esta guía te ayudará a descubrir lo mejor de Osaka en pocos días.</p><img src='/img/cities/japon/osaka_intro.jpg' alt='Vista de Osaka' />"
+    },
+    {
+      "titulo": "Qué ver en Osaka",
+      "html": "<p>No te puedes perder:</p><ul><li><strong>Castillo de Osaka:</strong> emblema de la ciudad y rodeado de un parque hermoso.</li><li><strong>Dotonbori:</strong> la zona más animada, con luces de neón, tiendas y comida callejera.</li><li><strong>Umeda Sky Building:</strong> rascacielos con mirador espectacular.</li><li><strong>Templo Shitenno-ji:</strong> uno de los templos budistas más antiguos de Japón.</li><li><strong>Acuario de Osaka (Kaiyukan):</strong> uno de los más grandes del mundo.</li></ul><img src='/img/cities/japon/osaka_quever.jpg' alt='Qué ver en Osaka' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<h3>Día 1:</h3><ul><li>Castillo de Osaka</li><li>Templo Shitenno-ji</li><li>Dotonbori de noche</li></ul><h3>Día 2:</h3><ul><li>Umeda Sky Building</li><li>Compras por Namba</li><li>Cena en Kuromon Ichiba Market</li></ul><h3>Día 3:</h3><ul><li>Acuario de Osaka (Kaiyukan)</li><li>Paseo en barco por la bahía</li><li>Relax en un onsen local</li></ul><img src='/img/cities/japon/osaka_itinerario.jpg' alt='Itinerario Osaka' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarse:</p><ul><li><strong>Namba:</strong> perfecta para el ocio y el transporte.</li><li><strong>Umeda:</strong> moderna y bien conectada.</li><li><strong>Shin-Osaka:</strong> ideal si vas a moverte mucho en tren.</li></ul><img src='/img/cities/japon/osaka_dormir.jpg' alt='Dónde dormir en Osaka' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Osaka es considerada la capital culinaria de Japón. Prueba:</p><ul><li><strong>Takoyaki:</strong> bolitas de pulpo callejeras.</li><li><strong>Okonomiyaki:</strong> una especie de tortilla/pizza japonesa.</li><li><strong>Kushikatsu:</strong> brochetas empanadas y fritas.</li><li><strong>Dotonbori y Kuromon Ichiba:</strong> los mejores sitios para comer local.</li></ul><img src='/img/cities/japon/osaka_comida.jpg' alt='Comida en Osaka' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Osaka tiene una vida nocturna muy animada:</p><ul><li><strong>Dotonbori:</strong> luces, bares y restaurantes hasta tarde.</li><li><strong>Shinsekai:</strong> ambiente retro y único para salir.</li><li><strong>Umeda:</strong> rooftops y bares de cócteles elegantes.</li></ul><img src='/img/cities/japon/osaka_noche.jpg' alt='Vida nocturna en Osaka' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Transporte eficiente y sencillo:</p><ul><li><strong>Metro de Osaka:</strong> cubre toda la ciudad.</li><li><strong>JR Loop Line:</strong> para rodear el centro cómodamente.</li><li><strong>Tarjeta IC (ICOCA):</strong> práctica para moverse sin comprar billetes cada vez.</li></ul><img src='/img/cities/japon/osaka_transporte.jpg' alt='Transporte en Osaka' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> japonés, aunque muchas señales están en inglés.</li><li><strong>Moneda:</strong> yen (¥).</li><li><strong>Clima:</strong> templado con veranos húmedos y calurosos.</li><li><strong>Enchufes:</strong> tipo A/B, 100V.</li><li><strong>Seguridad:</strong> ciudad muy segura, incluso de noche.</li></ul><img src='/img/cities/japon/osaka_consejos.jpg' alt='Consejos para Osaka' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde Osaka puedes hacer escapadas fantásticas:</p><ul><li><strong>Nara:</strong> ciervos en libertad y templos antiguos.</li><li><strong>Kobe:</strong> ciudad costera famosa por su carne.</li><li><strong>Kioto:</strong> a solo 30 minutos en tren, ideal para combinar.</li></ul><img src='/img/cities/japon/osaka_escapadas.jpg' alt='Excursiones desde Osaka' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> Con 2-3 días ves lo principal.</li><li><strong>¿Dónde alojarse?</strong> Namba es la mejor opción para turismo.</li><li><strong>¿Qué comida no me puedo perder?</strong> Takoyaki, okonomiyaki y kushikatsu.</li><li><strong>¿Puedo moverme solo con inglés?</strong> Sí, aunque saber algunas frases básicas ayuda.</li><li><strong>¿Se puede combinar con otras ciudades?</strong> Perfectamente con Kioto, Nara o Kobe.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Osaka es una ciudad vibrante, sabrosa y con mucha personalidad. Es el lugar ideal para experimentar el Japón más auténtico y cercano, con una mezcla perfecta de tradición, modernidad y sabor.</p><p>📌 Empieza a preparar tu aventura con nuestras rutas, consejos y recomendaciones locales.</p><img src='/img/cities/japon/osaka_conclusion.jpg' alt='Osaka desde el cielo' />"
+    }
+  ]
+}

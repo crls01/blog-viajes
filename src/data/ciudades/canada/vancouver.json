@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Vancouver",
+  "descripcion": "Explora Vancouver, una ciudad rodeada de naturaleza con un estilo de vida relajado y moderno a orillas del Pacífico.",
+  "img": "/img/cities/canada/vancouver1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Vancouver es una de las ciudades más bellas de Canadá, situada entre el océano Pacífico y las montañas. Es un destino perfecto para los amantes de la naturaleza, el deporte y la cultura urbana. Aquí tienes una guía completa para disfrutar de lo mejor de Vancouver.</p><img src='/img/cities/canada/vancouver_intro.jpg' alt='Vista de Vancouver' />"
+    },
+    {
+      "titulo": "Qué ver en Vancouver",
+      "html": "<p>No te pierdas estos lugares imprescindibles:</p><ul><li><strong>Stanley Park:</strong> enorme parque urbano con vistas al mar y rutas para bici y a pie.</li><li><strong>Granville Island:</strong> mercado, arte y cultura en una zona vibrante.</li><li><strong>Capilano Suspension Bridge:</strong> puente colgante sobre un bosque de coníferas.</li><li><strong>Gastown:</strong> barrio histórico con encanto y buenos restaurantes.</li><li><strong>Vancouver Art Gallery:</strong> arte moderno y exposiciones locales.</li></ul><img src='/img/cities/canada/vancouver_quever.jpg' alt='Qué ver en Vancouver' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Plan ideal para descubrir Vancouver:</p><h3>Día 1:</h3><ul><li>Stanley Park en bicicleta</li><li>Gastown y su famoso reloj de vapor</li><li>Cena en Yaletown</li></ul><h3>Día 2:</h3><ul><li>Capilano Suspension Bridge</li><li>Granville Island</li><li>Atardecer en English Bay</li></ul><h3>Día 3:</h3><ul><li>Vancouver Art Gallery</li><li>Shopping en Robson Street</li><li>Paseo por el barrio chino</li></ul><img src='/img/cities/canada/vancouver_itinerario.jpg' alt='Itinerario Vancouver' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Zonas recomendadas para alojarte:</p><ul><li><strong>Downtown:</strong> práctico y cerca de las atracciones.</li><li><strong>Yaletown:</strong> moderno y bien conectado.</li><li><strong>West End:</strong> tranquilo y junto al mar.</li><li><strong>Gastown:</strong> con estilo y buena oferta gastronómica.</li></ul><img src='/img/cities/canada/vancouver_dormir.jpg' alt='Dónde dormir en Vancouver' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Vancouver tiene una oferta culinaria diversa:</p><ul><li><strong>Granville Island Market:</strong> productos frescos y platos locales.</li><li><strong>Japadog:</strong> hot dogs con fusión japonesa.</li><li><strong>Chinatown:</strong> dim sum y platos asiáticos auténticos.</li><li><strong>West End:</strong> restaurantes internacionales.</li></ul><img src='/img/cities/canada/vancouver_comida.jpg' alt='Comida en Vancouver' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>La noche en Vancouver tiene su encanto:</p><ul><li><strong>Granville Street:</strong> epicentro de bares y discotecas.</li><li><strong>Gastown:</strong> bares con ambiente y música en vivo.</li><li><strong>Yaletown:</strong> terrazas modernas y restaurantes chic.</li><li><strong>Kitsilano:</strong> ambiente relajado junto al mar.</li></ul><img src='/img/cities/canada/vancouver_noche.jpg' alt='Vida nocturna en Vancouver' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Transporte eficiente en Vancouver:</p><ul><li><strong>SkyTrain:</strong> rápido y conectado al aeropuerto.</li><li><strong>Autobuses:</strong> cubren toda la ciudad y suburbios.</li><li><strong>Bicicleta:</strong> ciudad bike-friendly.</li><li><strong>A pie:</strong> el centro es ideal para caminar.</li></ul><img src='/img/cities/canada/vancouver_transporte.jpg' alt='Transporte en Vancouver' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> inglés.</li><li><strong>Moneda:</strong> dólar canadiense (CAD).</li><li><strong>Clima:</strong> templado y lluvioso la mayor parte del año.</li><li><strong>Mejor época:</strong> verano y principios de otoño.</li><li><strong>Seguridad:</strong> ciudad segura y amigable.</li></ul><img src='/img/cities/canada/vancouver_consejos.jpg' alt='Consejos para Vancouver' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Ideas para explorar más allá:</p><ul><li><strong>Whistler:</strong> deportes de nieve y naturaleza.</li><li><strong>Victoria:</strong> capital de Columbia Británica con encanto británico.</li><li><strong>Grouse Mountain:</strong> vistas y actividades al aire libre.</li><li><strong>Sea to Sky Highway:</strong> ruta escénica imperdible.</li></ul><img src='/img/cities/canada/vancouver_escapadas.jpg' alt='Excursiones desde Vancouver' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> Al menos 3 días para disfrutarla bien.</li><li><strong>¿Es caro viajar a Vancouver?</strong> Sí, pero hay opciones para todos los bolsillos.</li><li><strong>¿Se necesita coche?</strong> No es imprescindible, pero útil para excursiones.</li><li><strong>¿Llueve mucho?</strong> Sí, especialmente en invierno.</li><li><strong>¿Es una ciudad segura?</strong> Muy segura y tranquila.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Vancouver es una joya del Pacífico canadiense, donde naturaleza y ciudad conviven en armonía. Es ideal para quienes buscan un viaje activo, relajado y lleno de paisajes. Con esta guía estás listo para descubrirla al máximo.</p><p>📌 Planifica tu visita con nuestros consejos, rutas e ideas para que no te pierdas nada.</p><img src='/img/cities/canada/vancouver_conclusion.jpg' alt='Vista aérea de Vancouver' />"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Tokio",
+  "descripcion": "Explora la fascinante capital de Japón, donde la tradición se mezcla con la vanguardia en cada rincón.",
+  "img": "/img/cities/japon/tokio1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Tokio es una ciudad que nunca deja de sorprender. Desde sus templos milenarios hasta sus rascacielos futuristas, la capital japonesa es un destino vibrante y diverso. Esta guía está pensada para ayudarte a descubrir sus barrios más emblemáticos, su gastronomía y sus secretos mejor guardados.</p><img src='/img/cities/japon/tokio_intro.jpg' alt='Vista de Tokio' />"
+    },
+    {
+      "titulo": "Qué ver en Tokio",
+      "html": "<p>No te pierdas estos lugares imprescindibles:</p><ul><li><strong>Templo Senso-ji:</strong> el más antiguo y famoso de Tokio.</li><li><strong>Shibuya:</strong> su cruce peatonal es un icono moderno.</li><li><strong>Shinjuku:</strong> rascacielos, vida nocturna y parques.</li><li><strong>Akihabara:</strong> el paraíso del manga, anime y tecnología.</li><li><strong>Meiji Jingu:</strong> un santuario rodeado de naturaleza en Harajuku.</li></ul><img src='/img/cities/japon/tokio_quever.jpg' alt='Qué ver en Tokio' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una ruta ideal para una primera vez en Tokio:</p><h3>Día 1:</h3><ul><li>Templo Senso-ji y Asakusa</li><li>Paseo en barco por el río Sumida</li><li>Sky Tree al atardecer</li></ul><h3>Día 2:</h3><ul><li>Meiji Jingu y Harajuku</li><li>Compras por Omotesando</li><li>Shibuya y cruce peatonal de noche</li></ul><h3>Día 3:</h3><ul><li>Shinjuku Gyoen</li><li>Mirador del Ayuntamiento de Tokio</li><li>Akihabara</li></ul><img src='/img/cities/japon/tokio_itinerario.jpg' alt='Itinerario Tokio' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Mejores zonas para alojarse:</p><ul><li><strong>Shinjuku:</strong> animado y bien conectado.</li><li><strong>Asakusa:</strong> tradicional y con encanto.</li><li><strong>Shibuya:</strong> moderno y juvenil.</li><li><strong>Ueno:</strong> ideal para familias y museos.</li></ul><img src='/img/cities/japon/tokio_dormir.jpg' alt='Dónde dormir en Tokio' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Tokio es una meca gastronómica con opciones infinitas:</p><ul><li><strong>Mercado de Toyosu:</strong> sushi fresco y desayunos tradicionales.</li><li><strong>Shinjuku Omoide Yokocho:</strong> callejones llenos de izakayas (bares japoneses).</li><li><strong>Ramen Street en la estación de Tokio:</strong> para los amantes de los fideos.</li><li><strong>Depachika:</strong> supermercados gourmet en grandes almacenes.</li></ul><img src='/img/cities/japon/tokio_comida.jpg' alt='Comida en Tokio' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>La noche en Tokio tiene mil caras:</p><ul><li><strong>Shinjuku:</strong> bares temáticos, karaokes y Golden Gai.</li><li><strong>Roppongi:</strong> clubs y discotecas internacionales.</li><li><strong>Ikebukuro:</strong> ambiente juvenil y centros de juegos.</li><li><strong>Odaiba:</strong> vida nocturna con vistas a la bahía.</li></ul><img src='/img/cities/japon/tokio_noche.jpg' alt='Vida nocturna en Tokio' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>El transporte en Tokio es puntual y eficiente:</p><ul><li><strong>Metro y JR:</strong> cubren toda la ciudad con líneas rápidas.</li><li><strong>Japan Rail Pass:</strong> útil si visitas más ciudades japonesas.</li><li><strong>Tarjetas IC (Suica o Pasmo):</strong> recargables y prácticas.</li><li><strong>A pie:</strong> ideal para explorar barrios como Shibuya o Ginza.</li></ul><img src='/img/cities/japon/tokio_transporte.jpg' alt='Transporte en Tokio' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> japonés (muchos carteles en inglés).</li><li><strong>Moneda:</strong> yen (¥).</li><li><strong>Internet:</strong> recomendable llevar pocket wifi o SIM local.</li><li><strong>Clima:</strong> templado, con veranos húmedos y primaveras agradables.</li><li><strong>Seguridad:</strong> muy alta, ideal para viajar solo/a.</li></ul><img src='/img/cities/japon/tokio_consejos.jpg' alt='Consejos para Tokio' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde Tokio puedes hacer escapadas memorables:</p><ul><li><strong>Nikko:</strong> templos y naturaleza a 2 horas.</li><li><strong>Kamakura:</strong> budas gigantes y playa cerca de la ciudad.</li><li><strong>Monte Fuji:</strong> vistas icónicas y senderismo.</li><li><strong>Hakone:</strong> onsen (baños termales) y vistas panorámicas.</li></ul><img src='/img/cities/japon/tokio_escapadas.jpg' alt='Excursiones desde Tokio' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> Mínimo 3, idealmente 5 o más.</li><li><strong>¿Dónde cambiar dinero?</strong> En bancos, aeropuertos o casas de cambio.</li><li><strong>¿Es Tokio cara?</strong> Sí, pero hay muchas opciones económicas.</li><li><strong>¿Conviene comprar el Japan Rail Pass?</strong> Solo si visitas otras ciudades.</li><li><strong>¿Puedo moverme con inglés?</strong> En general sí, aunque básico.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Tokio es una ciudad que te deja sin aliento: tradiciones milenarias, modernidad tecnológica y una cultura única. Con esta guía estás listo para sumergirte en su magia y descubrir todos sus matices.</p><p>📌 Empieza ya a organizar tu viaje con nuestras rutas, consejos y lugares favoritos.</p><img src='/img/cities/japon/tokio_conclusion.jpg' alt='Tokio desde lo alto' />"
+    }
+  ]
+}

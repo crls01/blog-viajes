@@ -28,9 +28,11 @@
     width: auto;
 }
 
-.header-right {
-    /* Lo dejamos para cuando haya más contenido */
-}
+/*
+Próximos iconos de la derecha
+*/
+/* .header-right {
+} */
 
 .btn-login {
     background-color: #336699;
@@ -47,15 +49,15 @@
     background-color: #254d73;
 }
 
-/* Responsive: en móviles, podemos hacer que el header sea vertical o apile */
+/* Responsive: en móviles*/
 @media (max-width: 600px) {
     .header {
         flex-direction: column;
         gap: 0.5rem;
     }
-
+/* Logo arriba */
     .header-center {
         order: -1;
-        /* para que el logo vaya arriba */
+        
     }
 }

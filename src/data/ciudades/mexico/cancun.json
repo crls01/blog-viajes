@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Cancún",
+  "descripcion": "Disfruta de las playas paradisíacas, ruinas mayas y vida nocturna en uno de los destinos más populares de México.",
+  "img": "/img/cities/mexico/cancun1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Cancún es el corazón turístico del Caribe mexicano. Famoso por sus aguas turquesas, playas de arena blanca y resorts de lujo, también ofrece cultura maya, cenotes y una animada vida nocturna. Aquí tienes una guía completa para disfrutar de Cancún al máximo.</p><img src='/img/cities/mexico/cancun_intro.jpg' alt='Vista de Cancún' />"
+    },
+    {
+      "titulo": "Qué ver en Cancún",
+      "html": "<p>No te pierdas:</p><ul><li><strong>Zona Hotelera:</strong> playas espectaculares y vida nocturna.</li><li><strong>Isla Mujeres:</strong> excursión imperdible en ferry.</li><li><strong>Ruinas El Rey:</strong> yacimiento maya dentro de la ciudad.</li><li><strong>Parque Xcaret:</strong> cultura, naturaleza y espectáculos.</li><li><strong>Cenotes:</strong> nado en pozas naturales como Dos Ojos o Ik-Kil.</li></ul><img src='/img/cities/mexico/cancun_quever.jpg' alt='Qué ver en Cancún' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Descubre Cancún en tres días:</p><h3>Día 1:</h3><ul><li>Zona Hotelera y playa Delfines</li><li>Ruinas El Rey</li><li>Cena en restaurante local</li></ul><h3>Día 2:</h3><ul><li>Excursión a Isla Mujeres</li><li>Snorkel en el MUSA (Museo Subacuático de Arte)</li><li>Atardecer en Playa Norte</li></ul><h3>Día 3:</h3><ul><li>Visita a cenotes</li><li>Compras en Mercado 28</li><li>Vida nocturna en Coco Bongo</li></ul><img src='/img/cities/mexico/cancun_itinerario.jpg' alt='Itinerario Cancún' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Zonas recomendadas:</p><ul><li><strong>Zona Hotelera:</strong> ideal para vacaciones de playa.</li><li><strong>Centro de Cancún:</strong> más auténtico y económico.</li><li><strong>Isla Mujeres:</strong> alternativa tranquila cerca del bullicio.</li></ul><img src='/img/cities/mexico/cancun_dormir.jpg' alt='Dónde dormir en Cancún' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Delicias locales para probar:</p><ul><li><strong>Tacos de pescado:</strong> frescos y sabrosos.</li><li><strong>Cochinita pibil:</strong> especialidad yucateca.</li><li><strong>Mariscos:</strong> ceviches, camarones y langosta.</li><li><strong>Mercado 23:</strong> comida local y ambiente típico.</li></ul><img src='/img/cities/mexico/cancun_comida.jpg' alt='Comida en Cancún' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Opciones para todos los gustos:</p><ul><li><strong>Coco Bongo:</strong> espectáculos y fiesta.</li><li><strong>Mandala:</strong> discoteca con ambiente tropical.</li><li><strong>The City:</strong> una de las más grandes de América Latina.</li><li><strong>Beach clubs:</strong> fiesta junto al mar.</li></ul><img src='/img/cities/mexico/cancun_noche.jpg' alt='Vida nocturna en Cancún' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Transportes disponibles:</p><ul><li><strong>Autobuses:</strong> conectan el centro con la Zona Hotelera.</li><li><strong>Taxis:</strong> mejor acordar precio antes.</li><li><strong>Bicicleta:</strong> ideal para recorridos junto a la playa.</li><li><strong>Coches de alquiler:</strong> para excursiones fuera de la ciudad.</li></ul><img src='/img/cities/mexico/cancun_transporte.jpg' alt='Transporte en Cancún' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Moneda:</strong> peso mexicano (MXN).</li><li><strong>Clima:</strong> tropical, con temporada de lluvias de mayo a octubre.</li><li><strong>Idioma:</strong> español.</li><li><strong>Seguridad:</strong> zonas turísticas seguras, precaución en zonas poco concurridas.</li><li><strong>Protip:</strong> lleva protector solar biodegradable para los cenotes y el mar.</li></ul><img src='/img/cities/mexico/cancun_consejos.jpg' alt='Consejos para Cancún' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>No te pierdas:</p><ul><li><strong>Tulum:</strong> ruinas mayas frente al mar.</li><li><strong>Chichén Itzá:</strong> una de las 7 maravillas del mundo moderno.</li><li><strong>Playa del Carmen:</strong> vida costera y compras.</li><li><strong>Holbox:</strong> isla tranquila con playas de ensueño.</li></ul><img src='/img/cities/mexico/cancun_escapadas.jpg' alt='Excursiones desde Cancún' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuál es la mejor época para ir?</strong> De diciembre a abril, clima seco y soleado.</li><li><strong>¿Se necesita coche?</strong> No en Cancún, pero sí para excursiones.</li><li><strong>¿Es seguro?</strong> En general sí, precaución en zonas alejadas.</li><li><strong>¿Cuántos días recomiendas?</strong> De 4 a 6 días para combinar relax y actividades.</li><li><strong>¿Conviene cambiar dinero?</strong> Sí, es mejor pagar en pesos.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Cancún lo tiene todo: playas de postal, cultura maya, aventura y descanso. Con esta guía podrás organizar tu viaje perfecto, combinar relax con exploración y vivir una experiencia inolvidable en el Caribe mexicano.</p><p>📌 Planifica ya tu viaje con nuestras rutas, consejos y lugares destacados.</p><img src='/img/cities/mexico/cancun_conclusion.jpg' alt='Vista aérea de Cancún' />"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Guadalajara",
+  "descripcion": "Descubre Guadalajara, una ciudad vibrante con esencia mexicana, mariachis, tequila y arquitectura colonial.",
+  "img": "/img/cities/mexico/guadalajara1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Guadalajara es una de las ciudades más representativas de México. Cuna del mariachi y del tequila, esta ciudad combina tradición, modernidad y cultura en un ambiente auténtico y acogedor. Ideal para sumergirse en la historia mexicana y su vibrante estilo de vida.</p><img src='/img/cities/mexico/guadalajara_intro.jpg' alt='Vista de Guadalajara' />"
+    },
+    {
+      "titulo": "Qué ver en Guadalajara",
+      "html": "<p>Principales atractivos turísticos:</p><ul><li><strong>Catedral de Guadalajara:</strong> ícono arquitectónico del centro histórico.</li><li><strong>Teatro Degollado:</strong> uno de los teatros más bellos de México.</li><li><strong>Hospicio Cabañas:</strong> Patrimonio de la Humanidad con murales de José Clemente Orozco.</li><li><strong>Plaza Tapatía:</strong> conecta los principales sitios del centro.</li><li><strong>Mercado San Juan de Dios:</strong> uno de los mercados techados más grandes de Latinoamérica.</li></ul><img src='/img/cities/mexico/guadalajara_quever.jpg' alt='Qué ver en Guadalajara' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Plan recomendado para conocer Guadalajara:</p><h3>Día 1:</h3><ul><li>Centro histórico: Catedral, Teatro Degollado y Plaza Tapatía</li><li>Comida en Mercado San Juan de Dios</li><li>Noche en Chapultepec</li></ul><h3>Día 2:</h3><ul><li>Hospicio Cabañas y museos</li><li>Visita a Tlaquepaque: arte y artesanía</li><li>Mariachi en vivo durante la cena</li></ul><h3>Día 3:</h3><ul><li>Excursión a Tequila</li><li>Tour en destilería</li><li>Puesta de sol en los campos de agave</li></ul><img src='/img/cities/mexico/guadalajara_itinerario.jpg' alt='Itinerario Guadalajara' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Zonas ideales para alojarse:</p><ul><li><strong>Centro histórico:</strong> para estar cerca de lo cultural y tradicional.</li><li><strong>Chapultepec:</strong> moderno, juvenil y con vida nocturna.</li><li><strong>Tlaquepaque:</strong> artístico y pintoresco.</li><li><strong>Zona Expo:</strong> práctica para negocios y bien conectada.</li></ul><img src='/img/cities/mexico/guadalajara_dormir.jpg' alt='Dónde dormir en Guadalajara' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Sabores que no puedes perderte:</p><ul><li><strong>Birria:</strong> guiso tradicional de carne, símbolo local.</li><li><strong>Tortas ahogadas:</strong> pan con carne de cerdo bañado en salsa.</li><li><strong>Mercado Alcalde:</strong> ideal para probar antojitos tapatíos.</li><li><strong>Restaurantes en Tlaquepaque:</strong> cocina mexicana con ambiente folclórico.</li></ul><img src='/img/cities/mexico/guadalajara_comida.jpg' alt='Comida en Guadalajara' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Planes para la noche:</p><ul><li><strong>Avenida Chapultepec:</strong> zona de bares, terrazas y vida joven.</li><li><strong>Tlaquepaque:</strong> música en vivo en patios tradicionales.</li><li><strong>Centro histórico:</strong> cantinas con historia.</li><li><strong>Zoológico nocturno:</strong> experiencia única para familias.</li></ul><img src='/img/cities/mexico/guadalajara_noche.jpg' alt='Vida nocturna en Guadalajara' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Transporte en Guadalajara:</p><ul><li><strong>Tren ligero:</strong> rápido para moverse por zonas clave.</li><li><strong>Macrobús:</strong> útil y económico.</li><li><strong>Taxis y apps:</strong> seguros y abundantes.</li><li><strong>A pie o bicicleta:</strong> buena opción en zonas como Chapultepec y el centro.</li></ul><img src='/img/cities/mexico/guadalajara_transporte.jpg' alt='Transporte en Guadalajara' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> español.</li><li><strong>Moneda:</strong> peso mexicano (MXN).</li><li><strong>Clima:</strong> templado casi todo el año, con lluvias en verano.</li><li><strong>Seguridad:</strong> ciudad relativamente segura, evita zonas periféricas por la noche.</li><li><strong>Festividades:</strong> si puedes, viaja durante el Festival Internacional del Mariachi.</li></ul><img src='/img/cities/mexico/guadalajara_consejos.jpg' alt='Consejos para Guadalajara' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Lugares para explorar desde Guadalajara:</p><ul><li><strong>Tequila:</strong> pueblo mágico y origen de la bebida nacional.</li><li><strong>Chapala:</strong> lago ideal para pasear y relajarse.</li><li><strong>Ajijic:</strong> encantador pueblo junto al lago.</li><li><strong>Tonalá:</strong> artesanías y mercados tradicionales.</li></ul><img src='/img/cities/mexico/guadalajara_escapadas.jpg' alt='Excursiones desde Guadalajara' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> 2 a 3 días para una experiencia completa.</li><li><strong>¿Es recomendable alquilar coche?</strong> Solo si planeas excursiones.</li><li><strong>¿Es una ciudad segura?</strong> Sí, con precauciones básicas.</li><li><strong>¿Qué llevar?</strong> Ropa ligera y calzado cómodo.</li><li><strong>¿Se puede visitar con niños?</strong> Sí, es una ciudad familiar.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Guadalajara es una ciudad que respira tradición, cultura y sabor. Es el lugar ideal para quienes quieren conocer el alma de México, disfrutar de su música, comida y hospitalidad. Con esta guía, estás listo para vivir una experiencia tapatía inolvidable.</p><p>📌 Empieza a planificar tu viaje con nuestras rutas, consejos y recomendaciones para aprovechar al máximo Guadalajara.</p><img src='/img/cities/mexico/guadalajara_conclusion.jpg' alt='Vista aérea de Guadalajara' />"
+    }
+  ]
+}

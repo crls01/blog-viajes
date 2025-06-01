@@ -1,0 +1,62 @@
+{
+    "id": "australia",
+    "titulo": "Qué ver en Australia: guía práctica para descubrir Sídney, Melbourne y Brisbane",
+    "img": "/img/countries/australia.jpg",
+    "ciudades_destacadas": [
+      "sydney",
+      "melbourne",
+      "brisbane"
+    ],
+    "secciones": [
+      {
+        "titulo": "Introducción: viajar a Australia",
+        "html": "<p>¿Estás planeando un viaje a Australia? Este país-continente es una mezcla única de naturaleza salvaje, playas infinitas, ciudades modernas y cultura aborigen. En esta guía te llevamos a través de tres de sus ciudades más destacadas: Sídney, Melbourne y Brisbane.</p><p>Te contamos cómo llegar, qué ver, dónde alojarte, qué comer y cómo moverte para que disfrutes al máximo tu experiencia australiana.</p><img src='/img/cities/australia/sydney1.jpg' alt='Sídney' />"
+      },
+      {
+        "titulo": "¿Cómo llegar a Australia?",
+        "html": "<p>Australia está lejos, pero muy bien conectada. La mayoría de vuelos internacionales aterrizan en:</p><ul><li><strong>Sídney Kingsford Smith (SYD):</strong> la puerta de entrada más común.</li><li><strong>Melbourne Tullamarine (MEL):</strong> ideal si comienzas en el sur.</li><li><strong>Brisbane Airport (BNE):</strong> excelente opción si vas a explorar la costa este.</li></ul><p>Los vuelos desde Europa o América suelen tener escalas en Dubái, Doha, Singapur o Hong Kong.</p><p>🔗 Consulta nuestra guía para saber cómo moverse entre Sídney, Melbourne y Brisbane.</p><img src='/img/cities/australia/melbourne1.jpg' alt='Melbourne' />"
+      },
+      {
+        "titulo": "Qué ver en Australia: empieza por sus tres joyas",
+        "subsecciones": [
+          {
+            "ciudad": "Sídney",
+            "html": "<p>La ciudad más famosa de Australia. Pasea por el puerto, contempla la Ópera de Sídney, sube al Harbour Bridge y relájate en las playas de Bondi o Manly.</p><p>👉 Guía completa de Sídney<br>👉 Qué ver en Sídney en 3 días</p><img src='/img/cities/australia/sydney2.jpg' alt='Ópera de Sídney' />"
+          },
+          {
+            "ciudad": "Melbourne",
+            "html": "<p>Capital cultural del país, conocida por su arte urbano, cafés con encanto, barrios multiculturales y su cercanía a la Great Ocean Road.</p><p>👉 Guía completa de Melbourne<br>👉 Qué ver en Melbourne en 3 días</p><img src='/img/cities/australia/melbourne2.jpg' alt='Melbourne centro' />"
+          },
+          {
+            "ciudad": "Brisbane",
+            "html": "<p>Una ciudad moderna bañada por el río Brisbane, ideal para quienes buscan un ambiente relajado, buen clima y acceso fácil a la Gold Coast.</p><p>👉 Guía completa de Brisbane<br>👉 Qué ver en Brisbane en 2 o 3 días</p><img src='/img/cities/australia/brisbane2.jpg' alt='Brisbane río' />"
+          }
+        ]
+      },
+      {
+        "titulo": "¿Dónde dormir en Australia?",
+        "html": "<p>Australia tiene opciones de alojamiento para todos los bolsillos. Estas son las zonas recomendadas:</p><ul><li><strong>Sídney:</strong> Circular Quay, The Rocks y Surry Hills.</li><li><strong>Melbourne:</strong> CBD (centro), Fitzroy o St Kilda si buscas playa.</li><li><strong>Brisbane:</strong> South Bank, Fortitude Valley y el centro.</li></ul><p>🔗 Explora nuestras guías para saber dónde dormir en cada ciudad.</p><img src='/img/cities/australia/brisbane3.jpg' alt='Dormir Brisbane' />"
+      },
+      {
+        "titulo": "Gastronomía: qué y dónde comer",
+        "html": "<p>La cocina australiana es muy variada, con influencias asiáticas y europeas. Estas son algunas delicias que no debes perderte:</p><ul><li><strong>Sídney:</strong> mariscos frescos, fish & chips en Bondi, brunchs gourmet.</li><li><strong>Melbourne:</strong> cafés de especialidad, cocina fusión y mercados como Queen Victoria Market.</li><li><strong>Brisbane:</strong> platos tropicales, carne a la barbacoa y comida asiática.</li></ul><p>🔗 Consulta nuestra guía de dónde comer en Sídney, Melbourne y Brisbane.</p><img src='/img/cities/australia/melbourne3.jpg' alt='Comida Melbourne' />"
+      },
+      {
+        "titulo": "¿Tienes pocos días?",
+        "html": "<p>Aquí te dejamos algunas ideas para estancias cortas y bien aprovechadas:</p><ul><li><strong>Sídney:</strong> Sídney en 3 días</li><li><strong>Melbourne:</strong> Fin de semana en Melbourne</li><li><strong>Brisbane:</strong> Brisbane en 48 horas</li></ul><p>👉 Nuestros itinerarios te ayudarán a ver lo imprescindible sin estrés. Consulta nuestras guías por ciudad.</p><img src='/img/cities/australia/sydney3.jpg' alt='Vistas Sídney' />"
+      },
+      {
+        "titulo": "Consejos prácticos para viajar a Australia",
+        "html": "<ul><li><strong>Idioma:</strong> inglés.</li><li><strong>Moneda:</strong> dólar australiano (AUD).</li><li><strong>Visado:</strong> obligatorio para casi todos los viajeros (eVisitor o ETA).</li><li><strong>Enchufes:</strong> tipo I, 230V.</li><li><strong>Mejor época para visitar:</strong> primavera y otoño (de septiembre a noviembre y de marzo a mayo).</li></ul><p>🔗 Mira más consejos en nuestras guías prácticas de cada ciudad.</p><img src='/img/cities/australia/sydney4.jpg' alt='Consejos Sídney' />"
+      },
+      {
+        "titulo": "¿Tienes más tiempo?",
+        "html": "<p>Si puedes alargar tu viaje, te recomendamos combinar estas tres ciudades con algunas escapadas espectaculares:</p><p>🚗 <strong>Ruta recomendada:</strong> Brisbane → Sídney → Melbourne (o viceversa).</p><p>Desde cada ciudad puedes hacer excursiones como:</p><ul><li><strong>Desde Sídney:</strong> Blue Mountains o Hunter Valley.</li><li><strong>Desde Melbourne:</strong> Great Ocean Road o Phillip Island.</li><li><strong>Desde Brisbane:</strong> Gold Coast o isla Moreton.</li></ul><p>🔗 Consulta nuestras escapadas recomendadas desde cada ciudad.</p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>Australia es un destino único. Con solo tres ciudades puedes disfrutar de playas, arquitectura, cultura y naturaleza. Perfecto tanto para una primera visita como para repetir.</p><p>📌 Empieza tu aventura aquí:<br>🔗 Viajar a Sídney<br>🔗 Descubrir Melbourne<br>🔗 Guía de Brisbane</p>"
+      }
+    ]
+  }
+  

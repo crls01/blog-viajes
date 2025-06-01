@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Roma",
+  "descripcion": "Explora la Ciudad Eterna: historia milenaria, monumentos únicos y una gastronomía inolvidable.",
+  "img": "/img/cities/italia/roma1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Roma, la capital de Italia, es una ciudad que combina a la perfección historia, arte y vida contemporánea. Pasear por sus calles es viajar en el tiempo: desde el Coliseo hasta las plazas barrocas, cada rincón tiene una historia que contar. En esta guía encontrarás todo lo necesario para organizar tu viaje y descubrir lo mejor de la Ciudad Eterna.</p><img src='/img/cities/italia/roma_intro.jpg' alt='Vista de Roma' />"
+    },
+    {
+      "titulo": "Qué ver en Roma",
+      "html": "<p>Imprescindibles de Roma:</p><ul><li><strong>Coliseo:</strong> símbolo de la ciudad y maravilla del mundo antiguo.</li><li><strong>Foro Romano y Palatino:</strong> el corazón de la Roma imperial.</li><li><strong>Fontana di Trevi:</strong> lanza una moneda y pide un deseo.</li><li><strong>Plaza Navona y Plaza España:</strong> iconos del barroco romano.</li><li><strong>Vaticano:</strong> museos, Capilla Sixtina y Basílica de San Pedro.</li></ul><img src='/img/cities/italia/roma_quever.jpg' alt='Qué ver en Roma' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una ruta ideal para ver lo más importante:</p><h3>Día 1:</h3><ul><li>Coliseo, Foro y Palatino</li><li>Paseo por el Trastevere</li><li>Cena tradicional italiana</li></ul><h3>Día 2:</h3><ul><li>Vaticano y Museos Vaticanos</li><li>Castel Sant’Angelo</li><li>Atardecer desde Gianicolo</li></ul><h3>Día 3:</h3><ul><li>Fontana di Trevi y Plaza España</li><li>Piazza Navona y Panteón</li><li>Compras por Via del Corso</li></ul><img src='/img/cities/italia/roma_itinerario.jpg' alt='Itinerario Roma' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarse:</p><ul><li><strong>Centro Histórico:</strong> cerca de las principales atracciones.</li><li><strong>Trastevere:</strong> auténtico, bohemio y con buena gastronomía.</li><li><strong>Prati:</strong> cerca del Vaticano y más tranquilo.</li><li><strong>Termini:</strong> económico y bien conectado.</li></ul><img src='/img/cities/italia/roma_dormir.jpg' alt='Dónde dormir en Roma' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Disfruta de la gastronomía romana:</p><ul><li><strong>Trastevere:</strong> trattorias tradicionales.</li><li><strong>Campo de' Fiori:</strong> mercados y restaurantes locales.</li><li><strong>Testaccio:</strong> cocina auténtica y sin turistas.</li><li><strong>Pizzerías y heladerías:</strong> en todo el centro.</li></ul><img src='/img/cities/italia/roma_comida.jpg' alt='Comida en Roma' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>La noche en Roma:</p><ul><li><strong>Trastevere:</strong> bares con encanto y ambiente local.</li><li><strong>Piazza Navona:</strong> terrazas animadas por la noche.</li><li><strong>Testaccio:</strong> clubs y locales de música en vivo.</li><li><strong>Monti:</strong> copas tranquilas y ambiente joven.</li></ul><img src='/img/cities/italia/roma_noche.jpg' alt='Vida nocturna en Roma' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Opciones de transporte en Roma:</p><ul><li><strong>Metro:</strong> rápido pero con pocas líneas.</li><li><strong>Autobuses y tranvías:</strong> amplios pero pueden ser lentos.</li><li><strong>A pie:</strong> lo mejor para explorar el centro.</li><li><strong>Bicicleta o patinete:</strong> ideales para moverse libremente.</li></ul><img src='/img/cities/italia/roma_transporte.jpg' alt='Transporte en Roma' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> italiano.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Temporada alta:</strong> primavera y otoño.</li><li><strong>Vestimenta:</strong> en lugares religiosos se requiere ropa discreta.</li><li><strong>Seguridad:</strong> zona turística segura pero atenta a carteristas.</li></ul><img src='/img/cities/italia/roma_consejos.jpg' alt='Consejos para Roma' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Lugares ideales para una escapada desde Roma:</p><ul><li><strong>Tivoli:</strong> Villa d'Este y Villa Adriana.</li><li><strong>Ostia Antica:</strong> yacimientos arqueológicos a media hora.</li><li><strong>Orvieto:</strong> ciudad medieval sobre un acantilado.</li><li><strong>Castelli Romani:</strong> pueblos y vinos tradicionales.</li></ul><img src='/img/cities/italia/roma_escapadas.jpg' alt='Excursiones desde Roma' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> 3 a 5 días para ver lo esencial.</li><li><strong>¿Es Roma cara?</strong> Hay opciones para todos los bolsillos, pero el centro puede ser costoso.</li><li><strong>¿Es necesario reservar con antelación?</strong> Sí, especialmente entradas al Coliseo o Vaticano.</li><li><strong>¿Qué comer típico?</strong> Carbonara, amatriciana y gelato artesanal.</li><li><strong>¿Es segura?</strong> Muy turística, pero cuida tus pertenencias.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Roma es una ciudad que nunca deja de sorprender. Su mezcla de historia, arte y vida cotidiana la convierte en un destino imprescindible. Con esta guía, estarás listo para vivirla al máximo.</p><p>📌 Empieza tu aventura con nuestros itinerarios, consejos y recomendaciones personalizadas para disfrutar Roma como se merece.</p><img src='/img/cities/italia/roma_conclusion.jpg' alt='Vista aérea de Roma' />"
+    }
+  ]
+}

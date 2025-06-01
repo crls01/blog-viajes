@@ -1,0 +1,62 @@
+{
+    "id": "japon",
+    "titulo": "Qué ver en Japón: guía práctica para descubrir Kioto, Osaka y Tokio",
+    "img": "/img/countries/japon.jpg",
+    "ciudades_destacadas": [
+      "kioto",
+      "osaka",
+      "tokio"
+    ],
+    "secciones": [
+      {
+        "titulo": "Introducción: viajar a Japón",
+        "html": "<p>Japón es un país donde lo tradicional y lo futurista conviven en perfecta armonía. Desde templos milenarios hasta rascacielos de neón, Japón ofrece una experiencia única. En esta guía descubrirás lo mejor de tres de sus ciudades más fascinantes: Kioto, Osaka y Tokio.</p><p>Te mostramos cómo llegar, qué ver, dónde dormir, qué comer y cómo moverte para que tu viaje a Japón sea inolvidable.</p><img src='/img/cities/japon/kioto1.jpg' alt='Kioto' />"
+      },
+      {
+        "titulo": "¿Cómo llegar a Japón?",
+        "html": "<p>Los principales aeropuertos internacionales son:</p><ul><li><strong>Tokio - Narita (NRT) y Haneda (HND):</strong> las principales puertas de entrada.</li><li><strong>Osaka - Kansai International (KIX):</strong> perfecto si visitas el oeste de Japón.</li></ul><p>Desde allí puedes moverte fácilmente entre ciudades usando el tren bala <strong>Shinkansen</strong>, rápido y puntual.</p><p>🔗 Consulta nuestra guía sobre cómo moverse entre Kioto, Osaka y Tokio.</p><img src='/img/cities/japon/osaka1.jpg' alt='Osaka' />"
+      },
+      {
+        "titulo": "Qué ver en Japón: empieza por sus tres joyas",
+        "subsecciones": [
+          {
+            "ciudad": "Kioto",
+            "html": "<p>Antigua capital imperial, famosa por sus templos, jardines, geishas y calles tradicionales. Lugares como Fushimi Inari o el Bosque de Bambú de Arashiyama son imprescindibles.</p><p>👉 Guía completa de Kioto<br>👉 Qué ver en Kioto en 3 días</p><img src='/img/cities/japon/kioto2.jpg' alt='Templo Kioto' />"
+          },
+          {
+            "ciudad": "Osaka",
+            "html": "<p>Moderna y desenfadada, Osaka es ideal para amantes de la comida callejera y el entretenimiento. No te pierdas el Castillo de Osaka o la zona de Dotonbori.</p><p>👉 Guía completa de Osaka<br>👉 Qué ver en Osaka en 2 o 3 días</p><img src='/img/cities/japon/osaka2.jpg' alt='Calles Osaka' />"
+          },
+          {
+            "ciudad": "Tokio",
+            "html": "<p>La capital futurista de Japón. Visita Shibuya, Asakusa, Akihabara y el Palacio Imperial. Entre neones y templos, Tokio nunca deja de sorprender.</p><p>👉 Guía completa de Tokio<br>👉 Qué ver en Tokio en 3 días</p><img src='/img/cities/japon/tokio2.jpg' alt='Tokio ciudad' />"
+          }
+        ]
+      },
+      {
+        "titulo": "¿Dónde dormir en Japón?",
+        "html": "<p>En Japón puedes dormir en hoteles modernos, tradicionales ryokan o cápsulas. Recomendaciones por ciudad:</p><ul><li><strong>Kioto:</strong> cerca de Gion, la estación central o Higashiyama.</li><li><strong>Osaka:</strong> Namba, Umeda o Tennoji.</li><li><strong>Tokio:</strong> Shinjuku, Asakusa o Shibuya.</li></ul><p>🔗 Explora nuestras guías para saber dónde dormir en cada ciudad.</p><img src='/img/cities/japon/kioto3.jpg' alt='Alojamiento Kioto' />"
+      },
+      {
+        "titulo": "Gastronomía: qué y dónde comer",
+        "html": "<p>La comida japonesa es famosa en todo el mundo. Estas son algunas especialidades que debes probar:</p><ul><li><strong>Kioto:</strong> cocina kaiseki, tofu tradicional, matcha y dulces japoneses.</li><li><strong>Osaka:</strong> okonomiyaki, takoyaki y kushikatsu.</li><li><strong>Tokio:</strong> sushi fresco, ramen, izakayas en Golden Gai.</li></ul><p>🔗 Consulta nuestra guía de dónde comer en Kioto, Osaka y Tokio.</p><img src='/img/cities/japon/osaka3.jpg' alt='Comida Osaka' />"
+      },
+      {
+        "titulo": "¿Tienes pocos días?",
+        "html": "<p>Si tu visita es corta, estos itinerarios te ayudarán a sacar el máximo provecho:</p><ul><li><strong>Kioto:</strong> Un fin de semana en Kioto</li><li><strong>Osaka:</strong> Osaka en 48 horas</li><li><strong>Tokio:</strong> Tokio en 3 días</li></ul><p>👉 Todos nuestros itinerarios están diseñados para ver lo esencial sin prisas.</p><img src='/img/cities/japon/kioto4.jpg' alt='Itinerario Kioto' />"
+      },
+      {
+        "titulo": "Consejos prácticos para viajar a Japón",
+        "html": "<ul><li><strong>Idioma:</strong> japonés. En zonas turísticas, algunos entienden inglés.</li><li><strong>Moneda:</strong> yen japonés (¥).</li><li><strong>Transporte:</strong> JR Pass para moverse entre ciudades.</li><li><strong>Enchufes:</strong> tipo A/B, 100V.</li><li><strong>Mejor época:</strong> primavera (cerezos en flor) y otoño (foliage).</li></ul><p>🔗 Mira más consejos en nuestras guías prácticas de cada ciudad.</p><img src='/img/cities/japon/tokio3.jpg' alt='Consejos Tokio' />"
+      },
+      {
+        "titulo": "¿Tienes más tiempo?",
+        "html": "<p>Si tienes más días, añade alguna de estas excursiones:</p><ul><li><strong>Desde Kioto:</strong> Nara, Uji o el Lago Biwa.</li><li><strong>Desde Osaka:</strong> Kobe o Himeji.</li><li><strong>Desde Tokio:</strong> Nikko, Hakone o Monte Fuji.</li></ul><p>🚅 <strong>Ruta recomendada:</strong> Kioto → Osaka → Tokio (con Shinkansen).</p><p>🔗 Consulta nuestras escapadas desde Kioto, Osaka y Tokio.</p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>Japón es un destino que combina historia, tecnología, espiritualidad y gastronomía. Con solo estas tres ciudades puedes tener una visión completa del país. Ideal para una primera visita y para enamorarte de su cultura.</p><p>📌 Empieza a planear tu viaje:<br>🔗 Viajar a Kioto<br>🔗 Descubrir Osaka<br>🔗 Guía de Tokio</p>"
+      }
+    ]
+  }
+  

@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Venecia",
+  "descripcion": "Descubre la ciudad de los canales, con su historia, arquitectura y romanticismo flotando sobre el agua.",
+  "img": "/img/cities/italia/venecia1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Venecia es una ciudad única en el mundo, construida sobre una laguna y compuesta por más de 100 islas conectadas por canales y puentes. Su atmósfera romántica, historia fascinante y arquitectura singular la convierten en uno de los destinos más especiales de Europa.</p><img src='/img/cities/italia/venecia_intro.jpg' alt='Vista de Venecia' />"
+    },
+    {
+      "titulo": "Qué ver en Venecia",
+      "html": "<p>No te pierdas estos lugares imprescindibles:</p><ul><li><strong>Plaza de San Marcos:</strong> el corazón de la ciudad con la Basílica y el Campanile.</li><li><strong>Puente de Rialto:</strong> el puente más famoso sobre el Gran Canal.</li><li><strong>Palacio Ducal:</strong> joya del gótico veneciano.</li><li><strong>Basílica de Santa Maria della Salute:</strong> una de las imágenes más icónicas.</li><li><strong>Islas de Murano y Burano:</strong> artesanía, color y tradición.</li></ul><img src='/img/cities/italia/venecia_quever.jpg' alt='Qué ver en Venecia' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una escapada perfecta para vivir la esencia veneciana:</p><h3>Día 1:</h3><ul><li>Plaza San Marcos y Basílica</li><li>Palacio Ducal</li><li>Paseo en góndola por el Gran Canal</li></ul><h3>Día 2:</h3><ul><li>Puente de Rialto y mercado</li><li>Galería de la Academia</li><li>Atardecer en Santa Maria della Salute</li></ul><h3>Día 3:</h3><ul><li>Excursión a Murano y Burano</li><li>Últimas compras y paseo por el barrio judío</li></ul><img src='/img/cities/italia/venecia_itinerario.jpg' alt='Itinerario Venecia' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarse en Venecia:</p><ul><li><strong>San Marco:</strong> ideal para estar cerca de todo.</li><li><strong>Dorsoduro:</strong> artístico, tranquilo y bien comunicado.</li><li><strong>Cannaregio:</strong> auténtico y con buenos precios.</li><li><strong>Giudecca:</strong> más apartado, vistas y tranquilidad.</li></ul><img src='/img/cities/italia/venecia_dormir.jpg' alt='Dónde dormir en Venecia' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Delicias venecianas que no puedes perderte:</p><ul><li><strong>Cicchetti:</strong> tapas locales, ideales con un spritz.</li><li><strong>Risotto al nero di sepia:</strong> arroz con tinta de calamar.</li><li><strong>Sarde in saor:</strong> sardinas marinadas al estilo veneciano.</li><li><strong>Trattorias locales:</strong> en Cannaregio o Dorsoduro.</li></ul><img src='/img/cities/italia/venecia_comida.jpg' alt='Comida en Venecia' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Venecia no es una ciudad de fiesta, pero ofrece momentos mágicos por la noche:</p><ul><li><strong>Paseos nocturnos en góndola:</strong> con la ciudad iluminada.</li><li><strong>Bares de vino (bacari):</strong> lugares locales con ambiente.</li><li><strong>Teatro La Fenice:</strong> ópera y espectáculos en un entorno único.</li><li><strong>Terrazas en el Gran Canal:</strong> cena con vistas.</li></ul><img src='/img/cities/italia/venecia_noche.jpg' alt='Noche en Venecia' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>En Venecia no hay coches, así que moverse es una experiencia en sí:</p><ul><li><strong>Vaporetto:</strong> el autobús acuático público.</li><li><strong>Góndola:</strong> cara pero única.</li><li><strong>Traghetto:</strong> alternativa económica para cruzar el canal.</li><li><strong>A pie:</strong> la mejor forma de conocer sus callejuelas.</li></ul><img src='/img/cities/italia/venecia_transporte.jpg' alt='Transporte en Venecia' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> italiano.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Clima:</strong> húmedo, con inviernos fríos y veranos calurosos.</li><li><strong>Época ideal:</strong> primavera y otoño.</li><li><strong>Multas:</strong> no está permitido comer en escalinatas o bañarse en canales.</li></ul><img src='/img/cities/italia/venecia_consejos.jpg' alt='Consejos para Venecia' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Aprovecha tu estancia para conocer:</p><ul><li><strong>Murano:</strong> famosa por su vidrio soplado.</li><li><strong>Burano:</strong> casas de colores y encaje artesanal.</li><li><strong>Lido:</strong> playa de Venecia y sede del Festival de Cine.</li><li><strong>Padua:</strong> ciudad histórica a solo 30 minutos.</li></ul><img src='/img/cities/italia/venecia_escapadas.jpg' alt='Excursiones desde Venecia' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> Lo ideal son 2 a 3 días.</li><li><strong>¿Cómo evitar aglomeraciones?</strong> Viaja fuera de temporada y madruga.</li><li><strong>¿Es cara?</strong> Sí, pero hay opciones asequibles en barrios menos turísticos.</li><li><strong>¿Hay transporte nocturno?</strong> Sí, algunos vaporettos funcionan toda la noche.</li><li><strong>¿Es segura?</strong> Muy segura, aunque hay que vigilar con carteristas.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Venecia es una joya flotante que debes experimentar al menos una vez en la vida. Déjate llevar por sus canales, su arte, su ritmo pausado y su encanto inimitable.</p><p>📌 Planifica tu viaje con nuestras rutas, consejos y mapas para exprimir cada rincón de esta ciudad mágica.</p><img src='/img/cities/italia/venecia_conclusion.jpg' alt='Vista aérea de Venecia' />"
+    }
+  ]
+}

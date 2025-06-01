@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Milán",
+  "descripcion": "Descubre la capital de la moda italiana, con su impresionante catedral, historia y diseño vanguardista.",
+  "img": "/img/cities/italia/milan1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Milán es mucho más que moda: es arte, arquitectura, gastronomía y vida urbana. Con una mezcla única de historia medieval y modernidad, esta ciudad del norte de Italia es perfecta para un viaje cultural y estiloso. Aquí tienes una guía completa para descubrir lo mejor de Milán.</p><img src='/img/cities/italia/milan_intro.jpg' alt='Vista de Milán' />"
+    },
+    {
+      "titulo": "Qué ver en Milán",
+      "html": "<p>Imprescindibles de Milán:</p><ul><li><strong>Duomo de Milán:</strong> su catedral gótica es una de las más impresionantes del mundo.</li><li><strong>Galería Vittorio Emanuele II:</strong> lujo, cafés y arquitectura en pleno centro.</li><li><strong>Castello Sforzesco:</strong> castillo medieval con museos y jardines.</li><li><strong>Santa Maria delle Grazie:</strong> alberga 'La Última Cena' de Da Vinci.</li><li><strong>Barrio de Brera:</strong> artístico, elegante y lleno de encanto.</li></ul><img src='/img/cities/italia/milan_quever.jpg' alt='Qué ver en Milán' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una ruta perfecta para descubrir Milán:</p><h3>Día 1:</h3><ul><li>Duomo y Galería Vittorio Emanuele</li><li>Barrio de Brera</li><li>Cena en Navigli</li></ul><h3>Día 2:</h3><ul><li>Castello Sforzesco y Parco Sempione</li><li>Pinacoteca di Brera</li><li>Compras por el Quadrilatero della Moda</li></ul><h3>Día 3:</h3><ul><li>Santa Maria delle Grazie</li><li>Museo del Novecento</li><li>Aperitivo en terrazas del Duomo</li></ul><img src='/img/cities/italia/milan_itinerario.jpg' alt='Itinerario Milán' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarse:</p><ul><li><strong>Centro Histórico:</strong> cerca de todo y con encanto.</li><li><strong>Brera:</strong> bohemio, artístico y muy bien situado.</li><li><strong>Navigli:</strong> con ambiente nocturno y romántico.</li><li><strong>Estación Central:</strong> práctico y con buena conexión.</li></ul><img src='/img/cities/italia/milan_dormir.jpg' alt='Dónde dormir en Milán' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Milán combina tradición e innovación en su cocina:</p><ul><li><strong>Risotto alla milanese:</strong> el plato más icónico.</li><li><strong>Ossobuco:</strong> guiso típico lombardo.</li><li><strong>Barrio Navigli:</strong> ideal para cenas con encanto.</li><li><strong>Mercado Centrale:</strong> variedad gastronómica y ambiente moderno.</li></ul><img src='/img/cities/italia/milan_comida.jpg' alt='Comida en Milán' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Milán de noche ofrece múltiples opciones:</p><ul><li><strong>Navigli:</strong> bares junto a los canales con aperitivo y cócteles.</li><li><strong>Corso Como:</strong> zona de moda con clubs y terrazas.</li><li><strong>Brera:</strong> ambiente más relajado, ideal para tomar algo.</li><li><strong>Isola:</strong> emergente y alternativo.</li></ul><img src='/img/cities/italia/milan_noche.jpg' alt='Vida nocturna en Milán' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Opciones de transporte en Milán:</p><ul><li><strong>Metro:</strong> eficiente y cubre bien toda la ciudad.</li><li><strong>Tranvías:</strong> históricos y prácticos para distancias medias.</li><li><strong>A pie:</strong> ideal para explorar el centro y Brera.</li><li><strong>Bicicleta:</strong> disponible con servicios de alquiler.</li></ul><img src='/img/cities/italia/milan_transporte.jpg' alt='Transporte en Milán' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> italiano.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Época ideal:</strong> primavera u otoño, clima templado y menos turistas.</li><li><strong>Seguridad:</strong> ciudad segura, precaución en zonas de mucho turismo.</li><li><strong>Compras:</strong> excelente destino para moda y diseño.</li></ul><img src='/img/cities/italia/milan_consejos.jpg' alt='Consejos para Milán' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Milán es un buen punto de partida para explorar:</p><ul><li><strong>Lago de Como:</strong> paisajes espectaculares y pueblos con encanto.</li><li><strong>Bérgamo:</strong> ciudad medieval con mucho encanto.</li><li><strong>Pavía:</strong> historia y arquitectura cerca de Milán.</li><li><strong>Monza:</strong> conocida por su circuito de Fórmula 1 y parque real.</li></ul><img src='/img/cities/italia/milan_escapadas.jpg' alt='Excursiones desde Milán' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> Entre 2 y 3 días para lo principal.</li><li><strong>¿Dónde hacer compras?</strong> Corso Buenos Aires y Quadrilatero della Moda.</li><li><strong>¿Es una ciudad cara?</strong> Tiene precios altos, pero hay opciones asequibles.</li><li><strong>¿Es recomendable reservar con antelación?</strong> Sí, sobre todo museos y 'La Última Cena'.</li><li><strong>¿Qué clima tiene?</strong> Continental, inviernos fríos y veranos cálidos.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Milán es la ciudad perfecta para quienes buscan arte, moda y un ritmo urbano moderno. Con esta guía estarás listo para descubrir sus rincones más fascinantes, disfrutar su cultura y moverte con soltura por sus barrios más icónicos.</p><p>📌 Empieza a planificar con nuestras rutas, consejos y lugares favoritos para aprovechar Milán al máximo.</p><img src='/img/cities/italia/milan_conclusion.jpg' alt='Vista aérea de Milán' />"
+    }
+  ]
+}

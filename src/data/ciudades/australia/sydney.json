@@ -1,0 +1,52 @@
+{
+    "titulo": "Guía de Sídney",
+    "descripcion": "Conoce la ciudad más icónica de Australia, famosa por su ópera, sus playas y su estilo de vida junto al mar.",
+    "img": "/img/cities/australia/sydney1.jpg",
+    "secciones": [
+      {
+        "titulo": "Introducción",
+        "html": "<p>Sídney es una ciudad vibrante que combina naturaleza y modernidad a la perfección. Con su famosa Ópera, playas espectaculares y barrios diversos, es uno de los destinos más atractivos de Australia. Esta guía te ayudará a descubrir sus encantos, ya sea tu primera vez o no.</p><img src='/img/cities/australia/sydney_intro.jpg' alt='Vista de Sídney' />"
+      },
+      {
+        "titulo": "Qué ver en Sídney",
+        "html": "<p>Algunos de los imperdibles de Sídney son:</p><ul><li><strong>Ópera de Sídney:</strong> icono arquitectónico mundial.</li><li><strong>Harbour Bridge:</strong> ideal para caminar y obtener vistas panorámicas.</li><li><strong>Bondi Beach:</strong> playa urbana con mucha vida.</li><li><strong>Darling Harbour:</strong> zona de ocio y restaurantes.</li><li><strong>Royal Botanic Garden:</strong> parque junto al mar con vistas increíbles.</li></ul><p>👉 No te pierdas nuestro </p><img src='/img/cities/australia/sydney_quever.jpg' alt='Qué ver en Sídney' />"
+      },
+      {
+        "titulo": "Itinerario de 3 días",
+        "html": "<p>Un plan para disfrutar al máximo Sídney:</p><h3>Día 1:</h3><ul><li>Visita a la Ópera y paseo por Circular Quay</li><li>Subida al Harbour Bridge</li><li>Cena en The Rocks</li></ul><h3>Día 2:</h3><ul><li>Excursión a Bondi Beach</li><li>Camino costero Bondi - Coogee</li><li>Tarde en Darling Harbour</li></ul><h3>Día 3:</h3><ul><li>Royal Botanic Garden y mirador Mrs Macquarie’s Chair</li><li>Museo de Arte Contemporáneo</li><li>Ferry al atardecer por la bahía</li></ul><img src='/img/cities/australia/sydney_itinerario.jpg' alt='Itinerario Sídney' />"
+      },
+      {
+        "titulo": "Dónde dormir",
+        "html": "<p>Zonas recomendadas para alojarte en Sídney:</p><ul><li><strong>Circular Quay y The Rocks:</strong> céntrico y con vistas al puerto.</li><li><strong>Darling Harbour:</strong> moderno, ideal para familias.</li><li><strong>Surry Hills:</strong> barrio alternativo y con mucho ambiente.</li><li><strong>Bondi:</strong> para quienes buscan playa y surf.</li></ul><p>🔗 Consulta nuestras </p><img src='/img/cities/australia/sydney_dormir.jpg' alt='Dónde dormir en Sídney' />"
+      },
+      {
+        "titulo": "Dónde comer",
+        "html": "<p>Sídney es una ciudad multicultural, lo que se refleja en su gastronomía:</p><ul><li><strong>Chinatown:</strong> cocina asiática a buen precio.</li><li><strong>Barangaroo:</strong> zona de restaurantes junto al agua.</li><li><strong>Newtown:</strong> alternativa, ideal para comida vegana o creativa.</li><li><strong>Mercados:</strong> como el de Glebe o Sydney Fish Market.</li></ul><p>🔗 </p><img src='/img/cities/australia/sydney_comida.jpg' alt='Comida en Sídney' />"
+      },
+      {
+        "titulo": "Ocio y vida nocturna",
+        "html": "<p>La vida nocturna de Sídney ofrece de todo:</p><ul><li><strong>King’s Cross:</strong> zona clásica de fiesta.</li><li><strong>Surry Hills:</strong> coctelerías y bares con estilo.</li><li><strong>Newtown:</strong> pubs con música en vivo y ambiente alternativo.</li><li><strong>CBD y Circular Quay:</strong> rooftops y bares con vistas.</li></ul><p>🔗 .</p><img src='/img/cities/australia/sydney_noche.jpg' alt='Vida nocturna en Sídney' />"
+      },
+      {
+        "titulo": "Cómo moverse por la ciudad",
+        "html": "<p>Opciones de transporte para moverte fácil por Sídney:</p><ul><li><strong>Opal Card:</strong> tarjeta recargable para bus, ferry, tren y tranvía.</li><li><strong>Ferries:</strong> ofrecen vistas únicas del puerto.</li><li><strong>Trenes suburbanos y autobuses:</strong> cubren toda el área metropolitana.</li><li><strong>A pie:</strong> muchas atracciones están cercanas entre sí.</li></ul><p>🔗 </p><img src='/img/cities/australia/sydney_transporte.jpg' alt='Transporte en Sídney' />"
+      },
+      {
+        "titulo": "Consejos prácticos",
+        "html": "<ul><li><strong>Idioma:</strong> inglés.</li><li><strong>Moneda:</strong> dólar australiano (AUD).</li><li><strong>Clima:</strong> templado, con veranos calurosos e inviernos suaves.</li><li><strong>Enchufes:</strong> tipo I, 230V.</li><li><strong>Seguridad:</strong> ciudad muy segura, incluso de noche.</li></ul><p>🔗 .</p><img src='/img/cities/australia/sydney_consejos.jpg' alt='Consejos para Sídney' />"
+      },
+      {
+        "titulo": "Excursiones cercanas",
+        "html": "<p>Excursiones ideales desde Sídney:</p><ul><li><strong>Blue Mountains:</strong> montañas, senderos y miradores espectaculares.</li><li><strong>Hunter Valley:</strong> región vinícola famosa.</li><li><strong>Manly Beach:</strong> se llega en ferry, ideal para un día de playa.</li><li><strong>Royal National Park:</strong> senderismo y naturaleza a una hora.</li></ul><p>🔗</p><img src='/img/cities/australia/sydney_escapadas.jpg' alt='Excursiones desde Sídney' />"
+      },
+      {
+        "titulo": "Preguntas frecuentes",
+        "html": "<ul><li><strong>¿Cuántos días necesito?</strong> Entre 3 y 5 días para ver lo esencial.</li><li><strong>¿Es fácil llegar desde el aeropuerto?</strong> Sí, el tren conecta directo con el centro.</li><li><strong>¿Qué barrio es mejor para alojarse?</strong> Depende: Circular Quay si es tu primera vez, Bondi si prefieres playa.</li><li><strong>¿Cuándo viajar?</strong> Primavera y otoño son ideales por clima templado y menos turistas.</li><li><strong>¿Es cara?</strong> Es una de las ciudades más caras de Australia, pero hay opciones asequibles.</li></ul><p></p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>Sídney es un destino completo: naturaleza, arquitectura, playa, cultura y gastronomía. Ya sea que viajes solo, en pareja o en familia, encontrarás experiencias inolvidables a cada paso.</p><p>📌 Prepárate para explorar lo mejor de Sídney con nuestras rutas, recomendaciones y consejos prácticos.</p><img src='/img/cities/australia/sydney_conclusion.jpg' alt='Vista aérea de Sídney' />"
+      }
+    ]
+  }
+  

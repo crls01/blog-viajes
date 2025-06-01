@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Barcelona",
+  "descripcion": "Descubre la ciudad condal, una mezcla única de modernismo, playa y cultura mediterránea.",
+  "img": "/img/cities/espana/barcelona1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Barcelona es una de las ciudades más fascinantes de Europa. Capital de Cataluña y cuna del modernismo, combina arquitectura impresionante, barrios llenos de vida, una excelente gastronomía y el encanto del Mediterráneo. Esta guía está pensada para ayudarte a planear tu visita con detalle, aprovechando al máximo cada rincón de esta ciudad vibrante.</p><img src='/img/cities/espana/barcelona_intro.jpg' alt='Vista panorámica de Barcelona' />"
+    },
+    {
+      "titulo": "Qué ver en Barcelona",
+      "html": "<p>Barcelona está repleta de atracciones imperdibles. Aquí te dejamos una selección esencial:</p><ul><li><strong>Sagrada Familia:</strong> la obra maestra de Gaudí, aún en construcción.</li><li><strong>Parc Güell:</strong> colorido y creativo, con vistas espectaculares.</li><li><strong>La Rambla y el Mercado de la Boquería:</strong> paseo icónico y delicias gastronómicas.</li><li><strong>Barrio Gótico:</strong> calles medievales llenas de historia.</li><li><strong>Montjuïc:</strong> castillo, jardines y museos con vistas al mar.</li></ul><img src='/img/cities/espana/barcelona_quever.jpg' alt='Qué ver en Barcelona' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Un recorrido ideal para descubrir lo esencial sin prisas:</p><h3>Día 1:</h3><ul><li>Sagrada Familia</li><li>Paseo de Gracia (Casa Batlló y La Pedrera)</li><li>Parc de la Ciutadella</li><li>Barrio Gótico y Catedral</li></ul><h3>Día 2:</h3><ul><li>Parc Güell</li><li>Barrio de Gràcia</li><li>Plaza España</li><li>Fuente Mágica de Montjuïc (por la noche)</li></ul><h3>Día 3:</h3><ul><li>Montjuïc (castillo, teleférico y museos)</li><li>La Rambla y Mercado de la Boquería</li><li>Paseo Marítimo y Playa de la Barceloneta</li></ul><img src='/img/cities/espana/barcelona_itinerario.jpg' alt='Itinerario Barcelona' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Barcelona ofrece alojamiento para todo tipo de viajeros. Las mejores zonas son:</p><ul><li><strong>El Gótico y El Born:</strong> cerca de todo y con encanto histórico.</li><li><strong>Eixample:</strong> tranquilo y bien conectado, ideal para familias.</li><li><strong>Gràcia:</strong> ambiente local, bohemio y auténtico.</li><li><strong>Barceloneta:</strong> perfecto si quieres estar junto al mar.</li></ul><img src='/img/cities/espana/barcelona_dormir.jpg' alt='Dónde dormir en Barcelona' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>La gastronomía catalana es una delicia. Aquí algunos lugares y zonas que no puedes perderte:</p><ul><li><strong>Tapas en El Born:</strong> desde clásicas hasta gourmet.</li><li><strong>Mercado de la Boquería:</strong> ideal para comer variado y rápido.</li><li><strong>Gràcia:</strong> restaurantes creativos y opciones vegetarianas.</li><li><strong>Poble-sec:</strong> una joya para foodies y locales.</li></ul><img src='/img/cities/espana/barcelona_comida.jpg' alt='Dónde comer en Barcelona' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Barcelona tiene planes para todos los gustos, de día y de noche:</p><ul><li><strong>Fiestas en la playa:</strong> Barceloneta y Port Olímpic.</li><li><strong>Bares y discotecas:</strong> Raval, Eixample y Marina.</li><li><strong>Rooftops:</strong> vistas increíbles en hoteles como The Barcelona Edition o El Palace.</li><li><strong>Festivales y conciertos:</strong> Primavera Sound, Sónar, y eventos durante todo el año.</li></ul><img src='/img/cities/espana/barcelona_noche.jpg' alt='Vida nocturna Barcelona' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Barcelona cuenta con un transporte público eficiente y fácil de usar:</p><ul><li><strong>Metro:</strong> rápido, económico y muy bien conectado.</li><li><strong>Bus y tranvía:</strong> útil para zonas fuera del centro.</li><li><strong>Bicing:</strong> servicio de bicicletas públicas para moverse de forma ecológica.</li><li><strong>A pie:</strong> muchas zonas turísticas están cerca entre sí.</li></ul><img src='/img/cities/espana/barcelona_transporte.jpg' alt='Transporte Barcelona' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> catalán y español.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Clima:</strong> templado mediterráneo. Ideal en primavera y otoño.</li><li><strong>Seguridad:</strong> atención con carteristas en zonas turísticas.</li><li><strong>Horarios:</strong> almuerzo sobre las 14:00, cena desde las 21:00.</li></ul><img src='/img/cities/espana/barcelona_consejos.jpg' alt='Consejos para Barcelona' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Barcelona es un excelente punto de partida para explorar otros lugares increíbles:</p><ul><li><strong>Montserrat:</strong> montaña sagrada y monasterio con vistas únicas.</li><li><strong>Sitges:</strong> playa, arquitectura modernista y ambiente alternativo.</li><li><strong>Girona:</strong> ciudad medieval con encanto y murallas.</li><li><strong>Tarragona:</strong> ruinas romanas y costa dorada.</li></ul><img src='/img/cities/espana/barcelona_escapadas.jpg' alt='Excursiones desde Barcelona' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito para ver Barcelona?</strong> Recomendamos al menos 3 días.</li><li><strong>¿Dónde cambiar dinero?</strong> En bancos o casas de cambio oficiales. Evita hacerlo en el aeropuerto.</li><li><strong>¿Es segura por la noche?</strong> Sí, aunque es recomendable evitar zonas solitarias y vigilar tus pertenencias.</li><li><strong>¿Qué tarjeta de transporte me conviene?</strong> La T-casual o la tarjeta Hola BCN si vas a usar mucho el metro.</li><li><strong>¿Se puede beber agua del grifo?</strong> Sí, es potable en toda la ciudad.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Barcelona es color, arte, mar y energía. Una ciudad que atrapa desde el primer paseo y siempre tiene algo nuevo que ofrecer. Ideal para escapadas, vacaciones largas o incluso para repetir.</p><p>📌 Empieza ahora a planificar tu ruta con nuestros mapas, itinerarios y recomendaciones locales.</p><img src='/img/cities/espana/barcelona_conclusion.jpg' alt='Barcelona desde el aire' />"
+    }
+  ]
+}

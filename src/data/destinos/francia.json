@@ -1,0 +1,62 @@
+{
+    "id": "francia",
+    "titulo": "Qué ver en Francia: guía práctica para descubrir Lyon, Marsella y París",
+    "img": "/img/countries/francia.jpg",
+    "ciudades_destacadas": [
+      "lyon",
+      "marsella",
+      "paris"
+    ],
+    "secciones": [
+      {
+        "titulo": "Introducción: viajar a Francia",
+        "html": "<p>Francia es uno de los países más visitados del mundo, famoso por su arte, historia, gastronomía y romanticismo. Esta guía te lleva a conocer tres de sus ciudades más destacadas: Lyon, Marsella y París.</p><p>Te ayudamos a planear tu viaje con consejos sobre transporte, lugares imprescindibles, alojamiento, comida y mucho más.</p><img src='/img/cities/francia/lyon1.jpg' alt='Lyon' />"
+      },
+      {
+        "titulo": "¿Cómo llegar a Francia?",
+        "html": "<p>Francia cuenta con una red de transporte muy eficiente. Los aeropuertos más importantes para llegar desde el extranjero son:</p><ul><li><strong>París - Charles de Gaulle (CDG):</strong> principal entrada internacional.</li><li><strong>Marsella-Provenza (MRS):</strong> buena opción para explorar el sur.</li><li><strong>Lyon-Saint Exupéry (LYS):</strong> ideal para el centro y este de Francia.</li></ul><p>También puedes viajar entre ciudades en tren TGV, rápido y cómodo.</p><p>🔗 Consulta nuestra guía para saber cómo moverte entre Lyon, Marsella y París.</p><img src='/img/cities/francia/marsella1.jpg' alt='Marsella puerto' />"
+      },
+      {
+        "titulo": "Qué ver en Francia: empieza por sus tres joyas",
+        "subsecciones": [
+          {
+            "ciudad": "Lyon",
+            "html": "<p>Considerada la capital gastronómica de Francia, Lyon combina historia romana, arquitectura medieval y una vida cultural vibrante. No te pierdas el casco antiguo (Vieux Lyon) y la Basílica de Notre-Dame de Fourvière.</p><p>👉 Guía completa de Lyon<br>👉 Qué ver en Lyon en 3 días</p><img src='/img/cities/francia/lyon2.jpg' alt='Centro histórico Lyon' />"
+          },
+          {
+            "ciudad": "Marsella",
+            "html": "<p>Ubicada en la costa mediterránea, Marsella es una ciudad portuaria con carácter. Explora el Puerto Viejo, la Basílica de Notre-Dame de la Garde y las Calanques.</p><p>👉 Guía completa de Marsella<br>👉 Qué ver en Marsella en 2 o 3 días</p><img src='/img/cities/francia/marsella2.jpg' alt='Marsella ciudad' />"
+          },
+          {
+            "ciudad": "París",
+            "html": "<p>La capital del amor, del arte y de la moda. Desde la Torre Eiffel hasta Montmartre, pasando por el Louvre y Notre Dame, París nunca decepciona.</p><p>👉 Guía completa de París<br>👉 Qué ver en París en 3 días</p><img src='/img/cities/francia/paris2.jpg' alt='París Torre Eiffel' />"
+          }
+        ]
+      },
+      {
+        "titulo": "¿Dónde dormir en Francia?",
+        "html": "<p>Desde hoteles boutique hasta apartamentos con encanto, hay opciones para todos los gustos:</p><ul><li><strong>Lyon:</strong> Vieux Lyon, Presqu'île y Croix-Rousse.</li><li><strong>Marsella:</strong> cerca del Puerto Viejo, Le Panier o Longchamp.</li><li><strong>París:</strong> Marais, Saint-Germain, Quartier Latin o cerca de la Torre Eiffel.</li></ul><p>🔗 Explora nuestras guías para saber dónde dormir en cada ciudad.</p><img src='/img/cities/francia/paris3.jpg' alt='Dormir París' />"
+      },
+      {
+        "titulo": "Gastronomía: qué y dónde comer",
+        "html": "<p>La gastronomía francesa es Patrimonio Inmaterial de la Humanidad. Prueba estos platos en sus ciudades de origen:</p><ul><li><strong>Lyon:</strong> bouchons, quenelles, gratin dauphinois.</li><li><strong>Marsella:</strong> bouillabaisse, tapenade y pescados frescos.</li><li><strong>París:</strong> croissants, escargots, steak tartare, macarons.</li></ul><p>🔗 Consulta nuestra guía de dónde comer en Lyon, Marsella y París.</p><img src='/img/cities/francia/lyon3.jpg' alt='Comida francesa en Lyon' />"
+      },
+      {
+        "titulo": "¿Tienes pocos días?",
+        "html": "<p>Estos itinerarios están diseñados para estancias breves y bien organizadas:</p><ul><li><strong>Lyon:</strong> Lyon en 3 días</li><li><strong>Marsella:</strong> Marsella en 48 horas</li><li><strong>París:</strong> París en un fin de semana</li></ul><p>👉 Perfectos para ver lo esencial sin prisas.</p><img src='/img/cities/francia/marsella3.jpg' alt='Itinerario Marsella' />"
+      },
+      {
+        "titulo": "Consejos prácticos para viajar a Francia",
+        "html": "<ul><li><strong>Idioma:</strong> francés.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Transporte:</strong> trenes TGV entre ciudades y metro en urbes grandes.</li><li><strong>Enchufes:</strong> tipo E, 230V.</li><li><strong>Mejor época:</strong> primavera y otoño (abril-junio y septiembre-octubre).</li></ul><p>🔗 Mira más consejos en nuestras guías prácticas de cada ciudad.</p><img src='/img/cities/francia/lyon4.jpg' alt='Consejos Lyon' />"
+      },
+      {
+        "titulo": "¿Tienes más tiempo?",
+        "html": "<p>Si puedes alargar tu viaje, te recomendamos algunas escapadas:</p><ul><li><strong>Desde Lyon:</strong> Annecy, Grenoble o los Alpes franceses.</li><li><strong>Desde Marsella:</strong> Aix-en-Provence, Cassis o Avignon.</li><li><strong>Desde París:</strong> Versalles, Giverny o los Castillos del Loira.</li></ul><p>🚆 <strong>Ruta recomendada:</strong> Lyon → Marsella → París (en tren TGV).</p><p>🔗 Consulta nuestras escapadas desde Lyon, Marsella y París.</p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>Francia es arte, gastronomía y cultura en estado puro. Con solo tres ciudades puedes tener una visión completa del país, desde su tradición medieval hasta su modernidad urbana.</p><p>📌 Empieza a descubrir Francia:<br>🔗 Viajar a Lyon<br>🔗 Descubrir Marsella<br>🔗 Guía de París</p>"
+      }
+    ]
+  }
+  

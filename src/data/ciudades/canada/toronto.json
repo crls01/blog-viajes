@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Toronto",
+  "descripcion": "Descubre la ciudad más grande de Canadá, moderna, multicultural y llena de vida urbana y cultural.",
+  "img": "/img/cities/canada/toronto1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Toronto es una ciudad vibrante, diversa y moderna a orillas del lago Ontario. Es el centro económico del país y un destino imprescindible para quienes buscan una experiencia urbana multicultural con grandes dosis de cultura, arte y gastronomía.</p><img src='/img/cities/canada/toronto_intro.jpg' alt='Vista de Toronto' />"
+    },
+    {
+      "titulo": "Qué ver en Toronto",
+      "html": "<p>No te pierdas estas atracciones de Toronto:</p><ul><li><strong>CN Tower:</strong> símbolo de la ciudad y mirador con vistas espectaculares.</li><li><strong>Distillery District:</strong> zona histórica con arte, cafés y tiendas.</li><li><strong>Islas de Toronto:</strong> escape natural con vistas del skyline.</li><li><strong>Royal Ontario Museum:</strong> uno de los museos más grandes de Norteamérica.</li><li><strong>Kensington Market:</strong> barrio alternativo, colorido y muy animado.</li></ul><img src='/img/cities/canada/toronto_quever.jpg' alt='Qué ver en Toronto' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Plan recomendado para disfrutar Toronto:</p><h3>Día 1:</h3><ul><li>CN Tower y Harbourfront</li><li>Paseo por Distillery District</li><li>Cena en King Street West</li></ul><h3>Día 2:</h3><ul><li>Royal Ontario Museum</li><li>Queen Street West y tiendas locales</li><li>Arte callejero en Graffiti Alley</li></ul><h3>Día 3:</h3><ul><li>Islas de Toronto</li><li>Kensington Market</li><li>Aperitivo con vistas desde un rooftop</li></ul><img src='/img/cities/canada/toronto_itinerario.jpg' alt='Itinerario Toronto' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarte:</p><ul><li><strong>Downtown:</strong> práctico y cercano a las principales atracciones.</li><li><strong>Kensington Market:</strong> ambiente joven y alternativo.</li><li><strong>Distillery District:</strong> tranquilo, artístico y con encanto.</li><li><strong>Waterfront:</strong> vistas al lago y paseos junto al agua.</li></ul><img src='/img/cities/canada/toronto_dormir.jpg' alt='Dónde dormir en Toronto' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Toronto es una ciudad gastronómica por excelencia:</p><ul><li><strong>St. Lawrence Market:</strong> productos locales y cocina internacional.</li><li><strong>Kensington Market:</strong> comida callejera y fusión multicultural.</li><li><strong>Chinatown:</strong> cocina asiática auténtica y asequible.</li><li><strong>Queen Street West:</strong> brunch, cafés y locales con estilo.</li></ul><img src='/img/cities/canada/toronto_comida.jpg' alt='Comida en Toronto' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Toronto tiene una vida nocturna variada y animada:</p><ul><li><strong>King Street West:</strong> bares modernos y discotecas.</li><li><strong>Entertainment District:</strong> teatros, musicales y conciertos.</li><li><strong>Kensington Market:</strong> bares alternativos y música en vivo.</li><li><strong>Rooftops en el centro:</strong> copas con vistas del skyline.</li></ul><img src='/img/cities/canada/toronto_noche.jpg' alt='Vida nocturna en Toronto' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Opciones de transporte eficientes:</p><ul><li><strong>Metro y tranvía:</strong> cubren toda la ciudad y son puntuales.</li><li><strong>Autobuses:</strong> complemento útil al metro.</li><li><strong>Bicicleta:</strong> red de carriles bici y alquiler público.</li><li><strong>A pie:</strong> el centro es muy caminable.</li></ul><img src='/img/cities/canada/toronto_transporte.jpg' alt='Transporte en Toronto' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> inglés principalmente, pero también se habla francés.</li><li><strong>Moneda:</strong> dólar canadiense (CAD).</li><li><strong>Clima:</strong> inviernos fríos, veranos cálidos.</li><li><strong>Mejor época:</strong> primavera y verano.</li><li><strong>Seguridad:</strong> ciudad segura, precaución normal.</li></ul><img src='/img/cities/canada/toronto_consejos.jpg' alt='Consejos para Toronto' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Lugares cercanos para visitar desde Toronto:</p><ul><li><strong>Niágara Falls:</strong> una de las cataratas más famosas del mundo.</li><li><strong>Hamilton:</strong> ciudad con cascadas y naturaleza.</li><li><strong>Prince Edward County:</strong> vinos, playas y pueblos pintorescos.</li><li><strong>Toronto Islands:</strong> escapada relajante dentro de la ciudad.</li></ul><img src='/img/cities/canada/toronto_escapadas.jpg' alt='Excursiones desde Toronto' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> De 3 a 4 días para conocer lo esencial.</li><li><strong>¿Es cara Toronto?</strong> Es una de las ciudades más caras de Canadá, pero hay opciones para todos los presupuestos.</li><li><strong>¿Cómo es el clima?</strong> Varía mucho: inviernos muy fríos, veranos cálidos y húmedos.</li><li><strong>¿Es recomendable el transporte público?</strong> Sí, muy útil y fácil de usar.</li><li><strong>¿Es una ciudad segura?</strong> Sí, aunque conviene tener precauciones normales como en cualquier gran ciudad.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Toronto es una ciudad que lo tiene todo: cultura, diversidad, naturaleza y vida urbana vibrante. Con esta guía estás preparado para disfrutarla al máximo, explorar sus barrios, probar su gastronomía y vivir su energía única.</p><p>📌 Planifica tu viaje con nuestras recomendaciones y descubre lo mejor de Toronto como un local.</p><img src='/img/cities/canada/toronto_conclusion.jpg' alt='Vista aérea de Toronto' />"
+    }
+  ]
+}

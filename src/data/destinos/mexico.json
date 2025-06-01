@@ -1,0 +1,62 @@
+{
+    "id": "mexico",
+    "titulo": "Qué ver en México: guía práctica para descubrir Cancún, Ciudad de México y Guadalajara",
+    "img": "/img/countries/mexico.jpg",
+    "ciudades_destacadas": [
+      "cancun",
+      "cdmx",
+      "guadalajara"
+    ],
+    "secciones": [
+      {
+        "titulo": "Introducción: viajar a México",
+        "html": "<p>México es un país de contrastes: playas paradisíacas, ciudades vibrantes, pueblos mágicos y una historia milenaria. En esta guía te llevamos a descubrir tres destinos únicos: Cancún, Ciudad de México y Guadalajara.</p><p>Te explicamos cómo llegar, qué ver, dónde dormir, qué comer y cómo moverte para aprovechar al máximo tu aventura mexicana.</p><img src='/img/cities/mexico/cancun1.jpg' alt='Cancún' />"
+      },
+      {
+        "titulo": "¿Cómo llegar a México?",
+        "html": "<p>Los principales aeropuertos internacionales son:</p><ul><li><strong>Aeropuerto Internacional de Cancún (CUN):</strong> ideal si viajas a la Riviera Maya.</li><li><strong>Aeropuerto Internacional de la Ciudad de México (MEX):</strong> el más grande del país.</li><li><strong>Aeropuerto Internacional de Guadalajara (GDL):</strong> perfecto para el occidente de México.</li></ul><p>🔗 Consulta nuestra guía para saber cómo moverte entre Cancún, Ciudad de México y Guadalajara.</p><img src='/img/cities/mexico/cdmx1.jpg' alt='Ciudad de México' />"
+      },
+      {
+        "titulo": "Qué ver en México: empieza por sus tres joyas",
+        "subsecciones": [
+          {
+            "ciudad": "Cancún",
+            "html": "<p>Uno de los destinos más turísticos de México. Arena blanca, aguas turquesas y acceso fácil a ruinas mayas como Tulum o Chichén Itzá. Ideal para disfrutar del Caribe.</p><p>👉 Guía completa de Cancún<br>👉 Qué ver en Cancún en 3 días</p><img src='/img/cities/mexico/cancun2.jpg' alt='Playas de Cancún' />"
+          },
+          {
+            "ciudad": "cdmx",
+            "html": "<p>La capital del país y una de las ciudades más grandes del mundo. Visita el Zócalo, el Castillo de Chapultepec, el Museo Frida Kahlo y prueba su increíble gastronomía callejera.</p><p>👉 Guía completa de Ciudad de México<br>👉 Qué ver en CDMX en 3 días</p><img src='/img/cities/mexico/cdmx2.jpg' alt='Centro histórico de CDMX' />"
+          },
+          {
+            "ciudad": "Guadalajara",
+            "html": "<p>La cuna del mariachi y el tequila. Conoce su centro histórico, el Hospicio Cabañas, y haz una excursión a Tequila para visitar sus haciendas y destilerías.</p><p>👉 Guía completa de Guadalajara<br>👉 Qué ver en Guadalajara en 2 o 3 días</p><img src='/img/cities/mexico/guadalajara2.jpg' alt='Guadalajara' />"
+          }
+        ]
+      },
+      {
+        "titulo": "¿Dónde dormir en México?",
+        "html": "<p>Desde resorts frente al mar hasta hostales boutique. Aquí algunas zonas recomendadas:</p><ul><li><strong>Cancún:</strong> Zona Hotelera o el centro si buscas algo más económico.</li><li><strong>CDMX:</strong> Roma, Condesa, Coyoacán o el Centro Histórico.</li><li><strong>Guadalajara:</strong> Chapultepec, Centro o Zapopan.</li></ul><p>🔗 Explora nuestras guías para saber dónde dormir en cada ciudad.</p><img src='/img/cities/mexico/guadalajara3.jpg' alt='Dormir en Guadalajara' />"
+      },
+      {
+        "titulo": "Gastronomía: qué y dónde comer",
+        "html": "<p>La comida mexicana es Patrimonio de la Humanidad. Prueba las delicias locales en cada ciudad:</p><ul><li><strong>Cancún:</strong> mariscos, cochinita pibil y tacos al pastor.</li><li><strong>CDMX:</strong> tlacoyos, quesadillas, pozole y tamales.</li><li><strong>Guadalajara:</strong> birria, tortas ahogadas y tequila artesanal.</li></ul><p>🔗 Consulta nuestra guía de dónde comer en Cancún, CDMX y Guadalajara.</p><img src='/img/cities/mexico/cdmx3.jpg' alt='Comida típica mexicana' />"
+      },
+      {
+        "titulo": "¿Tienes pocos días?",
+        "html": "<p>¿Solo unos días? Estos itinerarios están pensados para visitas breves pero completas:</p><ul><li><strong>Cancún:</strong> Cancún en 3 días</li><li><strong>CDMX:</strong> Ciudad de México en un fin de semana</li><li><strong>Guadalajara:</strong> Guadalajara en 48 horas</li></ul><p>👉 Consulta nuestras guías por ciudad para aprovechar cada minuto.</p><img src='/img/cities/mexico/cancun3.jpg' alt='Excursiones desde Cancún' />"
+      },
+      {
+        "titulo": "Consejos prácticos para viajar a México",
+        "html": "<ul><li><strong>Idioma:</strong> español.</li><li><strong>Moneda:</strong> peso mexicano (MXN).</li><li><strong>Seguridad:</strong> sigue recomendaciones locales, evita zonas conflictivas.</li><li><strong>Enchufes:</strong> tipo A/B, 127V.</li><li><strong>Mejor época:</strong> noviembre a abril (menos lluvias y calor soportable).</li></ul><p>🔗 Mira más consejos en nuestras guías prácticas de cada ciudad.</p><img src='/img/cities/mexico/guadalajara4.jpg' alt='Consejos para viajar a México' />"
+      },
+      {
+        "titulo": "¿Tienes más tiempo?",
+        "html": "<p>Aprovecha para hacer excursiones o conectar con otros destinos increíbles:</p><ul><li><strong>Desde Cancún:</strong> Isla Mujeres, Playa del Carmen, Tulum.</li><li><strong>Desde CDMX:</strong> Teotihuacán, Puebla, Xochimilco.</li><li><strong>Desde Guadalajara:</strong> Tequila, Tlaquepaque o Chapala.</li></ul><p>✈️ <strong>Ruta recomendada:</strong> Cancún → CDMX → Guadalajara.</p><p>🔗 Consulta nuestras escapadas desde Cancún, CDMX y Guadalajara.</p>"
+      },
+      {
+        "titulo": "Conclusión",
+        "html": "<p>México es color, sabor y tradición. Con estas tres ciudades vivirás su esencia caribeña, su historia prehispánica y su espíritu cultural. Un país que se queda en el corazón.</p><p>📌 Comienza tu viaje aquí:<br>🔗 Viajar a Cancún<br>🔗 Descubrir CDMX<br>🔗 Guía de Guadalajara</p>"
+      }
+    ]
+  }
+  

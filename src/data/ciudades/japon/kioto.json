@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Kioto",
+  "descripcion": "Sumérgete en la antigua capital de Japón, donde los templos, jardines y geishas conservan el espíritu tradicional del país.",
+  "img": "/img/cities/japon/kioto1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Kioto es el corazón cultural de Japón. Esta ciudad fue la capital imperial durante más de mil años y conserva una atmósfera única que combina espiritualidad, historia y belleza natural. En esta guía te llevamos por los rincones más especiales de Kioto.</p><img src='/img/cities/japon/kioto_intro.jpg' alt='Vista de Kioto' />"
+    },
+    {
+      "titulo": "Qué ver en Kioto",
+      "html": "<p>No te pierdas estos lugares en tu visita:</p><ul><li><strong>Fushimi Inari Taisha:</strong> el famoso sendero de miles de toriis rojos.</li><li><strong>Kinkaku-ji (Pabellón Dorado):</strong> reflejándose sobre el estanque.</li><li><strong>Templo Kiyomizu-dera:</strong> con vistas espectaculares sobre la ciudad.</li><li><strong>Bosque de bambú de Arashiyama:</strong> ideal al amanecer.</li><li><strong>Gion:</strong> el barrio de geishas más famoso de Japón.</li></ul><img src='/img/cities/japon/kioto_quever.jpg' alt='Qué ver en Kioto' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<h3>Día 1:</h3><ul><li>Templo Kinkaku-ji</li><li>Ryoan-ji y su jardín zen</li><li>Barrio de Nishijin</li></ul><h3>Día 2:</h3><ul><li>Fushimi Inari</li><li>Kiyomizu-dera</li><li>Paseo por Higashiyama</li></ul><h3>Día 3:</h3><ul><li>Arashiyama y su bosque de bambú</li><li>Templo Tenryu-ji</li><li>Atardecer en Gion</li></ul><img src='/img/cities/japon/kioto_itinerario.jpg' alt='Itinerario Kioto' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Las mejores zonas para alojarse en Kioto:</p><ul><li><strong>Gion:</strong> tradicional y céntrico.</li><li><strong>Higashiyama:</strong> cerca de templos y rutas culturales.</li><li><strong>Estación de Kioto:</strong> buena conexión y hoteles modernos.</li><li><strong>Arashiyama:</strong> tranquilo y rodeado de naturaleza.</li></ul><img src='/img/cities/japon/kioto_dormir.jpg' alt='Dónde dormir en Kioto' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>La cocina de Kioto es delicada y refinada:</p><ul><li><strong>Kaiseki:</strong> alta cocina tradicional japonesa.</li><li><strong>Yatsuhashi:</strong> dulce típico local.</li><li><strong>Mercado Nishiki:</strong> ideal para probar platos variados.</li><li><strong>Izakayas en Pontocho:</strong> bares tradicionales junto al río.</li></ul><img src='/img/cities/japon/kioto_comida.jpg' alt='Comida en Kioto' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Kioto tiene un ambiente tranquilo, pero encantador al caer la noche:</p><ul><li><strong>Pontocho:</strong> callejuela junto al río con bares y restaurantes.</li><li><strong>Gion:</strong> espectáculos de geishas y teatro tradicional.</li><li><strong>Onsen:</strong> relajarse en baños termales cerca de la ciudad.</li><li><strong>Caminatas nocturnas:</strong> por templos iluminados como Kiyomizu-dera.</li></ul><img src='/img/cities/japon/kioto_noche.jpg' alt='Noche en Kioto' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Kioto tiene un sistema de transporte sencillo:</p><ul><li><strong>Autobuses:</strong> la mejor forma de llegar a los templos.</li><li><strong>Metro:</strong> limitado pero útil para trayectos cortos.</li><li><strong>Bicicleta:</strong> muy popular, con alquileres en muchos puntos.</li><li><strong>A pie:</strong> ideal para explorar barrios como Gion o Higashiyama.</li></ul><img src='/img/cities/japon/kioto_transporte.jpg' alt='Transporte en Kioto' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> japonés. Muchos carteles están también en inglés.</li><li><strong>Moneda:</strong> yen japonés (JPY).</li><li><strong>Época ideal:</strong> primavera (cerezos) y otoño (colores del momiji).</li><li><strong>Tarjetas IC:</strong> como Suica o Pasmo, válidas para transporte.</li><li><strong>Respeto:</strong> sigue las normas en templos y lugares sagrados.</li></ul><img src='/img/cities/japon/kioto_consejos.jpg' alt='Consejos para Kioto' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde Kioto puedes visitar fácilmente:</p><ul><li><strong>Nara:</strong> ciervos sagrados y el Gran Buda.</li><li><strong>Osaka:</strong> moderna y divertida, a solo 30-40 minutos.</li><li><strong>Uji:</strong> famoso por su té verde y el templo Byodo-in.</li><li><strong>Lago Biwa:</strong> escapada natural cerca de la ciudad.</li></ul><img src='/img/cities/japon/kioto_escapadas.jpg' alt='Excursiones desde Kioto' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> 3 a 4 días son ideales.</li><li><strong>¿Dónde ver geishas?</strong> En Gion al atardecer o en eventos culturales.</li><li><strong>¿Es cara la ciudad?</strong> Moderadamente. Hay opciones asequibles.</li><li><strong>¿Es segura?</strong> Muy segura, incluso de noche.</li><li><strong>¿Hace falta guía?</strong> No, pero puede enriquecer mucho la experiencia en templos.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Kioto es una joya del Japón tradicional. Sus templos, jardines y barrios históricos te transportarán a otra época. Es un destino esencial para todo viajero que busca la verdadera alma japonesa.</p><p>📌 Usa esta guía para planificar tu ruta, alojarte en los mejores barrios y descubrir rincones únicos.</p><img src='/img/cities/japon/kioto_conclusion.jpg' alt='Kioto desde el aire' />"
+    }
+  ]
+}

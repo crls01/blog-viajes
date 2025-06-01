@@ -1,0 +1,51 @@
+{
+  "titulo": "Guía de Marsella",
+  "descripcion": "Descubre la ciudad portuaria más antigua de Francia, con una mezcla vibrante de culturas, historia y mar Mediterráneo.",
+  "img": "/img/cities/francia/marsella1.jpg",
+  "secciones": [
+    {
+      "titulo": "Introducción",
+      "html": "<p>Marsella, en la costa sur de Francia, es una ciudad vibrante con una historia que se remonta a más de 2.600 años. Con su puerto antiguo, barrios multiculturales, playas urbanas y deliciosa gastronomía mediterránea, es un destino ideal para quienes buscan cultura y mar en una sola experiencia.</p><img src='/img/cities/francia/marsella_intro.jpg' alt='Vista de Marsella' />"
+    },
+    {
+      "titulo": "Qué ver en Marsella",
+      "html": "<p>Algunos de los imperdibles de Marsella:</p><ul><li><strong>Puerto Viejo (Vieux-Port):</strong> el corazón histórico de la ciudad.</li><li><strong>Basílica de Notre-Dame de la Garde:</strong> vistas espectaculares de la ciudad y el mar.</li><li><strong>Le Panier:</strong> el barrio más antiguo, lleno de arte callejero y encanto.</li><li><strong>Castillo de If:</strong> famosa prisión de 'El Conde de Montecristo'.</li><li><strong>Calanques:</strong> acantilados y aguas cristalinas ideales para senderismo y baño.</li></ul><img src='/img/cities/francia/marsella_quever.jpg' alt='Qué ver en Marsella' />"
+    },
+    {
+      "titulo": "Itinerario de 3 días",
+      "html": "<p>Una ruta ideal para conocer Marsella:</p><h3>Día 1:</h3><ul><li>Paseo por el Puerto Viejo</li><li>Subida a Notre-Dame de la Garde</li><li>Cena en Le Panier</li></ul><h3>Día 2:</h3><ul><li>Visita al Castillo de If</li><li>Explorar el barrio de Noailles</li><li>Puesta de sol desde Corniche Kennedy</li></ul><h3>Día 3:</h3><ul><li>Excursión a los Calanques</li><li>Playa en Prado o baño en Sormiou</li><li>Aperitivo en el Puerto Viejo</li></ul><img src='/img/cities/francia/marsella_itinerario.jpg' alt='Itinerario Marsella' />"
+    },
+    {
+      "titulo": "Dónde dormir",
+      "html": "<p>Zonas recomendadas para alojarse en Marsella:</p><ul><li><strong>Puerto Viejo:</strong> céntrico y con ambiente marinero.</li><li><strong>Le Panier:</strong> artístico y tradicional.</li><li><strong>Prado:</strong> tranquilo, cerca de la playa.</li><li><strong>La Joliette:</strong> moderno y bien conectado.</li></ul><img src='/img/cities/francia/marsella_dormir.jpg' alt='Dónde dormir en Marsella' />"
+    },
+    {
+      "titulo": "Dónde comer",
+      "html": "<p>Disfruta de la gastronomía marsellesa:</p><ul><li><strong>La bouillabaisse:</strong> sopa de pescado tradicional.</li><li><strong>Panisses:</strong> fritura de harina de garbanzo, típica.</li><li><strong>Restaurantes en Le Panier:</strong> cocina local con vistas.</li><li><strong>Mercado de Noailles:</strong> productos frescos y especias del mundo.</li></ul><img src='/img/cities/francia/marsella_comida.jpg' alt='Comida en Marsella' />"
+    },
+    {
+      "titulo": "Ocio y vida nocturna",
+      "html": "<p>Marsella tiene una noche animada y diversa:</p><ul><li><strong>Cours Julien:</strong> bares alternativos y conciertos.</li><li><strong>Puerto Viejo:</strong> terrazas con vistas al mar.</li><li><strong>La Friche:</strong> espacio cultural con eventos y fiestas.</li><li><strong>Le Panier:</strong> ambiente bohemio para una noche relajada.</li></ul><img src='/img/cities/francia/marsella_noche.jpg' alt='Vida nocturna en Marsella' />"
+    },
+    {
+      "titulo": "Cómo moverse por la ciudad",
+      "html": "<p>Medios de transporte en Marsella:</p><ul><li><strong>Metro:</strong> dos líneas que cubren lo esencial.</li><li><strong>Tranvías:</strong> prácticos para distancias medias.</li><li><strong>Autobuses:</strong> buena cobertura urbana.</li><li><strong>Bicicleta:</strong> ideal para moverse por el puerto y zonas planas.</li></ul><img src='/img/cities/francia/marsella_transporte.jpg' alt='Transporte en Marsella' />"
+    },
+    {
+      "titulo": "Consejos prácticos",
+      "html": "<ul><li><strong>Idioma:</strong> francés.</li><li><strong>Moneda:</strong> euro (€).</li><li><strong>Clima:</strong> mediterráneo; ideal de abril a octubre.</li><li><strong>Seguridad:</strong> precaución en zonas menos turísticas por la noche.</li><li><strong>Compras:</strong> productos provenzales, jabones y especias.</li></ul><img src='/img/cities/francia/marsella_consejos.jpg' alt='Consejos para Marsella' />"
+    },
+    {
+      "titulo": "Excursiones cercanas",
+      "html": "<p>Desde Marsella puedes hacer escapadas maravillosas:</p><ul><li><strong>Cassis:</strong> pueblo costero encantador con calanques.</li><li><strong>Aix-en-Provence:</strong> arte, historia y mercados.</li><li><strong>Islas Frioul:</strong> playas y ruinas junto al mar.</li><li><strong>La Camarga:</strong> naturaleza, flamencos y caballos salvajes.</li></ul><img src='/img/cities/francia/marsella_escapadas.jpg' alt='Excursiones desde Marsella' />"
+    },
+    {
+      "titulo": "Preguntas frecuentes",
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> 2 a 3 días son ideales.</li><li><strong>¿Dónde alojarse con niños?</strong> Prado o cerca del Puerto Viejo.</li><li><strong>¿Es una ciudad cara?</strong> Moderada, con opciones económicas.</li><li><strong>¿Necesito coche?</strong> No, el transporte público cubre lo esencial.</li><li><strong>¿Es segura?</strong> Sí, pero con precaución por la noche en algunas zonas.</li></ul>"
+    },
+    {
+      "titulo": "Conclusión",
+      "html": "<p>Marsella combina el espíritu mediterráneo con una energía cultural muy especial. Su mezcla de tradición e innovación la convierte en una ciudad fascinante, ideal para descubrir a pie y disfrutar con calma.</p><p>📌 Empieza a organizar tu visita con nuestras rutas, consejos y recomendaciones locales para exprimir Marsella al máximo.</p><img src='/img/cities/francia/marsella_conclusion.jpg' alt='Vista aérea de Marsella' />"
+    }
+  ]
+}
