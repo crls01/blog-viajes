@@ -1,5 +1,6 @@
 import { Link, useParams } from 'react-router-dom';
 import { useEffect, useState } from 'react';
+import { cities } from '../data/cities'; // 👈 importa aquí
 import './CityPage.css';
 
 const cityFiles = import.meta.glob('../data/ciudades/*/*.json');
@@ -34,6 +35,9 @@ export default function CityPage() {
 
   const { titulo, descripcion, secciones, img } = cityData;
 
+  // ✅ Filtrar otras ciudades del mismo país
+  const otrasCiudades = cities[countryId]?.filter(ciudad => ciudad.id !== cityId) || [];
+
   return (
     <div className="city-page-wrapper">
       <div className="city-page">
@@ -49,19 +53,22 @@ export default function CityPage() {
         ))}
       </div>
 
-      {countryId === 'espana' && (
+      {/* ✅ Sidebar dinámico para cualquier país */}
+      {otrasCiudades.length > 0 && (
         <aside className="sidebar-right">
-          {['madrid', 'barcelona', 'sevilla']
-            .filter(ciudad => ciudad !== cityId)
-            .map((ciudad, i) => (
-              <Link key={i} to={`/city/espana/${ciudad}`} className="city-image-link">
-                <img
-                  src={`/img/cities/espana/${ciudad}1.jpg`}
-                  alt={ciudad.charAt(0).toUpperCase() + ciudad.slice(1)}
-                  title={ciudad.charAt(0).toUpperCase() + ciudad.slice(1)}
-                />
-              </Link>
-            ))}
+          {otrasCiudades.map((ciudad, i) => (
+            <Link
+              key={i}
+              to={`/country/${countryId}/${ciudad.id}`}
+              className="city-image-link"
+            >
+              <img
+                src={`/img/cities/${countryId}/${ciudad.id}1.jpg`}
+                alt={ciudad.name}
+                title={ciudad.name}
+              />
+            </Link>
+          ))}
         </aside>
       )}
     </div>

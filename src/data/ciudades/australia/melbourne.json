@@ -1,51 +1,51 @@
 {
-  "titulo": "Guía de Brisbane",
-  "descripcion": "Descubre la vibrante ciudad australiana bañada por el río, con clima cálido y acceso a la costa dorada.",
-  "img": "/img/cities/australia/brisbane1.jpg",
+  "titulo": "Guía de Melbourne",
+  "descripcion": "Explora la ciudad más cosmopolita de Australia, famosa por su arte callejero, cafés escondidos y vibrante vida cultural.",
+  "img": "/img/cities/australia/melbourne1.jpg",
   "secciones": [
     {
       "titulo": "Introducción",
-      "html": "<p>Brisbane, capital del estado de Queensland, es una ciudad moderna y acogedora que combina rascacielos, cultura y naturaleza. Con un clima cálido durante casi todo el año, es una base perfecta para explorar la costa este de Australia. Esta guía te ayudará a descubrir lo mejor de Brisbane en poco tiempo.</p><img src='/img/cities/australia/brisbane_intro.jpg' alt='Vista de Brisbane' />"
+      "html": "<p>Melbourne, capital del estado de Victoria, es una ciudad vibrante y creativa. Conocida por su arquitectura victoriana, su pasión por el arte, la música y el deporte, y sus infinitos cafés, es considerada una de las mejores ciudades del mundo para vivir. Esta guía te ayudará a conocer lo mejor de Melbourne.</p><img src='/img/cities/australia/melbourne_intro.jpg' alt='Vista de Melbourne' />"
     },
     {
-      "titulo": "Qué ver en Brisbane",
-      "html": "<p>Brisbane tiene mucho que ofrecer, desde zonas culturales hasta espacios al aire libre:</p><ul><li><strong>South Bank:</strong> zona cultural y de ocio con parques, museos y la famosa playa artificial.</li><li><strong>Story Bridge:</strong> icono de la ciudad, con opción de subir para vistas panorámicas.</li><li><strong>City Botanic Gardens:</strong> jardines tranquilos a orillas del río.</li><li><strong>Queen Street Mall:</strong> la principal zona comercial.</li><li><strong>Mount Coot-tha Lookout:</strong> mirador con vistas espectaculares de la ciudad.</li></ul><p>👉 Explora nuestro mapa de atracciones de Brisbane.</p><img src='/img/cities/australia/brisbane_quever.jpg' alt='Qué ver en Brisbane' />"
+      "titulo": "Qué ver en Melbourne",
+      "html": "<p>Estos son algunos de los imperdibles de Melbourne:</p><ul><li><strong>Federation Square:</strong> el corazón cultural de la ciudad.</li><li><strong>Graffiti Lanes:</strong> callejones como Hosier Lane con arte urbano impactante.</li><li><strong>Royal Botanic Gardens:</strong> uno de los jardines más bellos de Australia.</li><li><strong>Queen Victoria Market:</strong> mercado histórico con productos locales y gastronomía.</li><li><strong>Melbourne Museum:</strong> para descubrir la historia y cultura local.</li></ul><img src='/img/cities/australia/melbourne_quever.jpg' alt='Qué ver en Melbourne' />"
     },
     {
       "titulo": "Itinerario de 3 días",
-      "html": "<p>Una escapada perfecta para descubrir Brisbane a fondo:</p><h3>Día 1:</h3><ul><li>South Bank Parklands</li><li>Río Brisbane en ferry CityCat</li><li>Galería de Arte de Queensland</li></ul><h3>Día 2:</h3><ul><li>Mount Coot-tha y jardines botánicos</li><li>Centro de Ciencias de Queensland</li><li>Queen Street Mall</li></ul><h3>Día 3:</h3><ul><li>Story Bridge Adventure Climb</li><li>Excursión a Lone Pine Koala Sanctuary</li><li>Puesta de sol junto al río</li></ul><p>🔗 Descarga el PDF con el itinerario de Brisbane.</p><img src='/img/cities/australia/brisbane_itinerario.jpg' alt='Itinerario Brisbane' />"
+      "html": "<p>Una escapada para conocer lo mejor de la ciudad:</p><h3>Día 1:</h3><ul><li>Federation Square y ACMI</li><li>Graffiti Lanes y Flinders Street Station</li><li>Paseo en tranvía gratuito</li></ul><h3>Día 2:</h3><ul><li>Royal Botanic Gardens</li><li>Southbank y paseo por el Yarra River</li><li>Cena en un rooftop bar</li></ul><h3>Día 3:</h3><ul><li>Excursión a St Kilda y Brighton Beach</li><li>Queen Victoria Market</li><li>Arte contemporáneo en NGV</li></ul><img src='/img/cities/australia/melbourne_itinerario.jpg' alt='Itinerario Melbourne' />"
     },
     {
       "titulo": "Dónde dormir",
-      "html": "<p>Brisbane tiene opciones para todos los presupuestos. Mejores zonas:</p><ul><li><strong>South Bank:</strong> ideal para turistas, con muchas atracciones cercanas.</li><li><strong>CBD (Centro):</strong> bien conectado y lleno de servicios.</li><li><strong>Fortitude Valley:</strong> moderno y perfecto para salir por la noche.</li><li><strong>West End:</strong> ambiente bohemio y cultural.</li></ul><p>Consulta nuestras recomendaciones de alojamiento en Brisbane.</p><img src='/img/cities/australia/brisbane_dormir.jpg' alt='Dónde dormir en Brisbane' />"
+      "html": "<p>Las mejores zonas para hospedarse en Melbourne:</p><ul><li><strong>CBD:</strong> cómodo y céntrico para recorrer todo a pie.</li><li><strong>Fitzroy:</strong> zona alternativa y artística.</li><li><strong>Southbank:</strong> moderno, con vistas al río y vida nocturna.</li><li><strong>St Kilda:</strong> ideal si buscas playa y ambiente relajado.</li></ul><img src='/img/cities/australia/melbourne_dormir.jpg' alt='Dónde dormir en Melbourne' />"
     },
     {
       "titulo": "Dónde comer",
-      "html": "<p>La escena gastronómica de Brisbane es diversa y en constante crecimiento:</p><ul><li><strong>South Bank:</strong> ideal para brunchs y cenas con vistas al río.</li><li><strong>West End:</strong> cafés creativos y cocina internacional.</li><li><strong>Fortitude Valley:</strong> restaurantes modernos y de autor.</li><li><strong>Eat Street Northshore:</strong> mercado gastronómico al aire libre con food trucks y música.</li></ul><p>Mira nuestra guía de comida en Brisbane.</p><img src='/img/cities/australia/brisbane_comida.jpg' alt='Comida en Brisbane' />"
+      "html": "<p>Melbourne es un paraíso para foodies:</p><ul><li><strong>Fitzroy y Collingwood:</strong> barrios con cafeterías hipster y restaurantes veganos.</li><li><strong>Chinatown:</strong> cocina asiática de calidad.</li><li><strong>Hardware Lane:</strong> terrazas escondidas entre callejones con encanto.</li><li><strong>Queen Victoria Market:</strong> comida callejera y productos locales.</li></ul><img src='/img/cities/australia/melbourne_comida.jpg' alt='Comida en Melbourne' />"
     },
     {
       "titulo": "Ocio y vida nocturna",
-      "html": "<p>Brisbane ofrece una vida nocturna relajada pero muy animada:</p><ul><li><strong>Fortitude Valley:</strong> zona de bares, pubs y discotecas.</li><li><strong>South Bank:</strong> ideal para tomar algo junto al río.</li><li><strong>Caxton Street:</strong> ambiente deportivo y cervecerías.</li><li><strong>Rooftop bars:</strong> Eleven Rooftop Bar, Elixir o The Terrace.</li></ul><p>Explora las mejores zonas para salir en Brisbane.</p><img src='/img/cities/australia/brisbane_noche.jpg' alt='Vida nocturna en Brisbane' />"
+      "html": "<p>La vida nocturna en Melbourne es muy variada:</p><ul><li><strong>Laneway bars:</strong> bares ocultos en callejones con mucho estilo.</li><li><strong>Rooftop bars:</strong> vistas increíbles desde lo alto.</li><li><strong>Live music:</strong> conciertos y música en vivo todos los días.</li><li><strong>Teatros y arte:</strong> ópera, teatro, danza y cine independiente.</li></ul><img src='/img/cities/australia/melbourne_noche.jpg' alt='Vida nocturna en Melbourne' />"
     },
     {
       "titulo": "Cómo moverse por la ciudad",
-      "html": "<p>Brisbane tiene una red de transporte eficiente:</p><ul><li><strong>CityCat:</strong> ferris por el río, rápidos y escénicos.</li><li><strong>Autobuses:</strong> buena cobertura y frecuencia.</li><li><strong>Trenes:</strong> conectan con zonas exteriores.</li><li><strong>Bicicleta:</strong> carriles bici por toda la ciudad y sistema de alquiler.</li></ul><p>Consulta nuestra guía para moverte por Brisbane.</p><img src='/img/cities/australia/brisbane_transporte.jpg' alt='Transporte en Brisbane' />"
+      "html": "<p>Transporte en Melbourne:</p><ul><li><strong>Tranvía gratuito en el CBD:</strong> ideal para turistas.</li><li><strong>Red de trenes y buses:</strong> conecta toda la ciudad.</li><li><strong>Myki card:</strong> tarjeta recargable para transporte público.</li><li><strong>Bicicleta:</strong> carriles bici bien distribuidos.</li></ul><img src='/img/cities/australia/melbourne_transporte.jpg' alt='Transporte en Melbourne' />"
     },
     {
       "titulo": "Consejos prácticos",
-      "html": "<ul><li><strong>Idioma:</strong> inglés.</li><li><strong>Moneda:</strong> dólar australiano (AUD).</li><li><strong>Clima:</strong> subtropical cálido; verano húmedo, invierno suave.</li><li><strong>Seguridad:</strong> ciudad segura y tranquila.</li><li><strong>Enchufes:</strong> tipo I, 230V.</li></ul><p>Revisa nuestros consejos prácticos para viajar a Brisbane.</p><img src='/img/cities/australia/brisbane_consejos.jpg' alt='Consejos para Brisbane' />"
+      "html": "<ul><li><strong>Idioma:</strong> inglés.</li><li><strong>Moneda:</strong> dólar australiano (AUD).</li><li><strong>Clima:</strong> oceánico templado, tiempo cambiante.</li><li><strong>Seguridad:</strong> ciudad muy segura.</li><li><strong>Enchufes:</strong> tipo I, 230V.</li></ul><img src='/img/cities/australia/melbourne_consejos.jpg' alt='Consejos para Melbourne' />"
     },
     {
       "titulo": "Excursiones cercanas",
-      "html": "<p>Brisbane es un gran punto de partida para explorar lugares cercanos:</p><ul><li><strong>Gold Coast:</strong> playas, surf y parques temáticos.</li><li><strong>Sunshine Coast:</strong> relax y naturaleza.</li><li><strong>Moreton Island:</strong> snorkel, dunas y delfines.</li><li><strong>Springbrook National Park:</strong> cascadas y senderismo.</li></ul><p>Consulta nuestras escapadas desde Brisbane.</p><img src='/img/cities/australia/brisbane_escapadas.jpg' alt='Excursiones desde Brisbane' />"
+      "html": "<p>Melbourne es la base perfecta para explorar:</p><ul><li><strong>Great Ocean Road:</strong> una de las rutas costeras más famosas del mundo.</li><li><strong>Phillip Island:</strong> pingüinos y naturaleza.</li><li><strong>Dandenong Ranges:</strong> bosques, trenes antiguos y vistas panorámicas.</li><li><strong>Yarra Valley:</strong> región vinícola con bodegas y paisajes.</li></ul><img src='/img/cities/australia/melbourne_escapadas.jpg' alt='Excursiones desde Melbourne' />"
     },
     {
       "titulo": "Preguntas frecuentes",
-      "html": "<ul><li><strong>¿Cuántos días necesito para ver Brisbane?</strong> 2 a 3 días es lo ideal.</li><li><strong>¿Es fácil moverse sin coche?</strong> Sí, con transporte público y ferris.</li><li><strong>¿Se puede nadar en el río?</strong> No está permitido, pero South Bank tiene una playa artificial excelente.</li><li><strong>¿Cuál es la mejor época para ir?</strong> Entre marzo y mayo o de septiembre a noviembre.</li><li><strong>¿Se puede pagar todo con tarjeta?</strong> Sí, incluso en mercados o buses.</li></ul><p>Consulta nuestras FAQs sobre Brisbane.</p>"
+      "html": "<ul><li><strong>¿Cuántos días necesito?</strong> 3 a 4 días son ideales.</li><li><strong>¿Se puede recorrer a pie?</strong> Sí, sobre todo el centro.</li><li><strong>¿Mejor época para visitar?</strong> Primavera y otoño (sept-nov y mar-may).</li><li><strong>¿Vale la pena la Great Ocean Road?</strong> ¡Sí! Una excursión imprescindible.</li><li><strong>¿Es caro?</strong> Moderadamente, pero hay muchas actividades gratuitas.</li></ul>"
     },
     {
       "titulo": "Conclusión",
-      "html": "<p>Brisbane es sol, cultura y naturaleza. Ya sea que la explores como destino principal o como parte de una ruta por Australia, es una ciudad que sorprende por su equilibrio entre modernidad y relax. Ideal para quienes buscan una experiencia australiana completa, con buen clima y calidad de vida.</p><p>📌 Comienza tu aventura con nuestros itinerarios, mapas y guías locales para disfrutar Brisbane al máximo.</p><img src='/img/cities/australia/brisbane_conclusion.jpg' alt='Brisbane desde el aire' />"
+      "html": "<p>Melbourne es una ciudad para perderse: arte, cultura, gastronomía y naturaleza urbana. Perfecta para viajeros que buscan una experiencia auténtica, con ritmo propio. Recórrela sin prisa y déjate sorprender por cada rincón.</p><img src='/img/cities/australia/melbourne_conclusion.jpg' alt='Melbourne desde el aire' />"
     }
   ]
 }
