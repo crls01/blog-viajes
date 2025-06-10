@@ -13,7 +13,6 @@ import Favorites from './pages/Favorites';
 import LoginPage from './pages/LoginPage';
 import NotFound from './pages/NotFound';
 import TipPage from './pages/TipPage'; 
-import { SpeedInsights } from "@vercel/speed-insights/next"
 
 
 function App() {
@@ -34,7 +33,6 @@ function App() {
           <Route path="*" element={<NotFound />} />
           <Route path="/tips-generales" element={<TipsGenerales />} />
         </Routes>
-        <SpeedInsights />
       </main>
       <Footer />
     </>
