@@ -1,5 +1,5 @@
 const tipsViajes = {
-    titulo: "Consejos y Tips para Viajar: Todo lo que Necesitas Saber",
+    titulo: "",
     descripcion: "Guía definitiva para viajeros: más de 5000 palabras de consejos prácticos, trucos secretos y claves para viajar mejor, más barato y sin complicaciones. Planifica como un experto, ahorra como un local y vive experiencias únicas en cada destino.",
     img: "/img/tips-viajes.jpg",
     secciones: [

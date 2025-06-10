@@ -13,7 +13,7 @@ import Favorites from './pages/Favorites';
 import LoginPage from './pages/LoginPage';
 import NotFound from './pages/NotFound';
 import TipPage from './pages/TipPage'; 
-import { SpeedInsights } from "@vercel/speed-insights/react"
+import SobreNosotros from './pages/SobreNosotros';
 
 
 function App() {
@@ -33,7 +33,8 @@ function App() {
           <Route path="/:tipId" element={<TipPage />} />  
           <Route path="*" element={<NotFound />} />
           <Route path="/tips-generales" element={<TipsGenerales />} />
-          <SpeedInsights />
+          <Route path="/sobre-nosotros" element={<SobreNosotros />} />
+          {/* Puedes agregar más rutas aquí según sea necesario */}
         </Routes>
       </main>
       <Footer />
