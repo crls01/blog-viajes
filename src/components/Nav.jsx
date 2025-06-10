@@ -104,7 +104,7 @@ const Navbar = () => {
         </li>
         <li className="nav-item"><NavLink to="/tips-generales" onClick={closeMenus}>Consejos</NavLink></li>
         <li className="nav-item"><NavLink to="/sobre-nosotros" onClick={closeMenus}>Sobre nosotros</NavLink></li>
-        <li className="nav-item"><NavLink to="/contacto" onClick={closeMenus}>Contacto</NavLink></li>
+        {/* <li className="nav-item"><NavLink to="/contacto" onClick={closeMenus}>Contacto</NavLink></li> */}
       </ul>
     </nav>
   );

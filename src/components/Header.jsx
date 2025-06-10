@@ -10,7 +10,7 @@ export default function Header() {
                 <img src="/logo.png" alt="" className="header-logo" />
             </div>
             <div className="header-right">
-                <button className="btn-login">Iniciar Sesión</button>
+                {/* <button className="btn-login">Iniciar Sesión</button> */}
             </div>
         </header>
     );
