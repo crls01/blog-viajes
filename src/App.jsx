@@ -21,7 +21,7 @@ function App() {
     <>
       <Header />
       <Nav />
-      <ScrollToTop /> 
+      <ScrollToTop />
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
@@ -34,6 +34,7 @@ function App() {
           <Route path="*" element={<NotFound />} />
           <Route path="/tips-generales" element={<TipsGenerales />} />
         </Routes>
+        <SpeedInsights />
       </main>
       <Footer />
     </>
