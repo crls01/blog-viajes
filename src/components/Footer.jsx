@@ -6,8 +6,8 @@ export default function Footer() {
             <div className="footer-content">
                 <div className="footer-section">
                     <h4>Contacto</h4>
-                    <p>Email: contacto@tusitio.com</p>
-                    <p>Teléfono: +34 123 456 789</p>
+                    <p>Email: contacto@planyourtrip.com</p>
+                    <p>Teléfono: +34 652 051 835</p>
                 </div>
                 <div className="footer-section">
                     <h4>Síguenos</h4>
@@ -21,8 +21,8 @@ export default function Footer() {
                     <h4>Enlaces rápidos</h4>
                     <ul>
                         <li><a href="/">Inicio</a></li>
-                        <li><a href="/about">Sobre nosotros</a></li>
-                        <li><a href="/contact">Contacto</a></li>
+                        <li><a href="/destinos">Destinos</a></li>
+                        <li><a href="/sobre-nosotros">Sobre Nosotros</a></li>
                     </ul>
                 </div>
             </div>
