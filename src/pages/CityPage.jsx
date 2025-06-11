@@ -53,7 +53,7 @@ export default function CityPage() {
         ))}
       </div>
 
-      {/* ✅ Sidebar dinámico para cualquier país */}
+      {/* Sidebar  */}
       {otrasCiudades.length > 0 && (
         <aside className="sidebar-right">
           {otrasCiudades.map((ciudad, i) => (
